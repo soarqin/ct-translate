@@ -6,9 +6,7 @@ import argparse
 import sys
 import os
 
-exclude_map = {
-    '[ ParamPatcher ]': True,
-}
+exclude_strings = {}
 
 def replace_descriptions_in_ct(input_file, strings_dir, existing_strings):
     """
@@ -48,7 +46,7 @@ def replace_descriptions_in_ct(input_file, strings_dir, existing_strings):
                         drop_down_list_element.text = new_string
 
             # Skip ParamPatcher entries and their children
-            if description_text in exclude_map:
+            if description_text in exclude_strings:
                 return
 
             # Replace description if found in existing_strings
@@ -125,6 +123,13 @@ def main():
     if not os.path.exists(args.strings_dir):
         print(f"错误: 输入文件不存在: {args.strings_dir}")
         sys.exit(1)
+
+    try:
+        with open(os.path.join(args.strings_dir, 'exclude.txt'), 'r', encoding='utf-8') as f:
+            for line in f.readlines():
+                exclude_strings[line.strip()] = True
+    except FileNotFoundError:
+        pass
 
     existing_strings = {}
     strings_file = os.path.join(args.strings_dir, 'strings.txt')

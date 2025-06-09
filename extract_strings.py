@@ -6,7 +6,7 @@ import argparse
 import sys
 import os
 
-exclude_strings = []
+exclude_strings = {}
 
 def extract_descriptions_from_ct(input_file, output_dir, existing_strings):
     """
@@ -153,9 +153,12 @@ def main():
             for line in f.readlines():
                 if line.startswith('< '):
                     existing_strings[line[2:].strip()] = True
-    with open(os.path.join(args.output_dir, 'exclude.txt'), 'r', encoding='utf-8') as f:
-        for line in f.readlines():
-            exclude_strings.append(line.strip())
+    try:
+        with open(os.path.join(args.output_dir, 'exclude.txt'), 'r', encoding='utf-8') as f:
+            for line in f.readlines():
+                exclude_strings[line.strip()] = True
+    except FileNotFoundError:
+        pass
 
     # Extract descriptions
     extract_descriptions_from_ct(args.input_file, args.output_dir, existing_strings)
