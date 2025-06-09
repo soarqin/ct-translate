@@ -1,0 +1,1119 @@
+-1: (Empty)
+310000:Increase max HP
+310100:Increase max FP
+310200:Increase max Stamina
+310400:Increase max HP
+310401:Increase max Stamina
+311000:Increase Discovery
+311100:Increases Runes obtained from defeated enemies
+311500:Increases Stamina recovery speed
+311600:Increases resistance to Hemorrhage
+311601:Increases resistance to Frostbite
+311700:Increases resistance to Poison
+311701:Increases resistance to Scarlet Rot
+311800:Increases resistance to Sleep
+311801:Increases resistance to Madness
+311900:Increases resistance to Instant Death
+312000:Increases resistance to Poison and Scarlet Rot
+312001:Increases resistance to Hemorrhage and Frostbite
+312002:Increases resistance to Sleep and Madness
+312100:Increase Poise
+312300:Increase Skill attack power
+312500:Increase Dexterity
+312501:Increases attack power with successive attacks
+320000:Increases Magic damage
+320001:Lowers Physical damage negation
+320100:Increases Lightning damage
+320101:Lowers Physical damage negation
+320200:Increases Fire damage
+320201:Lowers Physical damage negation
+320300:Increases Holy damage
+320301:Lowers Physical damage negation
+320400:Increases attack power when HP is low
+320500:Increases attack power when HP is full
+320600:Enhances piercing counter attacks
+320700:Increases ability to break guards
+320800:Increases attack power with successive attacks
+320900:Enhances critical hits
+321000:Reduces damage falloff from ranged attacks
+321200:Enhances the final attack of a combo
+321300:Enhances charged attacks
+321500:Enhances ranged attacks
+321600:Increases attack power when enemies are nearby are hemorrhaging
+321700:Increases attack power when enemies nearby are poisoned or rotted
+321800:Enhances jumping attacks
+321900:Enhances roars and breath attacks
+322000:Enhances guard counters
+322100:Enhances throwing pots
+322200:Enhances Perfumer Arts
+330000:Enhances Sorceries
+330400:Enhances Incantations
+330600:Extends the duration of Sorceries and Incantations
+330700:Shortens casting time for Sorceries and Incantations
+330800:Reduces FP cost of Sorceries and Incantations
+330801:Lowers max HP
+330900:Enhances charged Sorceries, Incantations, and Skills
+340000:Increases Physical damage negation
+340100:Increases Magic damage negation
+340200:Increases Fire damage negation
+340300:Increases Lightning damage negation
+340400:Increases Holy damage negation
+340500:Increases non-physical damage negation
+340700:Enhances dodging
+340701:Lowers damage negation
+340800:Increases damage negation when HP is low
+340900:Increases damage negation when HP is full
+341000:Increases Guard Boost
+350000:Increases HP recovered from Sacred Flask
+350200:Gradually restores HP
+350300:Restores HP upon defeating enemies
+350400:Restores HP with successive attacks
+350500:Restores HP on a critical hit
+350600:Restores FP on a critical hit
+360200:Reduces FP cost of Skills
+360700:No Runes dropped or level lost on death
+361100:Restores FP upon defeating enemies
+370000:Increase Discovery
+370001:Increases Runes obtained from defeated enemies
+370002:Gradually decreases HP
+7000000:Vigor +1
+7000001:Vigor +2
+7000002:Vigor +3
+7000090:Increase max HP
+7000100:Mind +1
+7000101:Mind +2
+7000102:Mind +3
+7000190:Increase max FP
+7000200:Endurance +1
+7000201:Endurance +2
+7000202:Endurance +3
+7000290:Increase max Stamina
+7000300:Strength +1
+7000301:Strength +2
+7000302:Strength +3
+7000400:Dexterity +1
+7000401:Dexterity +2
+7000402:Dexterity +3
+7000500:Intelligence +1
+7000501:Intelligence +2
+7000502:Intelligence +3
+7000600:Faith +1
+7000601:Faith +2
+7000602:Faith +3
+7000700:Arcane +1
+7000701:Arcane +2
+7000702:Arcane +3
+7000800:Reduces Art cooldown +1
+7000801:Reduces Art cooldown +2
+7000802:Reduces Art cooldown +3
+7000900:Increases Special Gauge fill rate +1
+7000901:Increases Special Gauge fill rate +2
+7000902:Increases Special Gauge fill rate +3
+7001000:Poise +1
+7001001:Poise +2
+7001002:Poise +3
+7001400:Increases Physical attack power
+7001401:Increases Physical attack power +1
+7001402:Increases Physical attack power +2
+7001403:Increases Physical attack power +3
+7001500:Increases Magic damage
+7001501:Increases Magic damage +1
+7001502:Increases Magic damage +2
+7001600:Increases Fire damage
+7001601:Increases Fire damage +1
+7001602:Increases Fire damage +2
+7001700:Increases Lightning damage
+7001701:Increases Lightning damage +1
+7001702:Increases Lightning damage +2
+7001800:Increases Holy damage
+7001801:Increases Holy damage +1
+7001802:Increases Holy damage +2
+7001900:Applies Poison status effect
+7001901:Applies Poison status effect +1
+7001902:Applies Poison status effect +2
+7002000:Applies Hemorrhage status effect
+7002001:Applies Hemorrhage status effect +1
+7002002:Applies Hemorrhage status effect +2
+7002100:Applies Sleep status effect
+7002101:Applies Sleep status effect +1
+7002102:Applies Sleep status effect +2
+7002103:Applies Sleep status effect +3
+7002200:Applies Instant Death status effect
+7002300:Applies Scarlet Rot status effect
+7002301:Applies Scarlet Rot status effect +1
+7002302:Applies Scarlet Rot status effect +2
+7002400:Applies Frostbite status effect
+7002401:Applies Frostbite status effect +1
+7002402:Applies Frostbite status effect +2
+7002403:Applies Frostbite status effect +3
+7002500:Applies Madness status effect
+7002600:Increases Magic damage negation
+7002700:Increases Fire damage negation
+7002800:Increases Lightning damage negation
+7002900:Increases Holy damage negation
+7003000:Increases resistance to Poison
+7003100:Increases resistance to Hemorrhage
+7003200:Increases resistance to Sleep
+7003300:Increases resistance to Instant Death
+7003400:Increases resistance to Scarlet Rot
+7003500:Increases resistance to Frostbite
+7003600:Increases resistance to Madness
+7005600:Upon taking damage, can recover some HP by attacking
+7006000:Increases stance-breaking ability when two-handing
+7006100:Increases stance-breaking ability when dual-wielding
+7010000:[Guardian] Increases Art effective range
+7010200:Using Sacred Flask also heals nearby allies
+7010500:[Tracker] Using a special move ignites flames in the surrounding area
+7010700:[Duchess] When performing successive attacks with a dagger\n repeats the most recent action on surrounding enemies
+7010800:[Scoundrel] Increases Art damage, but lowers damage negation during Art activation
+7010900:[Avenger] Using a special move, at the cost of your own HP,\n fully restores the HP of nearby allies
+7011000:[Guardian] Extends Art duration
+7011100:[Guardian] Using a special move increases damage negation for nearby allies
+7011200:[Avenger] Using a special move causes a ghostflame explosion
+7011400:[Guardian] Using an Art restores HP of nearby allies
+7011500:[Tracker] Art applies Hemorrhage status effect
+7011600:[Guardian] Charged attack with a halberd creates a whirlwind
+7011700:[Executioner] During a special move, roaring restores HP
+7011900:[Guardian] Art adds Holy damage
+7012000:[Guardian] Using a special move gradually restores HP of nearby allies
+7012200:When HP is low, gradually restores HP for self and nearby allies
+7012300:Increases damage negation when HP is low
+7012400:Heavy attacks create a heatwave in the surrounding area
+7012500:Jumping triggers multiple magic projectiles
+7012600:Increases attack power when allies are nearby
+7012700:Guard counters create a pillar of light
+7020000:[Tracker] Using an Art performs a follow-up attack (Greatswords only)
+7030000:Increases Poise when near a Totem Stele
+7030200:Using consumable items like moss and jerky restores HP
+7030500:[Tracker] After using a special move\n increases attack power and max Stamina, but lowers damage negation
+7030600:Successful guards fill the Special Gauge
+7030700:Become an easier target for enemies when guarding
+7030800:Performing a critical hit fills the Special Gauge faster
+7030900:Applying grease items provides an additional attack power boost
+7031200:[Avenger] Using a special move empowers family and allies
+7031300:[Scoundrel] When hit during an Art\n increases attack power and max Stamina
+7031400:[Tracker] Reduces Art cooldown
+7031600:Successive successful guards increase Guard Boost and deflect strong attacks
+7031700:Successful guards release a shockwave
+7031800:[Duchess] After a backstab critical hit\n becomes harder to see and footsteps are silenced
+7031900:Gain Runes from critical hits
+7032200:Increases attack power when hit
+7032300:[Tracker] Increases attack power when using an Art
+7032400:[Tracker] Fills Special Gauge when using an ability
+7032700:[Duchess] During a special move, defeating an enemy increases attack power
+7032800:[Hermit] Collecting elemental traces triggers a "Magic Zone"
+7032900:[Hermit] When using a special move\n inflicts Hemorrhage on self to increase attack power
+7033000:[Tracker] Increases attack power when using an ability
+7033200:[Tracker] Art uses +1
+7033300:[Guardian] Becomes an easier target for enemies while ability is active
+7033400:[Guardian] While ability is active, reflects a portion of damage taken
+7033600:[Duchess] Extends special move duration
+7033700:When performing a charged attack with a colossal weapon, rocks cling to the weapon
+7033800:[Scoundrel] The final attack of an Art permanently increases attack power
+7033900:[Hermit] Extends Blood Brand duration
+7034000:[Hermit] Collecting four types of elemental traces increases elemental damage
+7034100:[Hermit] Using a special move increases max HP
+7034200:[Executioner] During a special move, increases attack power
+7034300:[Executioner] Enhances ability effects, but lowers resistance to status effects
+7034400:[Executioner] Increases attack power during Art activation\n but attacking reduces HP
+7034500:[Executioner] During Art activation\n when the cursed sword is unleashed, restores HP
+7034600:[Iron Eye] Charged special move applies Poison status effect
+7034700:[Iron Eye] After using a special move, enhances piercing counter attacks
+7034800:Performing a Fire-based critical hit increases max Stamina
+7034900:Performing a critical hit restores HP
+7035000:Performing a critical hit adds Lightning damage
+7035100:Performing a critical hit increases Stamina recovery speed
+7035200:Successive successful guards hardens the body
+7035300:Performing a critical hit creates a cloud of sleep-inducing mist
+7035400:Using the "Cross-legged" gesture builds up the Madness gauge
+7035500:After inflicting the Madness status effect, gradually restores FP
+7035600:Landing during a sprint causes the ground to rupture
+7035700:Switching weapons adds a random elemental damage buff
+7035800:When an elemental damage buff is active, increases elemental damage
+7035900:Switching weapons increases physical attack power
+7036100:Successful guards restore HP
+7040000:Enhances the first attack of a light attack chain
+7040100:Enhances guard counters
+7040200:Enhances critical hits
+7040201:Enhances critical hits +1 (Duke's Night)
+7040290:Enhances critical hits +1
+7040300:Increases throwing pot attack power
+7040400:Increases throwing knife attack power
+7040500:Increases throwing stone attack power
+7043000:Enhances roars and breath attacks
+7043100:Enhances Perfumer Arts
+7043200:Enhances Rock Blaster sorceries
+7043300:Enhances Carian Sword sorceries
+7043400:Enhances Glintblade sorceries
+7043500:Enhances Invisibility sorceries
+7043600:Enhances Crystalian sorceries
+7043700:Enhances Gravity sorceries
+7043800:Enhances Briar sorceries
+7043900:Enhances Night sorceries
+7044000:Enhances Golden Order Fundamentalist incantations
+7044100:Enhances Ancient Dragon Cult incantations of the capital
+7044200:Enhances Fire Giant incantations
+7044300:Enhances Godslayer incantations
+7044400:Enhances Bestial incantations
+7044500:Enhances Frenzied Flame incantations
+7044600:Enhances Dragon Communion incantations
+7050000:Increases Stamina recovery speed for nearby allies (does not include self)
+7050100:Item effects extend to allies
+7060000:Each time a prisoner in an evergaol is defeated, permanently increases attack power
+7060100:Each time a puzzle in a sorcerer's tower is solved, permanently increases max FP
+7060200:Each time a night invader is defeated, increases attack power
+7070000:Reveals the location of hidden treasures on the map
+7080000:Equipping three or more Dagger-class weapons increases attack power
+7080100:Equipping three or more Straight Sword-class weapons increases attack power
+7080200:Equipping three or more Greatsword-class weapons increases attack power
+7080300:Equipping three or more Colossal Sword-class weapons increases attack power
+7080400:Equipping three or more Curved Sword-class weapons increases attack power
+7080500:Equipping three or more Curved Greatsword-class weapons increases attack power
+7080600:Equipping three or more Katana-class weapons increases attack power
+7080700:Equipping three or more Twinblade-class weapons increases attack power
+7080800:Equipping three or more Thrusting Sword-class weapons increases attack power
+7080900:Equipping three or more Heavy Thrusting Sword-class weapons increases attack power
+7081000:Equipping three or more Axe-class weapons increases attack power
+7081100:Equipping three or more Greataxe-class weapons increases attack power
+7081200:Equipping three or more Hammer-class weapons increases attack power
+7081300:Equipping three or more Great Hammer-class weapons increases attack power
+7081400:Equipping three or more Flail-class weapons increases attack power
+7081500:Equipping three or more Spear-class weapons increases attack power
+7081700:Equipping three or more Great Spear-class weapons increases attack power
+7081800:Equipping three or more Halberd-class weapons increases attack power
+7081900:Equipping three or more Reaper-class weapons increases attack power
+7082000:Equipping three or more Fist-class weapons increases attack power
+7082100:Equipping three or more Claw-class weapons increases attack power
+7082200:Equipping three or more Whip-class weapons increases attack power
+7082300:Equipping three or more Colossal Weapon-class weapons increases attack power
+7082400:Equipping three or more Bow-class weapons increases attack power
+7082500:Equipping three or more Staff-class weapons increases max FP
+7082600:Equipping three or more Sacred Seal-class weapons increases max FP
+7082700:Equipping three or more Small Shield-class weapons increases max HP
+7082800:Equipping three or more Medium Shield-class weapons increases max HP
+7082900:Equipping three or more Greatshield-class weapons increases max HP
+7090000:Increases Special Gauge filled when defeating enemies
+7090100:When defeating an enemy, restores HP for nearby allies in addition to self
+7090300:Restores HP when defeating enemies near a Totem Stele
+7100000:Inflicts massive damage on a critical hit against a poisoned enemy
+7100100:Successful attacks restore Stamina
+7100110:Successful attacks restore Stamina +1 (Beast's Night)
+7100190:Successful attacks restore Stamina +1
+7110000:Increases Runes obtained for self and allies
+7120000:Weapon is enchanted with Magic damage on sortie
+7120100:Weapon is enchanted with Fire damage on sortie
+7120101:Weapon is enchanted with Fire damage +1 on sortie
+7120200:Weapon is enchanted with Lightning damage on sortie
+7120300:Weapon is enchanted with Holy damage on sortie
+7120400:Weapon applies Frostbite status effect on sortie
+7120500:Weapon applies Poison status effect on sortie
+7120600:Weapon applies Hemorrhage status effect on sortie
+7120700:Weapon applies Scarlet Rot status effect on sortie
+7120900:Start sortie with a "Stonesword Key"
+7121000:Start sortie with a "Small Satchel"
+7121100:Start sortie with a "Fire Pot"
+7121200:Start sortie with a "Magic Pot"
+7121300:Start sortie with a "Lightning Pot"
+7121400:Start sortie with a "Holy Water Pot"
+7121500:Start sortie with "Poisonbone Darts"
+7121600:Start sortie with "Crystal Darts"
+7121700:Start sortie with "Throwing Daggers"
+7121800:Start sortie with "Cracked Glintstone"
+7121900:Start sortie with "Gravity Stone Chunks"
+7122000:Start sortie with a "Bewitching Branch"
+7122100:Start sortie with a "Spirit Calling Bell"
+7122200:Start sortie with "Fire Grease"
+7122300:Start sortie with "Magic Grease"
+7122400:Start sortie with "Lightning Grease"
+7122500:Start sortie with "Holy Grease"
+7122600:Start sortie with "Shield Grease"
+7122700:On sortie, weapon skill becomes "Glintblade Phalanx" (Usable weapon types only)
+7122800:On sortie, weapon skill becomes "Gravity" (Usable weapon types only)
+7122900:On sortie, weapon skill becomes "Flame Strike" (Usable weapon types only)
+7123000:On sortie, weapon skill becomes "Lava Burst" (Usable weapon types only)
+7123100:On sortie, weapon skill becomes "Thunderbolt" (Usable weapon types only)
+7123200:On sortie, weapon skill becomes "Lightning Slash" (Usable weapon types only)
+7123300:On sortie, weapon skill becomes "Sacred Blade" (Usable weapon types only)
+7123400:On sortie, weapon skill becomes "Prayerful Strike" (Usable weapon types only)
+7123500:On sortie, weapon skill becomes "Poison Mist" (Usable weapon types only)
+7123600:On sortie, weapon skill becomes "Poisonous Moth Flight" (Usable weapon types only)
+7123700:On sortie, weapon skill becomes "Bloody Slash" (Usable weapon types only)
+7123800:On sortie, weapon skill becomes "Seppuku" (Usable weapon types only)
+7123900:On sortie, weapon skill becomes "Chilling Mist" (Usable weapon types only)
+7124000:On sortie, weapon skill becomes "Hoarfrost Stomp" (Usable weapon types only)
+7124100:On sortie, weapon skill becomes "White Shadow's Lure" (Usable weapon types only)
+7124300:On sortie, weapon skill becomes "Endure" (Usable weapon types only)
+7124400:On sortie, weapon skill becomes "Quickstep" (Usable weapon types only)
+7124500:On sortie, weapon skill becomes "Storm Stomp" (Usable weapon types only)
+7124600:On sortie, weapon skill becomes "Determination" (Usable weapon types only)
+7124700:On sortie, weapon skill becomes "Rain of Arrows" (Usable weapon types only)
+7126000:Start sortie with a "Starlight Shard"
+7150000:Successful guard counters grant bonus temporary HP
+7160000:Successful piercing counter attacks restore HP
+7200000:Headshots restore HP
+7200100:Headshots increase stance-breaking ability
+7220000:[Avenger] Empowers self when fighting alongside family
+7230000:Reduces Rune cost of shop purchases during sortie
+7230001:Greatly reduces Rune cost of shop purchases during sortie
+7240000:When taking damage and knocked back, increases Poise and damage negation
+7260000:Enhances attacks against poisoned enemies
+7260200:Enhances attacks against sleeping enemies
+7260300:Enhances attacks against enemies with Scarlet Rot
+7260400:Enhances attacks against frostbitten enemies
+7260600:Attacks against sleeping enemies trigger a magic explosion
+7260700:Becomes invisible when nearby characters are frostbitten
+7260710:Increases attack power when nearby characters are poisoned or rotted
+7260800:Increases attack power when nearby characters are poisoned or rotted (Night of Wisdom)
+7270100:[Iron Eye] Art uses +1
+7280000:[Iron Eye] Extends the duration of exposed weaknesses
+7290000:[Duchess] Increases damage dealt by Arts
+7300000:[Duchess] Using an Art puts enemies to sleep
+7310000:[Scoundrel] Extends special move duration
+7320000:[Avenger] Increases ability activation chance
+7330000:Increases Dagger attack power
+7330100:Increases Straight Sword attack power
+7330200:Increases Greatsword attack power
+7330300:Increases Colossal Sword attack power
+7330400:Increases Curved Sword attack power
+7330500:Increases Curved Greatsword attack power
+7330600:Increases Katana attack power
+7330700:Increases Twinblade attack power
+7330800:Increases Thrusting Sword attack power
+7330900:Increases Heavy Thrusting Sword attack power
+7331000:Increases Axe attack power
+7331100:Increases Greataxe attack power
+7331200:Increases Hammer attack power
+7331300:Increases Great Hammer attack power
+7331400:Increases Flail attack power
+7331500:Increases Spear attack power
+7331600:Increases Pike attack power
+7331700:Increases Great Spear attack power
+7331800:Increases Halberd attack power
+7331900:Increases Reaper attack power
+7332000:Increases Fist attack power
+7332100:Increases Claw attack power
+7332200:Increases Whip attack power
+7332300:Increases Colossal Weapon attack power
+7332400:Increases Bow attack power
+7340000:Attacking with a Dagger restores HP
+7340100:Attacking with a Straight Sword restores HP
+7340200:Attacking with a Greatsword restores HP
+7340300:Attacking with a Colossal Sword restores HP
+7340400:Attacking with a Curved Sword restores HP
+7340500:Attacking with a Curved Greatsword restores HP
+7340600:Attacking with a Katana restores HP
+7340700:Attacking with a Twinblade restores HP
+7340800:Attacking with a Thrusting Sword restores HP
+7340900:Attacking with a Heavy Thrusting Sword restores HP
+7341000:Attacking with an Axe restores HP
+7341100:Attacking with a Greataxe restores HP
+7341200:Attacking with a Hammer restores HP
+7341300:Attacking with a Great Hammer restores HP
+7341400:Attacking with a Flail restores HP
+7341500:Attacking with a Spear restores HP
+7341600:Attacking with a Pike restores HP
+7341700:Attacking with a Great Spear restores HP
+7341800:Attacking with a Halberd restores HP
+7341900:Attacking with a Reaper restores HP
+7342000:Attacking with a Fist weapon restores HP
+7342100:Attacking with a Claw restores HP
+7342200:Attacking with a Whip restores HP
+7342300:Attacking with a Colossal Weapon restores HP
+7342400:Attacking with a Bow restores HP
+7350000:Attacking with a Dagger restores FP
+7350100:Attacking with a Straight Sword restores FP
+7350200:Attacking with a Greatsword restores FP
+7350300:Attacking with a Colossal Sword restores FP
+7350400:Attacking with a Curved Sword restores FP
+7350500:Attacking with a Curved Greatsword restores FP
+7350600:Attacking with a Katana restores FP
+7350700:Attacking with a Twinblade restores FP
+7350800:Attacking with a Thrusting Sword restores FP
+7350900:Attacking with a Heavy Thrusting Sword restores FP
+7351000:Attacking with an Axe restores FP
+7351100:Attacking with a Greataxe restores FP
+7351200:Attacking with a Hammer restores FP
+7351300:Attacking with a Great Hammer restores FP
+7351400:Attacking with a Flail restores FP
+7351500:Attacking with a Spear restores FP
+7351600:Attacking with a Pike restores FP
+7351700:Attacking with a Great Spear restores FP
+7351800:Attacking with a Halberd restores FP
+7351900:Attacking with a Reaper restores FP
+7352000:Attacking with a Fist weapon restores FP
+7352100:Attacking with a Claw restores FP
+7352200:Attacking with a Whip restores FP
+7352300:Attacking with a Colossal Weapon restores FP
+7352400:Attacking with a Bow restores FP
+8000000:Increase max HP
+8010000:Increase max FP
+8010100:Reduces FP consumption
+8020000:Increase max Stamina
+8020100:Reduces Stamina consumption
+8020200:Increases Stamina recovery speed
+8100000:Increases Physical attack power
+8100100:Increases Magic damage
+8100200:Increases Fire damage
+8100300:Increases Lightning damage
+8100400:Increases Holy damage
+8110000:Applies Poison status effect
+8110100:Applies Hemorrhage status effect
+8110200:Applies Sleep status effect
+8110300:Applies Instant Death status effect
+8110400:Applies Scarlet Rot status effect
+8110500:Applies Frostbite status effect
+8110600:Applies Madness status effect
+8110700:Weapon becomes Fire-infused
+8110800:Weapon becomes Magic-infused
+8110900:Weapon becomes Lightning-infused
+8111000:Weapon becomes Holy-infused
+8120000:Increases stance-breaking ability
+8130000:Enhances critical hits
+8140000:Increases ability to break guards
+8150000:Increased damage against [Lifeforms Birthed from Meteors]
+8150100:Increased damage against [Those Who Live in Death]
+8150300:Increased damage against [Dragons]
+8200000:Increases Physical damage negation
+8200100:Increases Magic damage negation
+8200200:Increases Fire damage negation
+8200300:Increases Lightning damage negation
+8200400:Increases Holy damage negation
+8200500:Increases non-physical damage negation
+8210000:Increases resistance to Poison
+8210100:Increases resistance to Hemorrhage
+8210200:Increases resistance to Sleep
+8210300:Increases resistance to Instant Death
+8210400:Increases resistance to Scarlet Rot
+8210500:Increases resistance to Frostbite
+8210600:Increases resistance to Madness
+8220000:Increases Guard Boost
+8220001:Increases Guard Boost +1
+8220002:Increases Guard Boost +2
+8230000:Increase Poise
+8300000:Increases attack power when two-handing
+8300100:Increases stance-breaking ability when two-handing
+8310000:Increases attack power when dual-wielding
+8310100:Increases stance-breaking ability when dual-wielding
+8320000:Enhances the final attack of a combo
+8320100:Enhances charged attacks
+8320200:Increases Poise during heavy attacks
+8320300:Enhances jumping attacks
+8320400:Increases damage negation during charged attacks
+8330000:Enhances Sorceries
+8330100:Enhances Incantations
+8330200:Enhances charged Sorceries
+8330300:Enhances charged Incantations
+8330400:Shortens casting time for Sorceries and Incantations
+8330500:Extends the duration of Sorceries and Incantations
+8330600:Reduces FP cost of Sorceries and Incantations
+8330700:Dragon Communion incantations grant bonus damage vs. [Dragons] to weapon
+8330900:Increases damage negation while casting Sorceries and Incantations
+8340000:Enhances ranged attacks
+8340100:Reduces damage falloff from ranged attacks
+8350000:Increases Skill attack power
+8350100:Increases charged Skill attack power
+8350200:Reduces FP cost of Skills
+8350300:Increases Poise when using a Skill
+8350400:Parrying activates Golden Retaliation
+8360000:Increases Special Gauge fill rate
+8370000:Reduces Art cooldown
+8380000:Enhances roars and breath attacks
+8390000:Enhances throwing pots
+8400000:Enhances Perfumer Arts
+8410000:Enhances dodging ability
+8410100:Dodging causes lightning to strike the surrounding area
+8420000:Enhances guard counters
+8420100:Guard counters trigger a Holy-damage attack
+8420200:Guard counters trigger a summoning attack
+8430000:Enhances piercing counter attacks
+8440000:Increases HP recovered from Sacred Flask
+8440100:Using Sacred Flask also heals nearby allies
+8440200:Using Sacred Flask restores HP over time
+8450000:Sprinting spews lava
+8450100:Sprinting creates an ice storm
+8460000:Walking slowly conceals presence in darkness
+8460100:Walking slowly intensely burns the surrounding area
+8460200:Walking slowly erupts with violent frenzied flame
+8460300:Walking slowly releases cursed spirits
+8460400:Walking slowly calls down a shower of stars
+8460500:Walking slowly summons red lightning
+8500000:Increases Runes obtained from defeated enemies
+8510000:Increase Discovery
+8520000:Enemies are less likely to attack you
+8530000:Periodically creates several glintblades
+8530100:Periodically creates many glintblades
+8530200:Periodically creates a giant glintblade
+8540000:Gradually restores HP
+8600100:Attacks restore HP
+8600200:Attacks restore FP
+8600300:Attacks occasionally inflict Instant Death
+8610000:Successive attacks restore HP
+8610100:Successive attacks restore FP
+8610200:Successive attacks increase attack power
+8610300:Charged attacks deal additional Magic damage
+8610400:Charged attacks deal additional Fire damage
+8610500:Charged attacks deal additional Lightning damage
+8610600:Charged attacks deal additional Holy damage
+8610700:Successive attacks grant a one-time increase to damage negation
+8620000:Taking damage restores FP
+8620100:Taking damage increases damage negation
+8630000:Defeating enemies restores HP
+8630100:Defeating enemies restores FP
+8630200:Defeating multiple enemies releases cursed spirits
+8630300:Defeating multiple enemies creates a bewitching mist
+8630400:Defeating multiple enemies summons vengeful spirits
+8630500:Defeating multiple enemies creates lava
+8630600:Defeating multiple enemies creates a chilling mist
+8630700:Defeating multiple enemies calls down lightning
+8630800:Defeating multiple enemies creates a golden shockwave
+8640000:Critical hits restore HP
+8640100:Critical hits restore FP
+8640200:Critical hits increase damage dealt to the enemy
+8640300:Holy-damage critical hits trigger the Law of Causality
+8640400:Fire-damage critical hits create lava
+8640500:Lightning-damage critical hits activate Lightning Slash
+8640600:Magic-damage critical hits release crystal shards
+8640700:Poison-inflicting critical hits create a toxic mist
+8640800:Hemorrhage-inflicting critical hits create Briars of Punishment
+8640900:Rot-inflicting critical hits release threads of pestilence
+8641000:Frostbite-inflicting critical hits create an ice storm
+8641100:Madness-inflicting critical hits release frenzied flame
+8641200:Death-inflicting critical hits call down death lightning
+8650000:Successful guards restore HP
+8650100:Successful guards restore FP
+8652000:Successful guards increase Poise
+8652100:Successful guards increase damage negation
+8660000:Increases attack power when HP is low
+8660101:Increases damage negation when HP is low
+8660200:Critical hits apply Hemorrhage status effect
+8660300:Creates a sacred domain when HP is low
+8660400:When HP is low, critical hits fully restore HP
+8670000:Increases attack power when HP is full
+8670101:Increases damage negation when HP is full
+8690000:When inflicted with Poison, creates a toxic mist
+8690100:When inflicted with Madness, releases frenzied flame
+8690200:When inflicted with Scarlet Rot, creates a rot mist
+8690300:When inflicted with Frostbite, creates a chilling mist
+8690400:When inflicted with Sleep, creates a soporific mist
+8700000:Increases attack power when inflicted with Poison
+8710000:Increases attack power when inflicted with Hemorrhage
+8720000:Increases attack power when inflicted with Sleep
+8740000:Increases attack power when inflicted with Frostbite
+8750000:Increases attack power when inflicted with Madness
+8880000:Charged slashes create an ice storm
+8880100:Charged slashes release a halo of light
+8880200:Charged slashes spray black flame
+8880300:Charged slashes create a phantom to attack
+8880400:Charged slashes cause a violent fire eruption
+8881000:Charged strikes release a Holy-damage shockwave
+8881100:Charged strikes release magic orbs
+8881200:Charged strikes pull enemies closer
+8881300:Charged strikes release a shockwave
+8881400:Charged strikes create a phantom to attack
+8881500:Charged strikes create lava
+8881600:Charged strikes release bubbles
+8882000:Charged thrusts create a phantom to attack
+8882100:Charged thrusts release lightning
+8882200:Charged thrusts spray strong acid
+8882300:Charged thrusts release threads of pestilence
+8882400:Charged thrusts create a toxic mist
+8882500:Charged thrusts create a soporific mist
+8883000:Attacks create a seeking magic orb
+8883100:Precision shots call down lightning on the point of impact
+8883200:Precision shots create a toxic mist on the point of impact
+8883300:Precision shots create a rot mist on the point of impact
+8883400:Precision shots summon bloodflies to the point of impact
+8884000:While holding guard, increases partial damage negation
+8884100:While holding guard, become invincible
+8884200:While holding guard, creates a sacred domain
+8884300:When stance is broken, activates Endure
+8885000:Using Sacred Flask also restores FP
+8885100:When FP is insufficient, casting a spell restores FP
+8885200:Maintaining guard increases attack power and shortens casting time
+8920100:Increases non-physical attack power
+8921400:Critical hits increase attack power
+8960100:Heavy attack animation changes
+8960200:Jumping heavy attacks create a shockwave
+9021400:Blessing of Night and Flame
+9030900:Blessing of the Dark Moon
+9031000:Supreme Blessing
+9031400:Blasphemous Blessing
+9031500:Blessing of House Marais
+9031700:Blessing of the Golden Order
+9040200:Blessing of Destined Death
+9040500:Blessing of the Starscourge
+9040800:Blessing of Ruin
+9041000:Blessing of Vengeance
+9060400:Blessing of the Dragonlord
+9071000:Blessing of Despair
+9081000:Blessing of the Omen King
+9090200:Invincible Blessing
+9111500:Blessing of the Queen
+9122000:Blasphemous Blessing
+9130300:Blessing of Darkness
+9150400:Blessing of the Golden Lineage
+9151100:Blessing of the Ancestral Spirit
+9160900:Blessing of the Great Ancient Dragon
+9170100:Blessing of the Lord of Blood
+9200600:Blessing of the Giant
+9210600:Blessing of the Flying Dragon
+9230500:Blessing of the First Lord
+9330900:Blessing of the Full Moon
+9420000:Blessing of the General
+9990100:Tracker's Regret
+9990200:Guardian's Regret
+9990300:Iron Eye's Regret
+9990400:Duchess's Regret
+9990500:Scoundrel's Regret
+9990600:Avenger's Regret
+9990700:Hermit's Regret
+9990800:Executioner's Regret
+100:Delicate Ember Scenery
+101:Orderly Ember Scenery
+102:Vast Ember Scenery
+103:Delicate Ember Scenery
+104:Orderly Ember Scenery
+105:Vast Ember Scenery
+106:Delicate Ember Scenery
+107:Orderly Ember Scenery
+108:Vast Ember Scenery
+109:Delicate Droplet Scenery
+110:Orderly Droplet Scenery
+111:Vast Droplet Scenery
+112:Delicate Droplet Scenery
+113:Orderly Droplet Scenery
+114:Vast Droplet Scenery
+115:Delicate Droplet Scenery
+116:Orderly Droplet Scenery
+117:Vast Droplet Scenery
+118:Delicate Radiant Scenery
+119:Orderly Radiant Scenery
+120:Vast Radiant Scenery
+121:Delicate Radiant Scenery
+122:Orderly Radiant Scenery
+123:Vast Radiant Scenery
+124:Delicate Radiant Scenery
+125:Orderly Radiant Scenery
+126:Vast Radiant Scenery
+127:Delicate Serene Scenery
+128:Orderly Serene Scenery
+129:Vast Serene Scenery
+130:Delicate Serene Scenery
+131:Orderly Serene Scenery
+132:Vast Serene Scenery
+133:Delicate Serene Scenery
+134:Orderly Serene Scenery
+135:Vast Serene Scenery
+1000:Delicate Ember Scenery
+1010:Delicate Droplet Scenery
+1020:Delicate Radiant Scenery
+1030:Delicate Serene Scenery
+1040:Orderly Ember Scenery
+1050:Delicate Radiant Scenery
+1060:Orderly Serene Scenery
+1070:Orderly Droplet Scenery
+1080:Orderly Ember Scenery
+1090:Orderly Serene Scenery
+1100:Orderly Serene Scenery
+1110:Orderly Ember Scenery
+1120:Orderly Ember Scenery
+1130:Orderly Serene Scenery
+1140:Orderly Radiant Scenery
+1150:Orderly Radiant Scenery
+1160:Orderly Droplet Scenery
+1170:Orderly Droplet Scenery
+1180:Vast Ember Scenery
+1190:Vast Droplet Scenery
+1200:Vast Serene Scenery
+1210:Vast Serene Scenery
+1220:Vast Radiant Scenery
+1230:Vast Droplet Scenery
+1240:Vast Droplet Scenery
+1250:Vast Ember Scenery
+1260:Vast Ember Scenery
+1270:Vast Serene Scenery
+1400:Vast Droplet Scenery
+1410:Vast Ember Scenery
+1420:Vast Serene Scenery
+1430:Vast Serene Scenery
+1440:Vast Ember Scenery
+1450:Vast Radiant Scenery
+1460:Vast Droplet Scenery
+1470:Vast Radiant Scenery
+1480:Vast Ember Scenery
+1490:Vast Serene Scenery
+1500:Vast Ember Scenery
+1510:Vast Radiant Scenery
+1520:Vast Droplet Scenery
+2000:Night of the Beast
+2001:Dark Night of the Beast
+2010:Night of the Duke
+2011:Dark Night of the Duke
+2020:Night of Wisdom
+2021:Dark Night of Wisdom
+2030:Night of the Deep Sea
+2031:Dark Night of the Deep Sea
+2040:Night of Magic
+2041:Dark Night of Magic
+2050:Night of the Hunter
+2051:Dark Night of the Hunter
+2060:Night of Haze
+2061:Dark Night of Haze
+2100:Night of the King
+10000:Old Pocket Watch
+10001:Dirty Photo Frame
+10002:Cursed Item of the Omen Ogre
+11000:Dark Gray Whetstone
+11001:Tracker's Earring
+11002:Silver Tear
+11003:Delicate Ember Scenery
+11004:Delicate Ember Scenery
+12000:Third Volume of a Book Set
+12001:Stone Pile
+12002:Witch's Brooch
+12003:Shattered Witch's Brooch
+12004:Delicate Radiant Scenery
+12005:Delicate Droplet Scenery
+12006:Delicate Droplet Scenery
+12007:Delicate Serene Scenery
+13000:Finely Crafted Arrowhead
+13001:Cracked Wax Seal
+13002:Blade of Sacred Law
+14000:Golden Dewdrop
+14001:Crown's Crest
+14002:Blessed Iron Coin
+15000:Torn Braided Cord
+15002:Black Claw Necklace
+16000:Blade of Night
+16001:Small Makeup Kit
+16002:Old Miniature Painting
+17000:Shard of Night
+17001:Trace of Night
+17002:Bonelike Stone
+18000:Blessed Flower
+18001:Golden Seed Husk
+18002:Golden Sprout
+20000:Delicate Ember Scenery
+20001:Orderly Ember Scenery
+20002:Vast Ember Scenery
+20003:Delicate Ember Scenery
+20004:Orderly Ember Scenery
+20005:Vast Ember Scenery
+20006:Delicate Ember Scenery
+20007:Orderly Ember Scenery
+20008:Vast Ember Scenery
+20009:Delicate Droplet Scenery
+20010:Orderly Droplet Scenery
+20011:Vast Droplet Scenery
+20012:Delicate Droplet Scenery
+20013:Orderly Droplet Scenery
+20014:Vast Droplet Scenery
+20015:Delicate Droplet Scenery
+20016:Orderly Droplet Scenery
+20017:Vast Droplet Scenery
+20018:Delicate Radiant Scenery
+20019:Orderly Radiant Scenery
+20020:Vast Radiant Scenery
+20021:Delicate Radiant Scenery
+20022:Orderly Radiant Scenery
+20023:Vast Radiant Scenery
+20024:Delicate Radiant Scenery
+20025:Orderly Radiant Scenery
+20026:Vast Radiant Scenery
+20027:Delicate Serene Scenery
+20028:Orderly Serene Scenery
+20029:Vast Serene Scenery
+20030:Delicate Serene Scenery
+20031:Orderly Serene Scenery
+20032:Vast Serene Scenery
+20033:Delicate Serene Scenery
+20034:Orderly Serene Scenery
+20035:Vast Serene Scenery
+1000000:Delicate Ember Scenery
+1000001:Orderly Ember Scenery
+1000002:Vast Ember Scenery
+1000010:Delicate Ember Scenery
+1000011:Orderly Ember Scenery
+1000012:Vast Ember Scenery
+1000020:Delicate Ember Scenery
+1000021:Orderly Ember Scenery
+1000022:Vast Ember Scenery
+1000100:Delicate Droplet Scenery
+1000101:Orderly Droplet Scenery
+1000102:Vast Droplet Scenery
+1000110:Delicate Droplet Scenery
+1000111:Orderly Droplet Scenery
+1000112:Vast Droplet Scenery
+1000120:Delicate Droplet Scenery
+1000121:Orderly Droplet Scenery
+1000122:Vast Droplet Scenery
+1000200:Delicate Radiant Scenery
+1000201:Orderly Radiant Scenery
+1000202:Vast Radiant Scenery
+1000210:Delicate Radiant Scenery
+1000211:Orderly Radiant Scenery
+1000212:Vast Radiant Scenery
+1000220:Delicate Radiant Scenery
+1000221:Orderly Radiant Scenery
+1000222:Vast Radiant Scenery
+1000300:Delicate Serene Scenery
+1000301:Orderly Serene Scenery
+1000302:Vast Serene Scenery
+1000310:Delicate Serene Scenery
+1000311:Orderly Serene Scenery
+1000312:Vast Serene Scenery
+1000320:Delicate Serene Scenery
+1000321:Orderly Serene Scenery
+1000322:Vast Serene Scenery
+1001000:Delicate Ember Scenery
+1001001:Orderly Ember Scenery
+1001002:Vast Ember Scenery
+1001010:Delicate Ember Scenery
+1001011:Orderly Ember Scenery
+1001012:Vast Ember Scenery
+1001020:Delicate Ember Scenery
+1001021:Orderly Ember Scenery
+1001022:Vast Ember Scenery
+1001100:Delicate Droplet Scenery
+1001101:Orderly Droplet Scenery
+1001102:Vast Droplet Scenery
+1001110:Delicate Droplet Scenery
+1001111:Orderly Droplet Scenery
+1001112:Vast Droplet Scenery
+1001120:Delicate Droplet Scenery
+1001121:Orderly Droplet Scenery
+1001122:Vast Droplet Scenery
+1001200:Delicate Radiant Scenery
+1001201:Orderly Radiant Scenery
+1001202:Vast Radiant Scenery
+1001210:Delicate Radiant Scenery
+1001211:Orderly Radiant Scenery
+1001212:Vast Radiant Scenery
+1001220:Delicate Radiant Scenery
+1001221:Orderly Radiant Scenery
+1001222:Vast Radiant Scenery
+1001300:Delicate Serene Scenery
+1001301:Orderly Serene Scenery
+1001302:Vast Serene Scenery
+1001310:Delicate Serene Scenery
+1001311:Orderly Serene Scenery
+1001312:Vast Serene Scenery
+1001320:Delicate Serene Scenery
+1001321:Orderly Serene Scenery
+1001322:Vast Serene Scenery
+1002000:Delicate Ember Scenery
+1002001:Orderly Ember Scenery
+1002002:Vast Ember Scenery
+1002010:Delicate Ember Scenery
+1002011:Orderly Ember Scenery
+1002012:Vast Ember Scenery
+1002020:Delicate Ember Scenery
+1002021:Orderly Ember Scenery
+1002022:Vast Ember Scenery
+1002100:Delicate Droplet Scenery
+1002101:Orderly Droplet Scenery
+1002102:Vast Droplet Scenery
+1002110:Delicate Droplet Scenery
+1002111:Orderly Droplet Scenery
+1002112:Vast Droplet Scenery
+1002120:Delicate Droplet Scenery
+1002121:Orderly Droplet Scenery
+1002122:Vast Droplet Scenery
+1002200:Delicate Radiant Scenery
+1002201:Orderly Radiant Scenery
+1002202:Vast Radiant Scenery
+1002210:Delicate Radiant Scenery
+1002211:Orderly Radiant Scenery
+1002212:Vast Radiant Scenery
+1002220:Delicate Radiant Scenery
+1002221:Orderly Radiant Scenery
+1002222:Vast Radiant Scenery
+1002300:Delicate Serene Scenery
+1002301:Orderly Serene Scenery
+1002302:Vast Serene Scenery
+1002310:Delicate Serene Scenery
+1002311:Orderly Serene Scenery
+1002312:Vast Serene Scenery
+1002320:Delicate Serene Scenery
+1002321:Orderly Serene Scenery
+1002322:Vast Serene Scenery
+1003000:Delicate Ember Scenery
+1003001:Orderly Ember Scenery
+1003002:Vast Ember Scenery
+1003010:Delicate Ember Scenery
+1003011:Orderly Ember Scenery
+1003012:Vast Ember Scenery
+1003020:Delicate Ember Scenery
+1003021:Orderly Ember Scenery
+1003022:Vast Ember Scenery
+1003100:Delicate Droplet Scenery
+1003101:Orderly Droplet Scenery
+1003102:Vast Droplet Scenery
+1003110:Delicate Droplet Scenery
+1003111:Orderly Droplet Scenery
+1003112:Vast Droplet Scenery
+1003120:Delicate Droplet Scenery
+1003121:Orderly Droplet Scenery
+1003122:Vast Droplet Scenery
+1003200:Delicate Radiant Scenery
+1003201:Orderly Radiant Scenery
+1003202:Vast Radiant Scenery
+1003210:Delicate Radiant Scenery
+1003211:Orderly Radiant Scenery
+1003212:Vast Radiant Scenery
+1003220:Delicate Radiant Scenery
+1003221:Orderly Radiant Scenery
+1003222:Vast Radiant Scenery
+1003300:Delicate Serene Scenery
+1003301:Orderly Serene Scenery
+1003302:Vast Serene Scenery
+1003310:Delicate Serene Scenery
+1003311:Orderly Serene Scenery
+1003312:Vast Serene Scenery
+1003320:Delicate Serene Scenery
+1003321:Orderly Serene Scenery
+1003322:Vast Serene Scenery
+1004000:Delicate Ember Scenery
+1004001:Orderly Ember Scenery
+1004002:Vast Ember Scenery
+1004010:Delicate Ember Scenery
+1004011:Orderly Ember Scenery
+1004012:Vast Ember Scenery
+1004020:Delicate Ember Scenery
+1004021:Orderly Ember Scenery
+1004022:Vast Ember Scenery
+1004100:Delicate Droplet Scenery
+1004101:Orderly Droplet Scenery
+1004102:Vast Droplet Scenery
+1004110:Delicate Droplet Scenery
+1004111:Orderly Droplet Scenery
+1004112:Vast Droplet Scenery
+1004120:Delicate Droplet Scenery
+1004121:Orderly Droplet Scenery
+1004122:Vast Droplet Scenery
+1004200:Delicate Radiant Scenery
+1004201:Orderly Radiant Scenery
+1004202:Vast Radiant Scenery
+1004210:Delicate Radiant Scenery
+1004211:Orderly Radiant Scenery
+1004212:Vast Radiant Scenery
+1004220:Delicate Radiant Scenery
+1004221:Orderly Radiant Scenery
+1004222:Vast Radiant Scenery
+1004300:Delicate Serene Scenery
+1004301:Orderly Serene Scenery
+1004302:Vast Serene Scenery
+1004310:Delicate Serene Scenery
+1004311:Orderly Serene Scenery
+1004312:Vast Serene Scenery
+1004320:Delicate Serene Scenery
+1004321:Orderly Serene Scenery
+1004322:Vast Serene Scenery
+1005000:Delicate Ember Scenery
+1005001:Orderly Ember Scenery
+1005002:Vast Ember Scenery
+1005010:Delicate Ember Scenery
+1005011:Orderly Ember Scenery
+1005012:Vast Ember Scenery
+1005020:Delicate Ember Scenery
+1005021:Orderly Ember Scenery
+1005022:Vast Ember Scenery
+1005100:Delicate Droplet Scenery
+1005101:Orderly Droplet Scenery
+1005102:Vast Droplet Scenery
+1005110:Delicate Droplet Scenery
+1005111:Orderly Droplet Scenery
+1005112:Vast Droplet Scenery
+1005120:Delicate Droplet Scenery
+1005121:Orderly Droplet Scenery
+1005122:Vast Droplet Scenery
+1005200:Delicate Radiant Scenery
+1005201:Orderly Radiant Scenery
+1005202:Vast Radiant Scenery
+1005210:Delicate Radiant Scenery
+1005211:Orderly Radiant Scenery
+1005212:Vast Radiant Scenery
+1005220:Delicate Radiant Scenery
+1005221:Orderly Radiant Scenery
+1005222:Vast Radiant Scenery
+1005300:Delicate Serene Scenery
+1005301:Orderly Serene Scenery
+1005302:Vast Serene Scenery
+1005310:Delicate Serene Scenery
+1005311:Orderly Serene Scenery
+1005312:Vast Serene Scenery
+1005320:Delicate Serene Scenery
+1005321:Orderly Serene Scenery
+1005322:Vast Serene Scenery
+1006000:Delicate Ember Scenery
+1006001:Orderly Ember Scenery
+1006002:Vast Ember Scenery
+1006010:Delicate Ember Scenery
+1006011:Orderly Ember Scenery
+1006012:Vast Ember Scenery
+1006020:Delicate Ember Scenery
+1006021:Orderly Ember Scenery
+1006022:Vast Ember Scenery
+1006100:Delicate Droplet Scenery
+1006101:Orderly Droplet Scenery
+1006102:Vast Droplet Scenery
+1006110:Delicate Droplet Scenery
+1006111:Orderly Droplet Scenery
+1006112:Vast Droplet Scenery
+1006120:Delicate Droplet Scenery
+1006121:Orderly Droplet Scenery
+1006122:Vast Droplet Scenery
+1006200:Delicate Radiant Scenery
+1006201:Orderly Radiant Scenery
+1006202:Vast Radiant Scenery
+1006210:Delicate Radiant Scenery
+1006211:Orderly Radiant Scenery
+1006212:Vast Radiant Scenery
+1006220:Delicate Radiant Scenery
+1006221:Orderly Radiant Scenery
+1006222:Vast Radiant Scenery
+1006300:Delicate Serene Scenery
+1006301:Orderly Serene Scenery
+1006302:Vast Serene Scenery
+1006310:Delicate Serene Scenery
+1006311:Orderly Serene Scenery
+1006312:Vast Serene Scenery
+1006320:Delicate Serene Scenery
+1006321:Orderly Serene Scenery
+1006322:Vast Serene Scenery
+1007000:Delicate Ember Scenery
+1007001:Orderly Ember Scenery
+1007002:Vast Ember Scenery
+1007010:Delicate Ember Scenery
+1007011:Orderly Ember Scenery
+1007012:Vast Ember Scenery
+1007020:Delicate Ember Scenery
+1007021:Orderly Ember Scenery
+1007022:Vast Ember Scenery
+1007100:Delicate Droplet Scenery
+1007101:Orderly Droplet Scenery
+1007102:Vast Droplet Scenery
+1007110:Delicate Droplet Scenery
+1007111:Orderly Droplet Scenery
+1007112:Vast Droplet Scenery
+1007120:Delicate Droplet Scenery
+1007121:Orderly Droplet Scenery
+1007122:Vast Droplet Scenery
+1007200:Delicate Radiant Scenery
+1007201:Orderly Radiant Scenery
+1007202:Vast Radiant Scenery
+1007210:Delicate Radiant Scenery
+1007211:Orderly Radiant Scenery
+1007212:Vast Radiant Scenery
+1007220:Delicate Radiant Scenery
+1007221:Orderly Radiant Scenery
+1007222:Vast Radiant Scenery
+1007300:Delicate Serene Scenery
+1007301:Orderly Serene Scenery
+1007302:Vast Serene Scenery
+1007310:Delicate Serene Scenery
+1007311:Orderly Serene Scenery
+1007312:Vast Serene Scenery
+1007320:Delicate Serene Scenery
+1007321:Orderly Serene Scenery
+1007322:Vast Serene Scenery

@@ -1,0 +1,92 @@
+< [ Enable ] - Elden Ring Nighreign - Hexinton v0.1
+> [ 开启 ] - 艾尔登法环黑夜君临 - Hexinton v0.1
+< Player
+> 玩家
+< Player Id
+> 玩家ID
+< HP
+> 血量
+< Max HP
+> 血量上限
+< FP
+> 专注值
+< Max FP
+> 专注值上限
+< Stamina
+> 精力
+< Max Stamina
+> 精力上限
+< x
+> X
+< Y
+>
+< Z
+>
+< Runes
+> 卢恩
+< Ult Cooldown
+> 绝招冷却时间
+< Skill Cooldown
+> 技艺冷却时间
+< hasSkill?
+> 有技艺?
+< Current Animation
+> 当前动作动画
+< Anim
+>
+< Level
+> 等级
+< 1st Equipped Relic
+> 装备的第一个遗物
+< Attribute 1
+> 词条1
+< Attribute 2
+> 词条2
+< Attribute 3
+> 词条3
+< 2nd Equipped Relic
+> 装备的第二个遗物
+< 3rd Equipped Relic
+> 装备的第三个遗物
+< Features
+> 功能
+< noHitbox
+> 无受击
+< SuperSpeed
+> 超级速度
+< Inf Hp/Sp/Mp
+> 无限血量/专注值/精力
+< NoClip
+> 无过场
+< Inf Skills
+> 无限技艺
+< GoThroughFog
+> 可穿过雾门
+< Uncap FPS
+> 取消FPS限制
+< Inf Items
+> 无限道具
+< Character Builder
+> 角色构建
+< MurkGib
+> 获取暗痕
+< Amount
+> 数量
+< Add
+> 获取
+< Unlock Bosses and Characters
+> 解锁所有Boss和隐藏角色
+< Unlock Dark Souls Skins
+> 解锁黑魂系列皮肤
+< Unlock Volcano
+> 解锁特异地形：火山口
+< Unlock Mountaintop
+> 解锁特异地形：山顶
+< Unlock The Rotted Woods
+> 解锁特异地形：腐败森林
+< Unlock Noklateo, the Shrouded City
+> 解锁特异地形：隐城
+< Data
+> 数据
+< [ Support Discord ]
+> [ 加入Discord支持我们 ]
