@@ -1,2 +1,3 @@
-[ ParamPatcher ]
+[ Param Patcher ]
 Save changes/Edit More Properties with ParamPatcher
+[Character Spawner]

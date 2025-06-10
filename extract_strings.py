@@ -9,10 +9,6 @@ import os
 exclude_strings = {}
 
 
-def replace_invalid_chars(text):
-    return "".join(c if c.isalnum() else "_" for c in text)
-
-
 def extract_descriptions_from_ct(input_file, output_dir):
     """
     Extract all Description strings from CheatEntry elements in a .ct file
@@ -121,7 +117,7 @@ def extract_descriptions_from_ct(input_file, output_dir):
 
         # Write unique descriptions to output file
         if len(unique_descriptions) > 0:
-            with open(descriptions_output_file, "a+", encoding="utf-8") as f:
+            with open(descriptions_output_file, "a", encoding="utf-8") as f:
                 for description in unique_descriptions:
                     f.write(f"< {description}\n")
                     f.write("> \n")
@@ -136,7 +132,7 @@ def extract_descriptions_from_ct(input_file, output_dir):
                 unique_dropdownlists.append(dropdownlist)
 
         if len(dropdownlists) > 0:
-            with open(dropdownlists_output_file, "a+", encoding="utf-8") as f:
+            with open(dropdownlists_output_file, "a", encoding="utf-8") as f:
                 for dropdownlist in unique_dropdownlists:
                     f.write(f"\n<<<<<\n{dropdownlist}\n=====\n\n>>>>>\n")
 

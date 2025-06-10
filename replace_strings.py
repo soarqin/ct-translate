@@ -7,10 +7,6 @@ import sys
 import os
 
 
-def replace_invalid_chars(text):
-    return "".join(c if c.isalnum() else "_" for c in text)
-
-
 def replace_descriptions_in_ct(input_file, strings_dir):
     """
     Extract all Description strings from CheatEntry elements in a .ct file
@@ -47,6 +43,13 @@ def replace_descriptions_in_ct(input_file, strings_dir):
                 new_dropdownlist = existing_dropdownlists.get(dropdownlist)
                 if new_dropdownlist is not None and len(new_dropdownlist) > 0:
                     drop_down_list_element.text = new_dropdownlist
+
+            drop_down_list_link_element = cheat_entry.find("DropDownListLink")
+            if drop_down_list_link_element is not None and drop_down_list_link_element.text:
+                dropdownlist_link = drop_down_list_link_element.text
+                new_dropdownlist_link = existing_strings.get(dropdownlist_link)
+                if new_dropdownlist_link is not None and len(new_dropdownlist_link) > 0:
+                    drop_down_list_link_element.text = new_dropdownlist_link
 
             # Replace description if found in existing_strings
             new_string = existing_strings.get(description_text)

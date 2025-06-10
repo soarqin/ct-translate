@@ -1,0 +1,4678 @@
+< [ Enable ]
+> 【开启】
+< Make a Backup of your Save
+> 备份你的存档
+< Give Yourself Items and Runes
+> 获取道具和卢恩
+< These options will only Work if you followed the Tutorial.
+> 请遵循教程使用这些选项
+< ItemGib v2.1 & GigaGib
+> 道具获取 v2.1 & 批量获取
+< ItemGib v2.1 - Add Items Individually 
+> 道具获取 v2.1 - 获取单个道具
+< GigaGib - Add Everything of the Same Type
+> 批量获取 - 获取所有同类别道具
+< Main Game
+> 本体
+< Add All Weapons and Shields
+> 获取所有武器和盾牌
+< Add All Max Level Weapon and Shields
+> 获取所有满级武器和盾牌
+< Add All Armor
+> 获取所有防具
+< Add All Talismans
+> 获取所有护符
+< Add All Crafting Materials
+> 获取所有制作材料
+< Add All Consumables
+> 获取所有消耗品
+< Add All Magic
+> 获取所有法术
+< Add All Ashes of War (Includes Duplicate unlock)
+> 获取所有战灰 (包含解锁复制)
+< unlock
+> 解锁
+< Add All Arrows
+> 获取所有箭矢
+< Add All Smithing Stones and Glovewort
+> 获取所有锻造石和铃兰
+< Add All Bell Bearings
+> 获取所有铃珠
+< Add All Crystal Tear
+> 获取所有灵药露滴
+< Add All Maps/Cookbooks/Whetblades (includes unlock)
+> 获取所有地图/制作书/砥石刀 (包括解锁)
+< Add All Spirit Ashes+0
+> 获取所有+0灵魂骨灰
+< Add All Spirit Ashes+10
+> 获取所有+10灵魂骨灰
+< Add Runes and Remembrances
+> 获取所有道具卢恩和追忆
+< Add All Great Runes 
+> 获取所有大卢恩
+< Add All Key Items (1/1)
+> 获取所有关键道具 (1/1)
+< Add Tailoring Tools
+> 获取裁缝工具
+< Add All Reusables
+> 获取所有可重复使用道具
+< Add All Special Items
+> 获取所有特殊道具
+< Add All Online Items
+> 获取所有联机游戏道具
+< DLC Items
+> DLC道具
+< Add All DLC Weapons and Shields
+> 获取所有DLC武器和盾牌
+< Add All DLC Max level Weapons and Shields
+> 获取所有DLC满级武器和盾牌
+< Add All DLC Armor
+> 获取所有DLC防具
+< Add All DLC Talismans
+> 获取所有DLC护符
+< Add All DLC Crafting Materials
+> 获取所有DLC制作材料
+< Add All DLC Consumables
+> 获取所有DLC消耗品
+< Add All DLC Ashes of War (Includes Duplicate unlock)
+> 获取所有DLC战灰 (包含解锁复制)
+< Add All DLC Arrows
+> 获取所有DLC箭矢
+< Add All DLC Key Items (1/1)
+> 获取所有DLC关键道具 (1/1)
+< Add All DLC Reusables
+> 获取所有DLC可重复使用道具
+< Add All DLC Special Items
+> 获取所有DLC特殊道具
+< Add All DLC Bell Bearings
+> 获取所有DLC铃珠
+< Add All DLC Crystal Tear
+> 获取所有DLC灵药露滴
+< Add All DLC Maps/Cookbooks (includes unlock)
+> 获取所有DLC地图/制作书 (包含解锁)
+< Add All DLC Spirit Ashes+0
+> 获取所有DLC+0灵魂骨灰
+< Add All DLC Spirit Ashes+10
+> 获取所有DLC+10灵魂骨灰
+< Add All DLC Runes and Remembrances
+> 获取所有DLC道具卢恩和追忆
+< Add All DLC Spells
+> 获取所有DLC法术
+< Add Runes
+> 获取卢恩
+< Amount
+> 数量
+< Gib me Runes
+> 获取
+< Rune Multiplier 
+> 卢恩倍率
+< x
+> 
+< Selected Item
+> 选中的道具
+< Item ID (Icon)
+> 道具 ID (图标)
+< Item ID
+> 道具 ID
+< Type
+> 类别
+< x
+> ×
+< Name (do not use)
+> 名字(请勿使用)
+< Level
+> 等级
+< HP
+> 血量
+< FP
+> 专注值
+< SP
+> 精力
+< MaxHP
+> 血量上限
+< BaseMaxHP
+> 基础血量上限
+< MP
+> 专注值
+< MaxMP
+> 专注值上限
+< BaseMaxMP
+> 基础专注值上限
+< MaxSP
+> 精力上限
+< BaseMaxSP
+> 基础精力上限
+< Vigor
+> 生命力
+< Mind
+> 集中力
+< Endurance
+> 耐力
+< Strength
+> 力气
+< Dexterity
+> 灵巧
+< Intelligence
+> 智力
+< Faith
+> 信仰
+< Arcane
+> 感应
+< Immunity (Poison)
+> 免疫力(中毒)
+< Max Immunity (Poison)
+> 免疫力上限(中毒)
+< Immunity (Scarlet Rot)
+> 免疫力(猩红腐败)
+< Max Immunity (Scarlet Rot)
+> 免疫力上限(猩红腐败)
+< Robustness (Hemorrhage)
+> 健壮度(出血)
+< Max Robustness (Hemorrhage)
+> 健壮度上限(出血)
+< Vitality (Deathblight)
+> 抗死度(骤死)
+< Max Vitality (Deathblight)
+> 抗死度上限(骤死)
+< Robustness (Frostbite)
+> 健壮度(冻伤)
+< Max Robustness (Frostbite)
+> 健壮度上限(冻伤)
+< Focus (Sleep)
+> 理智度(催眠)
+< Max Focus (Sleep)
+> 理智度上限(催眠)
+< Focus (Madness)
+> 理智度(发狂)
+< Max Focus (Madness)
+> 理智度上限(发狂)
+< ChrAsm (Edit)
+> ChrAsm(编辑)
+< Armor
+> 防具
+< Hair
+> 头发
+< Immunity
+> 免疫力
+< Robustness
+> 健壮度
+< Vitality
+> 抗死度
+< Focus
+> 理智度
+< White Cipher Ring
+> 白秘文戒指
+< Blue Cipher Ring
+> 蓝秘文戒指
+< Runes Held
+> 持有卢恩
+< Bow
+> 长弓
+< Polite Bow
+> 郑重敬礼
+< My Thanks
+> 致谢
+< Curtsy
+> 屈膝礼
+< Reverential Bow
+> 恭敬敬礼
+< My Lord
+> 吾王啊
+< Warm Welcome
+> 欢迎
+< Wave
+> 挥手
+< Casual Greeting
+> 打招呼
+< Strength!
+> 用力握拳
+< As You Wish
+> 就照你的意思
+< Point Forwards
+> 向前指
+< Point Upwards
+> 向上指
+< Point Downwards
+> 向下指
+< Beckon
+> 过来
+< Calm Down!
+> 冷静点
+< Nod In Thought
+> 点头称是
+< Extreme Repentance
+> 下跪
+< Grovel For Mercy
+> 求饶
+< Rallying Cry
+> 欢呼
+< Heartening Cry
+> 兴奋大吼
+< By My Sword
+> 以剑立誓
+< Hoslow's Oath
+> 霍斯劳立誓
+< Fire Spur Me
+> 愿火焰常在我心
+< The Carian Oath
+> 卡利亚式发誓
+< Jump for Joy
+> 开心到跳起来
+< Triumphant Delight
+> 举手欢呼
+< Fancy Spin
+> 转圈
+< Finger Snap
+> 弹指
+< Dejection
+> 沮丧
+< Patches' Crouch
+> 帕奇坐姿
+< Crossed Legs
+> 盘腿坐
+< Rest
+> 立单膝而坐
+< Sitting Sideways
+> 收拢双腿而坐
+< Dozing Cross-Legged
+> 盘腿熟睡
+< Spread Out
+> 大字躺
+< Fetal Position
+> 蜷曲睡姿
+< Balled Up
+> 缩成一团
+< What Do You Want?
+> 有何贵干？
+< Prayer
+> 祈祷
+< Desperate Prayer
+> 专注的祈祷
+< Rapture
+> 恍惚
+< Erudition
+> 深具睿智
+< Outer Order
+> 外在律法
+< Inner Order
+> 内在律法
+< Golden Order Totality
+> 黄金律法全貌
+< The Ring (Pre-order)
+> 法环之姿(预购)
+< The Ring
+> 法环之姿
+< May the Best Win
+> 期待切磋
+< The Two Fingers
+> 双指
+< Ring of Miquella (Pre-order)
+> 米凯拉法环(预购)
+< Let Us Go Together
+> 伴你同行
+< O Mother
+> 母亲啊
+< Ring of Miquella
+> 米凯拉法环
+< Apparent Age
+> 年龄印象
+< Facial Aesthetic
+> 外貌印象
+< Form Emphasis
+> 轮廓深度
+< Brow Ridge Height
+> 眉骨高度
+< Inner Brow Ridge
+> 眉骨内侧高度
+< Outer Brow Ridge
+> 眉骨外侧高度
+< Cheekbone Height
+> 颧骨高度
+< Cheekbone Depth
+> 颧骨深度
+< Cheekbone Width
+> 颧骨宽度
+< Cheekbone Protrusion
+> 脸颊凹凸
+< Cheeks
+> 脸颊
+< Chin Tip Position
+> 下巴位置
+< Chin Length
+> 下巴长度
+< Chin Protrusion
+> 下巴突出度
+< Chin Depth
+> 下巴深度
+< Chin Size
+> 下巴大小
+< Chin Height
+> 下巴高度
+< Chin Width
+> 下巴宽度
+< Eye Position
+> 眼睛位置
+< Eye Size
+> 眼睛大小
+< Eye Spacing
+> 双眼间隔
+< Nose Size
+> 鼻子所占比例
+< Nose/Forehead Ratio
+> 鼻子与额头的比例
+< Face Protrusion
+> 脸的凹凸
+< Facial Feature Slant
+> 脸部五官倾斜度
+< Forehead Depth
+> 额头高度
+< Forehead Protrusion
+> 额头的凹凸
+< Jaw Protrusion
+> 下颚突出度
+< Lower Jaw
+> 下颚下侧
+< Jaw Contour
+> 下颚轮廓
+< Lip Shape
+> 唇形
+< Lip Size
+> 嘴唇大小
+< Lip Fullness
+> 嘴唇丰厚度
+< Mouth Expression
+> 嘴部表情
+< Lip Protrusion
+> 嘴唇凹凸
+< Lip Thickness
+> 嘴唇厚度
+< Mouth Protrusion
+> 嘴巴凹凸
+< Mouth Slant
+> 嘴形倾斜度
+< Mouth Position
+> 嘴部位置
+< Mouth Width
+> 嘴部宽度
+< Mouth-Chin Distance
+> 嘴部到下巴的距离
+< Nose Ridge Depth
+> 鼻梁深度
+< Nose Ridge Length
+> 鼻梁长度
+< Nose Position
+> 鼻子位置
+< Nose Tip Height
+> 鼻尖高度
+< Nostril Slant
+> 鼻翼倾斜度
+< Nostril Size
+> 鼻翼大小
+< Nostril Width
+> 鼻翼宽度
+< Nose Protrusion
+> 鼻的凹凸
+< Nose Bridge Height
+> 鼻梁上端高度
+< Nose Bridge Width
+> 鼻梁上端宽度
+< Nose Height
+> 鼻子高度
+< Nose Slant
+> 鼻子倾斜度
+< Eyeliner
+> 眼线
+< Lipstick
+> 口红
+< Head
+> 头盔
+< Chest
+> 铠甲
+< Game Options
+> 游戏选项
+< Toggle Auto Lock-On
+> 自动切换锁定目标
+< Auto-Target
+> 自动锁定攻击目标
+< Manual Attack Aiming
+> 手动变更攻击方向
+< Controller Vibration
+> 控制器振动
+< Camera Options
+> 镜头选项
+< Camera X-Axis
+> 镜头左右移动
+< Camera Y-Axis
+> 镜头上下移动
+< Reset Camera Y-Axis
+> 镜头上下角度重置
+< Camera Speed
+> 镜头运镜速度
+< Camera Auto Rotation
+> 镜头自转配置
+< Camera Auto Wall Recovery
+> 镜头回避配置
+< Cinematic Effects
+> 运镜表现
+< Sound and Display
+> 显示及声音配置
+< Display Blood
+> 流血表现
+< Subtitles
+> 字幕显示
+< HUD
+> 量表显示配置
+< Show Tutorials
+> 显示教学
+< HDR
+> 高动态范围成像
+< Brightness
+> 亮度配置
+< Master Volume
+> 音量配置
+< Device for On-Screen Prompts
+> 使用的操作装置
+< Network
+> 联机相关配置
+< Cross-Region Play
+> 跨区域联机匹配
+< Send Summon Sign
+> 召唤记号可见度
+< Voice Chat
+> 语音聊天
+< Display Player Names
+> 其他玩家名称显示配置
+< Launch Setting
+> 联机模式启动配置
+< Data Usage Agreement
+> 游戏分析
+< Controller Settings
+> 控制器配置
+< Key Bindings
+> 键盘配置
+< Mouse Sensitivity
+> 鼠标操作灵敏度
+< Mouse X-Axis
+> 鼠标左右操作
+< Mouse Y-Axis
+> 鼠标上下操作
+< Graphics
+> 画面配置
+< Screen Mode
+> 屏幕方式
+< Resolution (read only)
+> 屏幕分辨率(只读)
+< Ray Tracing Quality
+> 光线追踪品质
+< Advanced Settings
+> 详细配置
+< Antialiasing Quality
+> 反锯齿品质
+< SSAO
+> 屏幕空间环境光遮蔽
+< Depth of Field
+> 景深
+< Motion Blur
+> 动态模糊
+< Shadow Quality
+> 阴影品质
+< Effects Quality
+> 特效品质
+< Volumetric Quality
+> 光影细部呈现品质
+< Reflection Quality
+> 反射呈现品质
+< Water Surface Quality
+> 水面品质
+< Shader Quality
+> 造型品质
+< Global Illumination Quality
+> 全面照明品质
+< Grass Quality
+> 草地品质
+< Add charge to flask
+> 增加使用次数
+< Memorize Spells
+> 记忆
+< Sort Chest
+> 整理木箱
+< Level Up
+> 升级
+< Ashes of War
+> 战灰
+< Wondrous Physick Mix
+> 调配灵药
+< Great Runes
+> 大卢恩
+< Alter Garments
+> 修改服装
+< Rebirth
+> 重新诞生
+< Cosmetics
+> 化妆
+< Cosmetics (Mirror)
+> 化妆(Mirror)
+< Blacksmith
+> 铁匠
+< Smithing Table
+> 锻造台
+< Spirit Tuning
+> 调灵
+< Remembrance Duplication
+> 复制追忆
+< Sell Item
+> 交易（卖出）
+< Roundtable Hold
+> 圆桌厅堂
+< Twin Maiden Husks
+> 孪生老妪
+< Brother Corhyn
+> 圣职人员柯林
+< Power of Remembrance
+> 追忆力量
+< Patches
+> 帕奇
+< Sorceress Sellen
+> 魔法师瑟濂
+< Smithing Master Iji
+> 铁匠伊吉
+< Pidia, Carian Servant
+> 仆人毕迪
+< Gatekeeper Gostoc
+> 门卫葛托克
+< Miriel, Pastor of Vows
+> “结缘牧师”米利耶
+< Study sorcery
+> 学习魔法
+< Study incantations
+> 学习祷告
+< Limgrave
+> 宁姆格福
+< Mistwood Ruins
+> 雾林废墟
+< Saintsbridge
+> 圣人桥
+< Castle Morne Rampart
+> 摩恩城（城墙前方）
+< Isolated Merchant's Shack
+> 隐居商人的破屋
+< Liurnia of the Lakes
+> 湖之利耶尼亚
+< Liurnia Lake Shore
+> 利耶尼亚湖（湖边）
+< Bellum Church
+> 彼鲁姆教堂
+< Altus Plateau
+> 亚坛高原
+< Forest-Spanning Greatbridge
+> 穿林大桥
+< Hermit Merchant's Shack
+> 遁世商人的破屋
+< Caelid
+> 盖利德
+< Astray from Caelid Highway North
+> 盖利德大道北方（偏离大道后）
+< Southern Aeonia Swamp Bank
+> 艾奥尼亚沼泽（南岸）
+< Ainsel River
+> 安瑟尔河
+< Uhl Palace Ruins
+> 乌鲁王朝遗迹
+< Dragon Communion
+> 龙飨
+< Church of Dragon Communion (Limgrave)
+> 龙飨教堂(宁姆格福)
+< Cathedral of Dragon Communion (Caelid)
+> 龙飨大教堂(盖利德)
+< Vagabond
+> 流浪骑士
+< Warrior
+> 剑士
+< Hero
+> 勇者
+< Bandit
+> 盗贼
+< Astrologer
+> 观星者
+< Prophet
+> 预言家
+< Samurai
+> 武士
+< Prisoner
+> 囚犯
+< Confessor
+> 密使
+< Wretch
+> 一贫如洗
+< Immunity Max (Poison)
+> 免疫力上限(中毒)
+< Immunity Max (Scarlet Rot)
+> 免疫力上限(猩红腐败)
+< Focus Max (Sleep)
+> 理智度上限(催眠)
+< Focus Max (Madness)
+> 理智度上限(发狂)
+< Map
+> 地图
+< Magic
+> 魔力
+< KillEverything (Bone Dart)
+> 一击必杀(兽骨飞刀)
+< Weapon buff cycle (Freezing Grease)
+> 武器Buff循环(结冰油脂)
+< Beastman of Faram Azula (Groveside Cave)
+> 法姆·亚兹拉的兽人(近林洞窟)
+< Bell Bearing Hunter (Warmaster's Shack)
+> 铃珠猎人(习战者的破屋)
+< Black Knife Assassin (Deathtouched Catacombs)
+> 黑刀刺客(死亡降临的地下墓地)
+< Bloodhound Knight Darriwil (Forlorn Hound Evergaol)
+> “猎犬骑士”达瑞威尔(无主猎犬的封印监牢)
+< Crucible Knight (Stormhill Evergaol)
+> 熔炉骑士(风暴山丘的封印监牢)
+< Deathbird (Limgrave)
+> 死之鸟(宁姆格福)
+< Demi-Human Chiefs (Coastal Cave)
+> 亚人首领(海岸洞窟)
+< Erdtree Burial Watchdog (Stormfront Catacombs)
+> 归树看门犬(风暴根脚的地下墓地)
+< Flying Dragon Agheel (Limgrave)
+> “飞龙”亚基尔(宁姆格福)
+< Godrick the Grafted
+> “接肢”葛瑞克
+< Grafted Scion (Chapel of Anticipation)
+> “接肢”贵族后裔(候王礼拜堂)
+< Grave Warden Duelist (Murkwater Catacombs)
+> 守墓斗士(蒙流地下墓地)
+< Guardian Golem (Highroad Cave)
+> 魔像守卫(大道下的洞窟)
+< Mad Pumpkin Head (Waypoint Ruins)
+> 发狂南瓜头士兵(驿站街遗迹)
+< Night's Cavalry (Limgrave)
+> 黑夜骑兵(宁姆格福)
+< Patches (Murkwater Cave)
+> 帕奇(蒙流洞窟)
+< Soldier of Godrick
+> 葛瑞克的士兵
+< Stonedigger Troll (Limgrave Tunnels)
+> 挖石山妖(宁姆格福坑道)
+< Tibia Mariner (Summonwater Village)
+> 提比亚的唤声船(水唤村)
+< Tree Sentinel (Limgrave)
+> 大树守卫(宁姆格福)
+< Ulcerated Tree Spirit (Fringefolk Hero's Grave)
+> 腐烂树灵(边境英雄墓地)
+< Ancient Hero of Zamor (Weeping Evergaol)
+> 萨米尔的古英雄(啜泣的封印监牢)
+< Cemetery Shade (Tombsward Catacombs)
+> 墓地影子(灵庙原野地下墓地)
+< Deathbird (Weeping Peninsula)
+> 死之鸟(啜泣半岛)
+< Erdtree Avatar
+> 黄金树的化身
+< Edtree Burial Watchdog (Impaler's Catacombs)
+> 归树看门犬(穿刺地下墓地)
+< Leonine Misbegotten (Morne Moangrave)
+> 狮子混种(摩恩悲叹墓)
+< Miranda the Blighted Bloom (Tombsward Cave)
+> “病花”米兰达(灵庙原野洞窟)
+< Night's Cavalry (Weeping Peninsula)
+> 黑夜骑兵(啜泣半岛)
+< Runebear (Earthbore Cave)
+> 卢恩熊(垂穴洞窟)
+< Scaly Misbegotten (Morne Tunnels)
+> 片鳞混种(摩恩坑道)
+< Adan, Thief of Fire (Malefactor's Evergaol)
+> “盗火”亚当(小偷的封印监牢)
+< Alecto, Black Knife Ringleader (Ringleader's Evergaol)
+> “黑刀之首”亚勒托(刀之首的封印监牢)
+< Bell Bearing Hunter (Church of Vows)
+> 铃珠猎人(结缘教堂)
+< Black Knife Assassin (Black Knife Catacombs)
+> 黑刀刺客(黑刀地下墓地)
+< Bloodhound Knight (Lakeside Crystal Cave)
+> 猎犬骑士(湖旁结晶洞窟)
+< Bols, Carian Knight (Cuckoo's Evergaol)
+> “卡利亚骑士”波尔斯(杜鹃的封印监牢)
+< Cemetery Shade (Black Knife Catacombs)
+> 墓地影子(黑刀地下墓地)
+< Cleanrot Knight (Stillwater Cave)
+> 玛莲妮亚的尊腐骑士(留水洞窟)
+< Crystalian (Raya Lucaria Crystal Tunnel)
+> 结晶人(雷亚卢卡利亚结晶坑道)
+< Crystalian Spear & Crystalian Staff (Academy Crystal Cave)
+> 腐败结晶人（矛） & 腐败结晶人（手杖）(学院结晶洞窟)
+< Death Rite Bird (Liurnia North)
+> 死亡仪式鸟(利耶尼亚北)
+< Deathbird (Liurnia South)
+> 死之鸟(利耶尼亚南)
+< Erdtree Avatar (Liurnia Northeast)
+> 黄金树的化身(利耶尼亚东北)
+< Erdtree Avatar (Liurnia Southwest)
+> 黄金树的化身(利耶尼亚西南)
+< Erdtree Burial Watchdog (Cliffbottom Catacombs)
+> 归树看门犬(断崖下的地下墓地)
+< Glintstone Dragon Adula (Moonlight Altar)
+> “辉石龙”亚杜拉(月光祭坛)
+< Glintstone Dragon Smarag (Liurnia)
+> “辉石龙”史玛拉格(利耶尼亚)
+< Magma Wyrm Makar (Ruin-Strewn Precipice)
+> “熔岩土龙”马卡尔(古遗迹断崖)
+< Night's Cavalry (Liurnia North)
+> 黑夜骑兵(利耶尼亚北)
+< Night's Cavalry (Liurnia South)
+> 黑夜骑兵(利耶尼亚南)
+< Omenkiller (Village of the Albinaurics)
+> 恶兆猎人(白金村)
+< Onyx Lord (Royal Grave Evergaol)
+> 石肤黑王(王室墓地的封印监牢)
+< Red Wolf of Radagon (Raya Lucaria)
+> 拉达冈的红狼(雷亚卢卡利亚学院)
+< Rennala, Queen of the Full Moon
+> “满月女王”蕾娜菈
+< Royal Knight Loretta (Caria Manor)
+> 禁卫骑士罗蕾塔(卡利亚城寨)
+< Royal Revenant (Kingsrealm Ruins)
+> 王室幽魂(王室领地废墟)
+< Spiritcaller Snail (Road's End Catacombs)
+> 唤灵蜗牛(绝路地下墓地)
+< Tibia Mariner (East Liurnia)
+> 提比亚的唤声船(利耶尼亚东)
+< Cemetery Shade (Caelid Catacombs)
+> 墓地影子(盖利德地下墓地)
+< Commander O'Neil (Swamp of Aeonia)
+> 老将欧尼尔(艾奥尼亚沼泽)
+< Crucible Knight & Misbegotten Warrior (Redmane Castle)
+> 熔炉骑士 & 混种战士(红狮子城)
+< Death Rite Bird (Caelid)
+> 死亡仪式鸟(盖利德)
+< Decaying Ekzykes (Caelid)
+> “步入腐败”艾格基斯(盖利德)
+< Erdtree Burial Watchdogs (Minor Erdtree Catacombs)
+> 归树看门犬(小黄金树地下墓地)
+< Fallingstar Beast (Sellia Crystal Tunnel)
+> 坠星兽物(瑟利亚结晶坑道)
+< Frenzied Duelist (Gaol Cave)
+> 发狂斗士(牢狱洞窟)
+< Mad Pumpkin Heads (Caelem Ruins)
+> 发狂南瓜头士兵(奇列姆废墟)
+< Magma Wyrm (Gael Tunnel)
+> 熔岩土龙(盖尔坑道)
+< Night's Cavalry (Caelid)
+> 黑夜骑兵(盖利德)
+< Nox Swordstress and Nox Priest (Sellia, Town of Sorcery)
+> 诺克斯剑士&诺克斯修士(魔法镇瑟利亚)
+< Putrid Avatar (Caelid)
+> 腐败化身(盖利德)
+< Starscourge Radahn
+> “碎星”拉塔恩
+< Battlemage Hugues (Sellia Evergaol)
+> 战场魔法师犹格(瑟利亚的封印监牢)
+< Beastmen of Faram Azula (Dragonbarrow Cave)
+> 法姆·亚兹拉的兽人(龙墓洞窟)
+< Bell Bearing Hunter (Isolated Merchant's Shack)
+> 铃珠猎人(隐居商人的破屋)
+< Black Blade Kindred (Bestial Sanctum)
+> 黑剑眷属(野兽神殿)
+< Cleanrot Knights (Stillwater Cave)
+> 尊腐骑士(留水洞窟)
+< Flying Dragon Greyll (Greyoll's Dragonbarrow)
+> “飞龙”桂雷尔(桂奥尔龙墓)
+< Godskin Apostle (Divine Tower of Caelid)
+> 神皮使徒(盖利德神授塔)
+< Night's Cavalry (Dragonbarrow)
+> 黑夜骑兵(龙墓)
+< Putrid Avatar (Dragonbarrow)
+> 腐败化身(龙墓)
+< Putrid Crystalians (Sellia Hideaway)
+> 腐败结晶人(瑟利亚隐藏洞窟)
+< Putrid Tree Spirit (War-Dead Catacombs)
+> 腐败树灵(英灵地下墓地)
+< Ancient Dragon Lansseax (Altus Plateau)
+> “古龙”兰斯桑克斯(亚坛高原)
+< Ancient Hero of Zamor (Sainted Hero's Grave)
+> 萨米尔的古英雄(尊贵者的英雄墓地)
+< Black Knife Assassin (Sage's Cave)
+> 黑刀刺客(贤者的洞窟)
+< Black Knife Assassin (Sainted Hero's Grave)
+> 黑刀刺客(尊贵者的英雄墓地)
+< Crystalian Spear and Crystalian Ringblade (Altus Tunnel)
+> 结晶人（矛） & 腐败结晶人（圆刃刀）(亚坛坑道)
+< Demi-Human Queen Gilika (Lux Ruins)
+> “亚人女王”姬丽卡(卢克斯废墟)
+< Elemer of the Briar (The Shaded Castle)
+> “铁棘”艾隆梅尔(日荫城)
+< Erdtree Burial Watchdog (Wyndham Catacombs)
+> 归树看门犬(威达姆地下墓地)
+< Fallingstar Beast (Altus Plateau)
+> 坠星兽物(亚坛高原)
+< Godefroy the Grafted (Golden Lineage Evergaol)
+> “接肢”葛孚亚(黄金一族的封印监牢)
+< Godskin Apostle (Dominula, Windmill Village)
+> 神皮使徒(风车村多明努拉)
+< Necromancer Garris (Sage's Cave)
+> 死术师哥瑞斯(贤者的洞窟)
+< Night's Cavalry (Altus Plateau)
+> 黑夜骑兵(亚坛高原)
+< Omenkiller and Miranda the Blighted Bloom (Perfumer's Grotto)
+> 恶兆猎人 & “病花”米兰达(调香师的隐藏洞窟)
+< Perfumer Tricia and Misbegotten Warrior (Unsightly Catacombs)
+> 调香师托莉夏 & 混种战士(丑恶地下墓地)
+< Sanguine Noble (Writheblood Ruins)
+> 鲜血贵族(蠕血废墟)
+< Stonedigger Troll (Old Altus Tunnel)
+> 挖石山妖(旧亚坛坑道)
+< Tibia Mariner (Wyndham Ruins)
+> 提比亚的唤声船(威达姆废墟)
+< Tree Sentinels (Altus Plateau)
+> 大树守卫(亚坛高原)
+< Wormface (Altus Plateau)
+> 蚯蚓脸(亚坛高原)
+< Capital Outskirts
+> 王城外围
+< Bell Bearing Hunter (Hermit Merchant's Shack)
+> 铃珠猎人(遁世商人的破屋)
+< Deathbird (Warmaster's Shack)
+> 死之鸟(习战者的破屋)
+< Draconic Tree Sentinel (Capital Outskirts)
+> 龙装大树守卫(王城外围)
+< Fell Twins (Divine Tower of East Altus)
+> 恶兆之子(东亚坛神授塔)
+< Grave Warden Duelist (Auriza Side Tomb)
+> 守墓斗士(亚雷萨副墓地)
+< Onyx Lord (Sealed Tunnel)
+> 石肤黑王(封印坑道)
+< Esgar, Priest of Blood (Leyndell Catacombs)
+> “鲜血祭司”艾斯加(罗德尔地下墓地)
+< Godfrey, First Elden Lord (Golden Shade)
+> “初始之王”葛孚雷(金色阴影)
+< Mohg, the Omen (Cathedral of the Forsaken)
+> “恶兆之子”蒙格(弃置恶兆的大教堂)
+< Morgott, the Omen King
+> “恶兆王”蒙葛特
+< Mt. Gelmir
+> 格密尔火山
+< Abductor Virgins (Mt. Gelmir)
+> 掳人少女人偶(格密尔火山)
+< Demi-Human Queen Maggie (Hermit Village)
+> “亚人女王”玛姬(遁世者村)
+< Demi-Human Queen Margot (Volano Cave)
+> “亚人女王”玛格(火山洞窟)
+< Full-Grown Fallingstar Beast (Ninth Mt. Gelmir Campsite)
+> 坠星成兽(格密尔火山（第９休息站）)
+< Godskin Noble (Temple of Eiglay)
+> 神皮贵族(艾格蕾教堂)
+< Kindred of Rot (Seethewater Cave)
+> 腐败眷属(沸滚河洞窟)
+< Magma Wyrm (Mt. Gelmir)
+> 熔岩土龙(格密尔火山)
+< Red Wolf of the Champion (Gelmir Hero's Grave)
+> 英雄的红狼(格密尔英雄墓地)
+< Ulcerated Tree Spirit (Mt. Gelmir)
+> 腐烂树灵(格密尔火山)
+< Mountaintops of the Giants
+> 巨人山顶
+< Ancient Hero of Zamor (Giant-Conquring Hero's Grave)
+> 萨米尔的古英雄(巨人战争的英雄墓地)
+< Borealis the Freezing Fog (Freezing Lake)
+> “冻结冰雾”玻列琉斯(结冰湖)
+< Commander Niall (Castle Sol)
+> 老将尼奥(索尔城)
+< Death Rite Bird (Mountaintops of the Giants)
+> 死亡仪式鸟(巨人山顶)
+< Erdtree Avatar (Mountaintops of the Giants)
+> 黄金树的化身(巨人山顶)
+< Fire Giant
+> 火焰巨人
+< Godskin Apostle and Godskin Noble  (Spiritcaller Cave) Spiritcaller Snail
+> 神皮使徒和神皮贵族 & 唤灵蜗牛(唤灵洞窟)
+< Ulcerated Tree Spirit (Giants' Mountaintop Catacombs)
+> 腐烂树灵(巨人山顶地下墓地)
+< Vyke, Knight of the Roundtable (Lord Contender's Evergaol)
+> “圆桌骑士”维克(准王者的封印监牢)
+< Crumbling Farum Azula
+> 逐渐崩毁的法姆·亚兹拉
+< Dragonlord Placidusax
+> “龙王”普拉顿桑克斯
+< Godskin Duo
+> 神皮双人组
+< Forbidden Lands
+> 禁域
+< Black Blade Kindred (Forbidden Lands)
+> 黑剑眷属(禁域)
+< Night's Cavalry (Forbidden Lands)
+> 黑夜骑兵(禁域)
+< Stray Mimic Tear (Hidden Path to the Haligtree)
+> 离群仿身泪滴(通往圣树的密道)
+< Astel, Stars of Darkness (Yelough Anix Tunnel)
+> “黑暗繁星”艾丝缇(耶罗·亚尼斯坑道)
+< Death Rite Bird (Consecrated Snowfield)
+> 死亡仪式鸟(化圣雪原)
+< Great Wyrm Theodorix (Consecrated Snowfield)
+> “大土龙”席欧朵利克(化圣雪原)
+< Misbegotten Crusader (Cave of the Forlorn)
+> 混种圣骑士(安身洞窟)
+< Night's Cavalry Duo (Consecrated Snowfield)
+> 黑夜骑兵(化圣雪原)
+< Putrid Avatar
+> 腐败化身
+< Putrid Grave Warden Duelist (Consecrated Snowfield Catacombs)
+> 腐败守墓斗士(化圣雪原地下墓地)
+< Miquella's Haligtree
+> 米凯拉的圣树
+< Loretta, Knight of the Haligtree
+> “圣树骑士”罗蕾塔
+< Malenia, Goddess of Rot
+> “腐败女神”玛莲妮亚
+< Siofra River
+> 希芙拉河
+< Ancestor Spirit (Siofra River Bank)
+> 祖灵(希芙拉河（岸边）)
+< Dragonkin Soldier (Siofra River Bank)
+> 龙人士兵(希芙拉河（岸边）)
+< Mohg, Lord of Blood
+> “鲜血君王”蒙格
+< Dragonkin Soldier of Nokstella (Ainsel River)
+> 诺克史黛拉的龙人士兵(安瑟尔河)
+< Mimic Tear (Nokron, Eternal City)
+> 仿身泪滴(“永恒之城”诺克隆恩)
+< Regal Ancestor Spirit (Ancestral Woods)
+> 祖灵之王(祖灵森林)
+< Valiant Gargoyles (Siofra Aqueduct)
+> 英雄石像鬼(希芙拉导水桥)
+< Deeproot Depths
+> 深根底层
+< Crucible Knight Siluria
+> “熔炉骑士”志留亚
+< Lichdragon Fortissax
+> “死龙”弗尔桑克斯
+< Lake of Rot
+> 腐败湖
+< Astel, Naturalborn of the Void
+> “黑暗弃子”艾丝缇
+< Dragonkin Soldier (Lake of Rot)
+> 龙人士兵(腐败湖)
+< Godfrey, First Elden Lord (Hoarah Loux)
+> “初始之王”葛孚雷(荷莱·露)
+< Sir Gideon Ofnir, the All-Knowing
+> “百智爵士”基甸·奥夫尼尔
+< Elden Throne
+> 艾尔登宝座
+< Gravesite Plain
+> 墓地平原
+< Knight of the Solitary Gaol
+> 孤牢骑士
+< Chief Bloodfiend
+> 血怪之首
+< Divine Beast Dancing Lion
+> 神兽舞狮
+< Ghostflame Dragon
+> 灵火龙
+< Lamenter
+> 喟叹者
+< Red Bear
+> 红熊
+< Cerulean Coast
+> 青蓝海岸
+< Dancer of Ranah
+> 拉纳舞娘
+< Putrescent Knight
+> 融泥骑士
+< Abyssal Woods
+> 谷底森林
+< Jori, Elder Inquisitor
+> “拷问老者”约里
+< Finger Ruins of Rhia
+> 利亚指头遗迹
+< Jagged Peak Drake
+> 尖刺山的飞龙
+< Scadu Altus
+> 幽影亚坛
+< Black Knight Edredd
+> “黑骑士”艾瑞德
+< Black Knight Garrew
+> “黑骑士”迦鲁
+< Commander Gaius
+> 老将盖乌斯
+< Curseblade Labirith
+> 咒剑士拉比利士
+< Death Knight (Fog Rift Catacombs)
+> 死骑士(雾谷地下墓地)
+< Dryleaf Dane
+> “落叶”丹恩
+< Golden Hippopotamus
+> 黄金河马
+< Messmer the Impaler
+> “穿刺者”梅瑟莫
+< Metyr, Mother of Fingers
+> “指头之母”梅蒂尔
+< Rakshasa
+> 罗刹
+< Ralva the Great Red Bear
+> 大红熊拉鲁瓦
+< Tree Sentinel
+> 大树守卫
+< Charo's Hidden Grave
+> 卡罗隐藏墓地
+< Demi-Human Queen Marigga
+> “亚人女王”玛丽戈
+< Scaduview
+> 望影露台
+< Fallingstar Beast
+> 坠星兽物
+< Scadutree Avatar
+> 幽影树的化身
+< Rauh Base
+> 劳弗下方
+< Romina, Saint of the Bud
+> “花蕾圣女”萝蜜娜
+< Death Knight (Scorpion River Catacombs)
+> 死骑士(蝎河地下墓地)
+< Jagged Peak
+> 尖刺山
+< Ancient Dragon-Man
+> 古龙人
+< Ancient Dragon Senessax
+> “古龙”瑟涅桑克斯
+< Bayle the Dread
+> “狂龙”贝勒
+< Miriel, Pastor of Vows
+> “结缘牧师”米利耶
+< Preceptor Seluvis
+> 魔法教授赛尔维斯
+< Merchant Kalé
+> “流浪商人”咖列
+< Knight Bernahl
+> 骑士贝纳尔
+< Blackguard
+> 流氓
+< Millicent
+> 米莉森
+< Gatekeeper Gostoc
+> 门卫葛托克
+< Iron Whetblade (Heavy)
+> 铁制砥石刀(厚重)
+< Iron Whetblade (Keen)
+> 铁制砥石刀(锋利)
+< Iron Whetblade (Quality)
+> 铁制砥石刀(优质)
+< Red-Hot Whetblade (Fire)
+> 灼热砥石刀(火)
+< Red-Hot Whetblade (Flame Art)
+> 灼热砥石刀(焰术)
+< Sanctified Whetblade (Lightning)
+> 神圣砥石刀(雷)
+< Sanctified Whetblade (Sacred)
+> 神圣砥石刀(神圣)
+< Glintstone Whetblade (Magic)
+> 辉石砥石刀(魔力)
+< Glintstone Whetblade (Frost)
+> 辉石砥石刀(Frost)
+< Black Whetblade (Poison)
+> 漆黑砥石刀(中毒)
+< Black Whetblade (Blood)
+> 漆黑砥石刀(血)
+< Black Whetblade (Occult)
+> 漆黑砥石刀(神秘)
+< Ash of War: No Skill
+> 战灰：无战技
+< Ash of War: Carian Retaliation
+> 战灰：卡利亚式奉还
+< Ash of War: Barricade Shield
+> 战灰：铁壁盾防
+< Ash of War: Shield Crash
+> 战灰：突进冲击
+< Ash of War: Shield Bash
+> 战灰：盾牌冲击
+< Ash of War: Storm Wall
+> 战灰：风暴障壁
+< Ash of War: Golden Parry
+> 战灰：黄金格挡
+< Ash of War: Parry
+> 战灰：格挡
+< Ash of War: Rain of Arrows
+> 战灰：箭雨
+< Ash of War: Enchanted Shot
+> 战灰：宿灵射击
+< Ash of War: Sky Shot
+> 战灰：对空射击
+< Ash of War: Barrage
+> 战灰：连续射击
+< Ash of War: Through and Through
+> 战灰：贯穿射击
+< Ash of War: Mighty Shot
+> 战灰：拉满弓
+< Ash of War: Assassin's Gambit
+> 战灰：暗杀办法
+< Ash of War: White Shadow's Lure
+> 战灰：白影诱惑
+< Ash of War: Lifesteal Fist
+> 战灰：夺命拳
+< Ash of War: Spectral Lance
+> 战灰：幻影枪
+< Ash of War: Hoarfrost Stomp
+> 战灰：冻霜踏地
+< Ash of War: Chilling Mist
+> 战灰：寒气冻雾
+< Ash of War: Ice Spear
+> 战灰：冰枪
+< Ash of War: Seppuku
+> 战灰：切腹
+< Ash of War: Blood Tax
+> 战灰：鲜血征收
+< Ash of War: Bloody Slash
+> 战灰：鲜血斩击
+< Ash of War: Blood Blade
+> 战灰：血刃
+< Ash of War: Poison Moth Flight
+> 战灰：双吻毒蛾
+< Ash of War: Poisonous Mist
+> 战灰：毒雾
+< Ash of War: Holy Ground
+> 战灰：圣域
+< Ash of War: Vow of the Indomitable
+> 战灰：无敌
+< Ash of War: Golden Vow
+> 战灰：黄金树立誓
+< Ash of War: Golden Slam
+> 战灰：黄金坠落震击
+< Ash of War: Golden Land
+> 战灰：黄金大地
+< Ash of War: Shared Order
+> 战灰：共享圣律
+< Ash of War: Sacred Order
+> 战灰：圣律
+< Ash of War: Sacred Ring of Light
+> 战灰：神圣光环
+< Ash of War: Prayerful Strike
+> 战灰：祈祷一击
+< Ash of War: Sacred Blade
+> 战灰：神圣刀刃
+< Ash of War: Lightning Ram
+> 战灰：雷电羊球
+< Ash of War: Lightning Slash
+> 战灰：雷击斩
+< Ash of War: Thunderbolt
+> 战灰：落雷
+< Ash of War: Black Flame Tornado
+> 战灰：黑焰漩涡
+< Ash of War: Prelate's Charge
+> 战灰：主教冲锋
+< Ash of War: Eruption
+> 战灰：熔岩火浆
+< Ash of War: Flame of the Redmanes
+> 战灰：红狮子火焰
+< Ash of War: Flaming Strike
+> 战灰：炎击
+< Ash of War: Waves of Darkness
+> 战灰：黑暗波动
+< Ash of War: Gravitas
+> 战灰：重力
+< Ash of War: Spinning Weapon
+> 战灰：转啊转
+< Ash of War: Carian Grandeur
+> 战灰：伟哉卡利亚
+< Ash of War: Carian Greatsword
+> 战灰：卡利亚大剑
+< Ash of War: Glintblade Phalanx
+> 战灰：辉剑圆阵
+< Ash of War: Glintstone Pebble
+> 战灰：辉石魔砾
+< Ash of War: Royal Knight's Resolve
+> 战灰：侍王骑士的决心
+< Ash of War: Determination
+> 战灰：决心
+< Ash of War: Phantom Slash
+> 战灰：幻影共击
+< Ash of War: Vacuum Slice
+> 战灰：真空斩
+< Ash of War: Storm Stomp
+> 战灰：风暴足
+< Ash of War: Stormcaller
+> 战灰：唤起风暴
+< Ash of War: Storm Assault
+> 战灰：风暴袭击
+< Ash of War: Storm Blade
+> 战灰：风暴刃
+< Ash of War: Giant Hunt
+> 战灰：狩猎巨人
+< Ash of War: Spinning Strikes
+> 战灰：回旋击
+< Ash of War: Charge Forth
+> 战灰：突击
+< Ash of War: Square Off
+> 战灰：准备架式
+< Ash of War: Beast's Roar
+> 战灰：野兽咆哮
+< Ash of War: Raptor of the Mists
+> 战灰：潜雾猛禽
+< Ash of War: Bloodhound's Step
+> 战灰：猎犬步法
+< Ash of War: Quickstep
+> 战灰：碎步
+< Ash of War: Unsheathe
+> 战灰：居合
+< Ash of War: Sword Dance
+> 战灰：剑舞
+< Ash of War: Double Slash
+> 战灰：二连斩
+< Ash of War: Repeating Thrust
+> 战灰：连击
+< Ash of War: Piercing Fang
+> 战灰：突刺
+< Ash of War: Impaling Thrust
+> 战灰：贯穿
+< Ash of War: Spinning Slash
+> 战灰：回旋斩
+< Ash of War: Troll's Roar
+> 战灰：山妖咆哮
+< Ash of War: Braggart's Roar
+> 战灰：夸耀咆哮
+< Ash of War: Barbaric Roar
+> 战灰：野蛮咆哮
+< Ash of War: War Cry
+> 战灰：战吼
+< Ash of War: Hoarah Loux's Earthshaker
+> 战灰：荷莱·露的撼地
+< Ash of War: Earthshaker
+> 战灰：撼地
+< Ash of War: Ground Slam
+> 战灰：坠落震击
+< Ash of War: Endure
+> 战灰：忍耐
+< Ash of War: Kick
+> 战灰：踢击
+< Ash of War: Cragblade
+> 战灰：岩石剑
+< Ash of War: Lion's Claw
+> 战灰：狮子斩
+< Ash of War: Wild Strikes
+> 战灰：盲击
+< Ash of War: Shield Strike
+> 战灰：盾牌攻击
+< Ash of War: Igon's Drake Hunt
+> 战灰：埃贡的猎龙
+< Ash of War: Rolling Sparks
+> 战灰：串联火花香
+< Ash of War: Wall of Sparks
+> 战灰：四面火花香
+< Ash of War: Dryleaf Whirlwind
+> 战灰：落叶旋风脚
+< Ash of War: Palm Blast
+> 战灰：发劲
+< Ash of War: Shriek of Sorrow
+> 战灰：悲恸惨叫
+< Ash of War: Divine Beast Frost Stomp
+> 战灰：神兽冻霜踏地
+< Ash of War: Ghostflame Call
+> 战灰：唤起灵火
+< Ash of War: The Poison Flower Blooms Twice
+> 战灰：双刺毒花
+< Ash of War: Aspects of the Crucible: Wings
+> 战灰：熔炉百相之羽
+< Ash of War: Blinkbolt
+> 战灰：瞬雷
+< Ash of War: Flame Spear
+> 战灰：火焰枪
+< Ash of War: Flame Skewer
+> 战灰：火焰穿刺
+< Ash of War: Carian Sovereignty
+> 战灰：尊矣卡利亚
+< Ash of War: Wing Stance
+> 战灰：单翼架式
+< Ash of War: Scattershot Throw
+> 战灰：多重投掷
+< Ash of War: Piercing Throw
+> 战灰：贯穿投掷
+< Ash of War: Raging Beast
+> 战灰：野兽突袭
+< Ash of War: Savage Claws
+> 战灰：野兽爪击
+< Ash of War: Overhead Stance
+> 战灰：大上段
+< Ash of War: Swift Slash
+> 战灰：迅斩
+< Ash of War: Blind Spot
+> 战灰：死角一击
+< Ash of War: Spinning Gravity Thrust
+> 战灰：重力旋刺
+< Ash of War: Savage Lion's Claw
+> 战灰：勇猛狮子斩
+< Missionary's Cookbook [1]
+> 传道士的制作笔记【１】
+< Missionary's Cookbook [2]
+> 传道士的制作笔记【２】
+< Missionary's Cookbook [3]
+> 传道士的制作笔记【３】
+< Missionary's Cookbook [4]
+> 传道士的制作笔记【４】
+< Missionary's Cookbook [5]
+> 传道士的制作笔记【５】
+< Missionary's Cookbook [6]
+> 传道士的制作笔记【６】
+< Missionary's Cookbook [7]
+> 传道士的制作笔记【７】
+< Nomadic Warrior's Cookbook [3]
+> 流浪战士的制作笔记【３】
+< Nomadic Warrior's Cookbook [4]
+> 流浪战士的制作笔记【４】
+< Nomadic Warrior's Cookbook [5]
+> 流浪战士的制作笔记【５】
+< Nomadic Warrior's Cookbook [6]
+> 流浪战士的制作笔记【６】
+< Nomadic Warrior's Cookbook [7]
+> 流浪战士的制作笔记【７】
+< Nomadic Warrior's Cookbook [8]
+> 流浪战士的制作笔记【８】
+< Nomadic Warrior's Cookbook [9]
+> 流浪战士的制作笔记【９】
+< Nomadic Warrior's Cookbook [10]
+> 流浪战士的制作笔记【１０】
+< Nomadic Warrior's Cookbook [11]
+> 流浪战士的制作笔记【１１】
+< Nomadic Warrior's Cookbook [12]
+> 流浪战士的制作笔记【１２】
+< Nomadic Warrior's Cookbook [13]
+> 流浪战士的制作笔记【１３】
+< Nomadic Warrior's Cookbook [14]
+> 流浪战士的制作笔记【１４】
+< Nomadic Warrior's Cookbook [15]
+> 流浪战士的制作笔记【１５】
+< Nomadic Warrior's Cookbook [16]
+> 流浪战士的制作笔记【１６】
+< Nomadic Warrior's Cookbook [17]
+> 流浪战士的制作笔记【１７】
+< Nomadic Warrior's Cookbook [18]
+> 流浪战士的制作笔记【１８】
+< Nomadic Warrior's Cookbook [19]
+> 流浪战士的制作笔记【１９】
+< Nomadic Warrior's Cookbook [20]
+> 流浪战士的制作笔记【２０】
+< Nomadic Warrior's Cookbook [21]
+> 流浪战士的制作笔记【２１】
+< Nomadic Warrior's Cookbook [22]
+> 流浪战士的制作笔记【２２】
+< Nomadic Warrior's Cookbook [23]
+> 流浪战士的制作笔记【２３】
+< Nomadic Warrior's Cookbook [24]
+> 流浪战士的制作笔记【２４】
+< Armorer's Cookbook [1]
+> 武器工匠的制作笔记【１】
+< Armorer's Cookbook [2]
+> 武器工匠的制作笔记【２】
+< Armorer's Cookbook [3]
+> 武器工匠的制作笔记【３】
+< Armorer's Cookbook [4]
+> 武器工匠的制作笔记【４】
+< Armorer's Cookbook [5]
+> 武器工匠的制作笔记【５】
+< Armorer's Cookbook [6]
+> 武器工匠的制作笔记【６】
+< Armorer's Cookbook [7]
+> 武器工匠的制作笔记【７】
+< Ancient Dragon Apostle's Cookbook [1]
+> 古龙信徒的制作笔记【１】
+< Ancient Dragon Apostle's Cookbook [2]
+> 古龙信徒的制作笔记【２】
+< Ancient Dragon Apostle's Cookbook [3]
+> 古龙信徒的制作笔记【３】
+< Ancient Dragon Apostle's Cookbook [4]
+> 古龙信徒的制作笔记【４】
+< Fevor's Cookbook [1]
+> 法力斯的制作笔记【１】
+< Fevor's Cookbook [2]
+> 法力斯的制作笔记【２】
+< Fevor's Cookbook [3]
+> 法力斯的制作笔记【３】
+< Perfumer's Cookbook [1]
+> 调香师的制作笔记【１】
+< Perfumer's Cookbook [2]
+> 调香师的制作笔记【２】
+< Perfumer's Cookbook [3]
+> 调香师的制作笔记【３】
+< Perfumer's Cookbook [4]
+> 调香师的制作笔记【４】
+< Glintstone Craftsman's Cookbook [1]
+> 辉石工匠的制作笔记【１】
+< Glintstone Craftsman's Cookbook [2]
+> 辉石工匠的制作笔记【２】
+< Glintstone Craftsman's Cookbook [3]
+> 辉石工匠的制作笔记【３】
+< Glintstone Craftsman's Cookbook [4]
+> 辉石工匠的制作笔记【４】
+< Glintstone Craftsman's Cookbook [5]
+> 辉石工匠的制作笔记【５】
+< Glintstone Craftsman's Cookbook [6]
+> 辉石工匠的制作笔记【６】
+< Glintstone Craftsman's Cookbook [7]
+> 辉石工匠的制作笔记【７】
+< Glintstone Craftsman's Cookbook [8]
+> 辉石工匠的制作笔记【８】
+< Frenzied's Cookbook [1]
+> 罹病者的制作笔记【１】
+< Frenzied's Cookbook [2]
+> 罹病者的制作笔记【２】
+< Greater Potentate's Cookbook [1]
+> 大维壶师的制作笔记【１】
+< Greater Potentate's Cookbook [2]
+> 大维壶师的制作笔记【２】
+< Greater Potentate's Cookbook [3]
+> 大维壶师的制作笔记【３】
+< Greater Potentate's Cookbook [4]
+> 大维壶师的制作笔记【４】
+< Greater Potentate's Cookbook [5]
+> 大维壶师的制作笔记【５】
+< Greater Potentate's Cookbook [6]
+> 大维壶师的制作笔记【６】
+< Greater Potentate's Cookbook [7]
+> 大维壶师的制作笔记【７】
+< Greater Potentate's Cookbook [8]
+> 大维壶师的制作笔记【８】
+< Greater Potentate's Cookbook [9]
+> 大维壶师的制作笔记【９】
+< Greater Potentate's Cookbook [10]
+> 大维壶师的制作笔记【１０】
+< Greater Potentate's Cookbook [11]
+> 大维壶师的制作笔记【１１】
+< Greater Potentate's Cookbook [12]
+> 大维壶师的制作笔记【１２】
+< Greater Potentate's Cookbook [13]
+> 大维壶师的制作笔记【１３】
+< Greater Potentate's Cookbook [14]
+> 大维壶师的制作笔记【１４】
+< Loyal Knight's Cookbook
+> 骑士实习生的制作笔记
+< Fire Knight's Cookbook [1]
+> 火焰骑士的制作笔记【１】
+< Fire Knight's Cookbook [2]
+> 火焰骑士的制作笔记【２】
+< Battlefield Priest's Cookbook [1]
+> 战场神父的制作笔记【１】
+< Battlefield Priest's Cookbook [2]
+> 战场神父的制作笔记【２】
+< Battlefield Priest's Cookbook [3]
+> 战场神父的制作笔记【３】
+< Battlefield Priest's Cookbook [4]
+> 战场神父的制作笔记【４】
+< Ancient Dragon Knight's Cookbook [1]
+> 古龙骑士的制作笔记【１】
+< Ancient Dragon Knight's Cookbook [2]
+> 古龙骑士的制作笔记【２】
+< St. Trina Disciple's Cookbook [1]
+> 托莉娜信徒的制作笔记【１】
+< St. Trina Disciple's Cookbook [2]
+> 托莉娜信徒的制作笔记【２】
+< St. Trina Disciple's Cookbook [3]
+> 托莉娜信徒的制作笔记【３】
+< Mad Craftsman's Cookbook [1]
+> 发狂工匠的制作笔记【１】
+< Mad Craftsman's Cookbook [2]
+> 发狂工匠的制作笔记【２】
+< Mad Craftsman's Cookbook [3]
+> 发狂工匠的制作笔记【３】
+< Grave Keeper's Cookbook [1]
+> 守墓者的制作笔记【１】
+< Grave Keeper's Cookbook [2]
+> 守墓者的制作笔记【２】
+< Tibia's Cookbook
+> 提比亚的制作笔记
+< Finger-Weaver's Cookbook [1]
+> 指头追寻者的制作笔记【１】
+< Finger-Weaver's Cookbook [2]
+> 指头追寻者的制作笔记【２】
+< Antiquity Scholar's Cookbook [1]
+> 考古学者的制作笔记【１】
+< Antiquity Scholar's Cookbook [2]
+> 考古学者的制作笔记【２】
+< Forager Brood Cookbook [1]
+> 集物虫的制作笔记【１】
+< Forager Brood Cookbook [2]
+> 集物虫的制作笔记【２】
+< Forager Brood Cookbook [3]
+> 集物虫的制作笔记【３】
+< Forager Brood Cookbook [4]
+> 集物虫的制作笔记【４】
+< Forager Brood Cookbook [5]
+> 集物虫的制作笔记【５】
+< Forager Brood Cookbook [6]
+> 集物虫的制作笔记【６】
+< Forager Brood Cookbook [7]
+> 集物虫的制作笔记【７】
+< Igon's Cookbook [1]
+> 埃贡的制作笔记【１】
+< Igon's Cookbook [2]
+> 埃贡的制作笔记【２】
+< Map: Limgrave, East
+> 地图碎片：宁姆格福（东）
+< Map: Weeping Peninsula
+> 地图碎片：啜泣半岛
+< Map: Limgrave, West
+> 地图碎片：宁姆格福（西）
+< Map: Liurnia, West
+> 地图碎片：利耶尼亚（西）
+< Map: Liurnia, North
+> 地图碎片：利耶尼亚（北）
+< Map: Liurnia, East
+> 地图碎片：利耶尼亚（东）
+< Map: Leyndell, Royal Capital
+> 地图碎片：王城罗德尔
+< Map: Mt. Gelmir
+> 地图碎片：格密尔火山
+< Map: Dragonbarrow
+> 地图碎片：龙墓
+< Map: Caelid
+> 地图碎片：盖利德
+< Map: Mountaintops of the Giants, East
+> 地图碎片：巨人山顶（东）
+< Map: Mountaintops of the Giants, West
+> 地图碎片：巨人山顶（西）
+< Map: Siofra River
+> 地图碎片：希芙拉河
+< Map: Mohgwyn Palace
+> 地图碎片：蒙格温王朝
+< Map: Lake of Rot
+> 地图碎片：腐败湖
+< Map: Ainsel River
+> 地图碎片：安瑟尔河
+< Show underground
+> 显示地底地图
+< Sites of Grace
+> 赐福一览
+< The First Step
+> 引导之始
+< Church of Elleh
+> 艾雷教堂
+< Gatefront
+> 关卡前方
+< Waypoint Ruins Cellar
+> 驿站街遗迹的地下室
+< Artist's Shack (Limgrave)
+> 画家的破屋(宁姆格福)
+< Third Church of Marika
+> 玛莉卡第三教堂
+< Fort Haight West
+> 海德要塞西方
+< Agheel Lake South
+> 亚基尔湖南方
+< Agheel Lake North
+> 亚基尔湖北方
+< Church of Dragon Communion
+> 龙飨教堂
+< Seaside Ruins
+> 傍海古遗迹
+< Mistwood Outskirts
+> 雾林边缘
+< Murkwater Coast
+> 蒙流岸边
+< Summonwater Village Outskirts
+> 水唤村外
+< Stormfoot Catacombs
+> 风暴根脚的地下墓地
+< Murkwater Catacombs
+> 蒙流地下墓地
+< Groveside Cave
+> 近林洞窟
+< Coastal Cave
+> 海岸洞窟
+< Murkwater Cave
+> 蒙流洞窟
+< Highroad Cave
+> 大道下的洞窟
+< Limgrave Tunnels
+> 宁姆格福坑道
+< Stranded Graveyard
+> 漂流墓地
+< Cave of Knowledge
+> 求学洞窟
+< Stormhill
+> 风暴山丘
+< Stormhill Shack
+> 风暴山丘的破屋
+< Castleward Tunnel
+> 通城隧道
+< Margit, the Fell Omen
+> “恶兆妖鬼”玛尔基特
+< Warmaster's Shack
+> 习战者的破屋
+< Deathtouched Catacombs
+> 死亡降临的地下墓地
+< Limgrave Tower Bridge
+> 宁姆格福神授塔（桥上）
+< Divine Tower of Limgrave
+> 宁姆格福神授塔
+< Weeping Peninsula
+> 啜泣半岛
+< Church of Pilgrimage
+> 巡礼教堂
+< Tombsward
+> 灵庙原野
+< South of the Lookout Tower
+> 监视塔的南方
+< Ailing Village Outskirts
+> 病村外
+< Beside the Crater-Pocked Glade
+> 地坑旁
+< Isolated Merchant's Shack (Limgrave)
+> 隐居商人的破屋(宁姆格福)
+< Fourth Church of Marika
+> 玛莉卡第四教堂
+< Bridge of Sacrifice
+> 献祭大桥
+< Castle Morne Lift
+> 摩恩城（升降机前方）
+< Beside the Rampart Gaol
+> 城墙监牢旁
+< Morne Moangrave
+> 摩恩悲叹墓
+< Impaler's Catacombs
+> 穿刺地下墓地
+< Tombsward Catacombs
+> 灵庙原野地下墓地
+< Earthbore Cave
+> 垂穴洞窟
+< Tombsward Cave
+> 灵庙原野洞窟
+< Morne Tunnel
+> 摩恩坑道
+< Stormveil Castle
+> 史东薇尔城
+< Stormveil Main Gate
+> 史东薇尔正门
+< Gateside Chamber
+> 门旁小屋
+< Stormveil Cliffside
+> 史东薇尔断崖
+< Rampart Tower
+> 城墙塔
+< Liftside Chamber
+> 升降机旁房间
+< Secluded Cell
+> 深处小房间
+< Lake-Facing Cliffs
+> 傍湖断崖
+< Laskyar Ruins
+> 拉斯卡废墟
+< Academy Gate Town
+> 学院门前镇
+< Artist's Shack (Liurnia of the Lakes)
+> 画家的破屋(湖之利耶尼亚)
+< Eastern Liurnia Lake Shore
+> 利耶尼亚湖（东岸）
+< Gate Town Bridge
+> 门前镇大桥
+< Liurnia Highway North
+> 利耶尼亚大道（北方）
+< Liurnia Highway South
+> 利耶尼亚大道（南方）
+< Main Academy Gate
+> 学院正门口
+< Scenic Isle
+> 远眺岛
+< South Raya Lucaria Gate
+> 雷亚卢卡利亚（南门）
+< Ruined Labyrinth
+> 遗迹迷宫
+< Boilprawn Shack
+> 煮虾子的破屋
+< Church of Vows
+> 结缘教堂
+< Converted Tower
+> 改宗塔
+< Eastern Tableland
+> 东边台地
+< Fallen Ruins of the Lake
+> 湖中坠落遗迹
+< Folly on the Lake
+> 湖畔凉亭
+< Jarburg
+> 壶村
+< Mausoleum Compound
+> 群集灵庙
+< Ranni's Chamber
+> 菈妮的房间
+< Revenger's Shack
+> 复仇者的破屋
+< Slumbering Wolf's Shack
+> 眠狼的破屋
+< Village of the Albinaurics
+> 白金村
+< Crystalline Woods
+> 结晶森林
+< East Gate Bridge Trestle
+> 东门桥的桥柱
+< Foot of the Four Belfries
+> 四钟楼山脚
+< Gate Town North
+> 门前镇的北方
+< Main Caria Manor Gate
+> 卡利亚城寨（正门）
+< Manor Lower Level
+> 城寨下部
+< Manor Upper Level
+> 城寨上部
+< Northern Liurnia Lake Shore
+> 利耶尼亚湖（北岸）
+< Road to the Manor
+> 通往城寨的道路
+< Royal Moongazing Grounds
+> 王室赏月地
+< Sorcerer's Isle
+> 魔法师塔的小岛
+< Temple Quarter
+> 教堂区
+< The Four Belfries
+> 四钟楼
+< Academy Crystal Cave
+> 学院结晶洞窟
+< Behind Caria Manor
+> 卡利亚城寨（后方）
+< Black Knife Catacombs
+> 黑刀地下墓地
+< Cliffbottom Catacombs
+> 断崖下的地下墓地
+< Lakeside Crystal Cave
+> 湖旁结晶洞窟
+< Liurnia Tower Bridge
+> 利耶尼亚神授塔（桥上）
+< Ranni's Rise
+> 菈妮魔法师塔
+< Ravine-Veiled Village
+> 谷底秘村
+< Raya Lucaria Crystal Tunnel
+> 雷亚卢卡利亚结晶坑道
+< Road's End Catacombs
+> 绝路地下墓地
+< Stillwater Cave
+> 留水洞窟
+< Study Hall Entrance
+> 书斋入口
+< The Ravine
+> 谷底
+< Divine Tower of Liurnia
+> 利耶尼亚神授塔
+< Bellum Highway
+> 彼鲁姆大道
+< Church of Inhibition
+> 镇静教堂
+< East Raya Lucaria Gate
+> 雷亚卢卡利亚（东门）
+< Frenzied Flame Village Outskirts
+> 癫火村外
+< Grand Lift of Dectus
+> 迪可达斯大升降机
+< Ruin-Strewn Precipice
+> 古遗迹断崖
+< Magma Wyrm
+> 熔岩土龙
+< Ruin-Strewn Precipice Overlook
+> 古遗迹断崖（对岸）
+< Moonlight Altar
+> 月光祭坛
+< Altar South
+> 祭坛南方
+< Cathedral of Manus Celes
+> 玛努斯·瑟利斯大教堂
+< Academy of Raya Lucaria
+> 魔法学院雷亚卢卡利亚
+< Church of the Cuckoo
+> 杜鹃教堂
+< Raya Lucaria Grand Library
+> 雷亚卢卡利亚大书库
+< Schoolhouse Classroom
+> 校舍内的教室
+< Abandoned Coffin
+> 弃置棺材
+< Altus Highway Junction
+> 亚坛大道的三叉口
+< Bower of Bounty
+> 丰饶森林
+< Erdtree-Gazing Hill
+> 近黄金树的山丘
+< Rampartside Path
+> 城墙旁小径
+< Road of Iniquity Side Path
+> 移送罪人之路（路旁）
+< Shaded Castle Inner Gate
+> 日荫城（内门）
+< Shaded Castle Ramparts
+> 日荫城（城墙）
+< Windmill Heights
+> 风车村高台
+< Windmill Village
+> 风车村
+< Altus Tunnel
+> 亚坛坑道
+< Castellan's Hall
+> 城主大厅
+< Old Altus Tunnel
+> 旧亚坛坑道
+< Perfumer's Grotto
+> 调香师的隐藏洞窟
+< Sage's Cave
+> 贤者的洞窟
+< Sainted Hero's Grave
+> 尊贵者的英雄墓地
+< Unsightly Catacombs
+> 丑恶地下墓地
+< Bridge of Iniquity
+> 罪人桥
+< Craftsman's Shack
+> 匠人的破屋
+< First Mt. Gelmir Campsite
+> 格密尔火山（第１休息站）
+< Gelmir Hero's Grave
+> 格密尔英雄墓地
+< Ninth Mt. Gelmir Campsite
+> 格密尔火山（第９休息站）
+< Primeval Sorcerer Azur
+> “起源魔法师”亚兹勒
+< Road of Iniquity
+> 移送罪人之路
+< Seethewater Cave
+> 沸滚河洞窟
+< Seethewater River
+> 沸滚河
+< Seethewater Terminus
+> 沸滚河终点
+< Volcano Cave
+> 火山洞窟
+< Wyndham Catacombs
+> 威达姆地下墓地
+< Leyndell, Royal Capital
+> 王城罗德尔
+< Auriza Side Tomb
+> 亚雷萨副墓地
+< Capital Rampart
+> 王城城墙前方
+< Divine Tower of West Altus
+> 西亚坛神授塔
+< Divine Tower of West Altus: Gate
+> 西亚坛神授塔（门口）
+< Outer Wall Battleground
+> 城外战场遗迹
+< Outer Wall Phantom Tree
+> 城外幻影树
+< Sealed Tunnel
+> 封印坑道
+< Volcano Manor
+> 火山官邸
+< Abductor Virgin
+> 掳人少女人偶
+< Audience Pathway
+> 谒见之路
+< Guest Hall
+> 迎宾厅
+< Prison Town Church
+> 牢镇教堂
+< Rykard, Lord of Blasphemy
+> “亵渎君王”拉卡德
+< Subterranean Inquisition Chamber
+> 地底拷问所
+< Temple of Eiglay
+> 艾格蕾教堂
+< East Capital Rampart
+> 王城东边城墙
+< Avenue Balcony
+> 大道旁露台
+< Lower Capital Church
+> 王城底层教堂
+< West Capital Rampart
+> 王城西边城墙
+< Fortified Manor, First Floor
+> 城寨一楼
+< Divine Bridge
+> 神授桥
+< Erdtree Sanctuary
+> 黄金树大教堂
+< Queen's Bedchamber (Royal Capital)
+> 女王闺阁(王城)
+< Caelem Ruins
+> 奇列姆废墟
+< Caelid Highway South
+> 盖利德大道南方
+< Cathedral of Dragon Communion
+> 龙飨大教堂
+< Chair-Crypt of Sellia
+> 瑟利亚椅子庙
+< Church of the Plague
+> 腐败病教堂
+< Fort Gael North
+> 盖尔要塞北方
+< Rotview Balcony
+> 腐败旁露台
+< Sellia Backstreets
+> 瑟利亚镇后侧
+< Sellia Under-Stair
+> 瑟利亚镇（楼梯下方）
+< Smoldering Church
+> 熏火教堂
+< Smoldering Wall
+> 熏烧火墙
+< Abandoned Cave
+> 废弃洞窟
+< Caelid Catacombs
+> 盖利德地下墓地
+< Chamber Outside the Plaza
+> 广场前房间
+< Deep Siofra Well
+> 希芙拉河的出口井
+< Gael Tunnel
+> 盖尔坑道
+< Gaol Cave
+> 牢狱洞窟
+< Impassable Greatbridge
+> 不破大桥
+< Rear Gael Tunnel Entrance
+> 盖尔坑道（侧门口）
+< Redmane Castle Plaza
+> 红狮子城（广场）
+< Sellia Crystal Tunnel
+> 瑟利亚结晶坑道
+< War-Dead Catacombs
+> 英灵地下墓地
+< Swamp of Aeonia
+> 艾奥尼亚沼泽
+< Aeonia Swamp Shore
+> 艾奥尼亚沼泽（岸边）
+< Inner Aeonia
+> 艾奥尼亚沼泽（深处）
+< Greyoll's Dragonbarrow
+> 桂奥尔龙墓
+< Bestial Sanctum
+> 野兽神殿
+< Divine Tower of Caelid: Basement
+> 盖利德神授塔（地底）
+< Divine Tower of Caelid: Center
+> 盖利德神授塔（中段）
+< Dragonbarrow Cave
+> 龙墓洞窟
+< Dragonbarrow Fork
+> 龙墓的岔路
+< Dragonbarrow West
+> 龙墓西方
+< Farum Greatbridge
+> 法姆大桥
+< Fort Faroth
+> 法洛斯要塞
+< Isolated Divine Tower
+> 孤立神授塔
+< Isolated Merchant's Shack (Greyoll's Dragonbarrow)
+> 隐居商人的破屋(桂奥尔龙墓)
+< Lenne's Rise
+> 雷恩魔法师塔
+< Sellia Hideaway
+> 瑟利亚隐藏洞窟
+< Grand Lift of Rold
+> 洛德大升降机
+< Hidden Path to the Haligtree
+> 通往圣树的密道
+< Ancient Snow Valley Ruins
+> 古遗迹降雪谷
+< Castle Sol Main Gate
+> 索尔城（正门）
+< Castle Sol Rooftop
+> 索尔城（屋顶）
+< Church of the Eclipse
+> 日蚀教堂
+< First Church of Marika
+> 玛莉卡第一教堂
+< Freezing Lake
+> 结冰湖
+< Snow Valley Ruins Overlook
+> 古遗迹山谷的山崖上
+< Whiteridge Road
+> 降雪棱线路
+< Zamor Ruins
+> 萨米尔废墟
+< Flame Peak
+> 火焰之巅
+< Church of Repose
+> 安歇教堂
+< Foot of the Forge
+> 火焰大锅下方
+< Forge of the Giants
+> 巨人火焰大锅
+< Giant-Conquering Hero's Grave
+> 巨人战争的英雄墓地
+< Consecrated Snowfield
+> 化圣雪原
+< Apostate Derelict
+> 离教废屋
+< Cave of the Forlorn
+> 安身洞窟
+< Consecrated Snowfield Catacombs
+> 化圣雪原地下墓地
+< Inner Consecrated Snowfield
+> 化圣雪原（深处）
+< Ordina, Liturgical Town
+> “仪典镇”奥缇那
+< Yelough Anix Tunnel
+> 耶罗·亚尼斯坑道
+< Haligtree Canopy
+> 圣树树冠
+< Haligtree Promenade
+> 圣树大舞台
+< Haligtree Town
+> 圣树镇
+< Haligtree Town Plaza
+> 圣树镇（广场）
+< Elphael, Brace of the Haligtree
+> “圣树分枝”艾布雷菲尔
+< Drainage Channel
+> 排水通道
+< Elphael Inner Wall
+> 艾布雷菲尔城墙内部
+< Haligtree Roots
+> 圣树底层
+< Prayer Room
+> 祈祷室
+< Crumbling Beast Grave
+> 渐毁野兽墓
+< Crumbling Beast Grave Depths
+> 渐毁野兽墓（深处）
+< Dragon Temple
+> 龙教堂
+< Dragon Temple Altar
+> 龙教堂祭坛
+< Dragon Temple Lift
+> 龙教堂（升降机前）
+< Dragon Temple Rooftop
+> 龙教堂（屋顶）
+< Dragon Temple Transept
+> 龙教堂（耳堂）
+< Maliketh, the Black Blade
+> “黑剑”玛利喀斯
+< Tempest-Facing Balcony
+> 龙卷旁露台
+< Ainsel River Downstream
+> 安瑟尔河（下游）
+< Ainsel River Sluice Gate
+> 安瑟尔河（水门）
+< Ainsel River Well Depths
+> 安瑟尔河（井底）
+< Dragonkin Soldier of Nokstella
+> 诺克史黛拉的龙人士兵
+< Ainsel River Main
+> 安瑟尔河主流
+< Nokstella, Eternal City
+> “永恒之城”诺克史黛拉
+< Nokstella Waterfall Basin
+> 诺克史黛拉水潭
+< Grand Cloister
+> 大回廊
+< Lake of Rot Shoreside
+> 腐败湖畔
+< Nokron, Eternal City
+> “永恒之城”诺克隆恩
+< Ancestral Woods
+> 祖灵森林
+< Aqueduct-Facing Cliffs
+> 导水桥旁断崖
+< Great Waterfall Basin
+> 大瀑布水潭
+< Mimic Tear
+> 仿身泪滴
+< Night's Sacred Ground
+> 黑夜神域
+< Below the Well
+> 出口井的下方
+< Siofra River Bank
+> 希芙拉河（岸边）
+< Siofra River Well Depths
+> 希芙拉河（井底）
+< Worshippers' Woods
+> 信仰者森林
+< Mohgwyn Palace
+> 蒙格温王朝
+< Cocoon of the Empyrean
+> 神人坠眠之茧
+< Dynasty Mausoleum Entrance
+> 王朝庙（入口）
+< Dynasty Mausoleum Midpoint
+> 王朝庙（中段）
+< Palace Approach Ledge-Road
+> 通往王朝的崖上道路
+< Across the Roots
+> 树根前路
+< Great Waterfall Crest
+> 大瀑布顶端
+< Prince of Death's Throne
+> 死王子宝座
+< Root-Facing Cliffs
+> 树根旁断崖
+< The Nameless Eternal City
+> 无名永恒之城
+< Leyndell, Royal Capital (Ash)
+> 王城罗德尔(灰城)
+< Subterranean Shunning-Grounds
+> 弃置恶兆的地底
+< Cathedral of the Forsaken
+> 弃置恶兆的大教堂
+< Forsaken Depths
+> 弃置恶兆的底层
+< Frenzied Flame Proscription
+> 癫火封印
+< Leyndell Catacombs
+> 罗德尔地下墓地
+< Underground Roadside
+> 地底大道旁
+< Leyndell, Ashen Capital
+> 灰城罗德尔
+< East Capital Rampart
+> 王城东边城墙
+< Queen's Bedchamber
+> 女王闺阁(灰城)
+< Stone Platform
+> 石舞台
+< Fractured Marika
+> 濒毁玛莉卡
+< Scorched Ruins
+> 火吻废墟
+< Main Gate Cross
+> 正门前方的十字记号
+< Cliffroad Terminus
+> 崖上道路的终点
+< Castle Front
+> 城的前方
+< Pillar Path Cross
+> 通柱坡的十字记号
+< Pillar Path Waypoint
+> 通柱坡中段
+< Ellac River Cave
+> 艾拉克河洞窟
+< Ellac River Downstream
+> 艾拉克河下游
+< Fog Rift Catacombs
+> 雾谷地下墓地
+< Belurat Gaol
+> 贝瑞特监牢
+< Ruined Forge Lava Intake
+> 熔岩管锻造遗迹
+< Dragon's Pit
+> 龙洞
+< Dragon's Pit Terminus
+> 龙洞（终点）
+< Castle Ensis
+> 恩希斯城
+< Castle Ensis Checkpoint
+> 恩希斯城（关卡）
+< Ensis Moongazing Grounds (Twin Moon Knight)
+> 恩希斯赏月地(双月骑士)
+< Cerulean Coast West
+> 青蓝海岸西边
+< Cerulean Coast Cross
+> 青蓝海岸的十字记号
+< The Fissure
+> 大洞
+< Stone Coffin Fissure
+> 石棺大洞
+< Fissure Cross
+> 大洞的十字记号
+< Fissure Waypoint
+> 大洞中段
+< Fissure Depths
+> 大洞深处
+< Garden of Deep Purple
+> 深紫花园
+< Foot of the Jagged Peak
+> 尖刺山的山脚
+< Grand Altar of Dragon Communion
+> 龙飨大祭坛
+< Jagged Peak Mountainside
+> 尖刺山（中段）
+< Jagged Peak Summit
+> 尖刺山（山顶）
+< Land of the Tower
+> 塔之地
+< Belurat, Tower Settlement
+> “塔之镇”贝瑞特
+< Small Private Altar
+> 民宅小祭坛
+< Stagefront
+> 舞台前方
+< Theatre of the Divine Beast
+> 神兽舞台
+< First Rise
+> 第一塔
+< Spiral Rise
+> 螺旋塔
+< Cleansing Chamber Anteroom
+> 净身厅前室
+< Divine Gate Front Staircase
+> 神之门（门前楼梯平台）
+< Gate of Divinity
+> 神之门
+< Ancient Ruins of Rauh
+> 劳弗古遗迹
+< Viaduct Minor Tower
+> 高架桥的小塔
+< Church of the Bud
+> 花蕾教堂
+< Rivermouth Cave
+> 河尾洞窟
+< Ancient Ruins Base
+> 古遗迹下方
+< Temple Town Ruins
+> 神殿镇废墟
+< Ravine North
+> 峡谷北方
+< Scorpion River Catacombs
+> 蝎河地下墓地
+< Taylew's Ruined Forge
+> 泰乌尔锻造遗迹
+< Scadu Altus
+> 幽影亚坛
+< Highroad Cross
+> 大道旁的十字记号
+< Moorth Ruins
+> 穆斯废墟
+< Fort of Reprimand
+> 惩罚要塞
+< Behind the Fort of Reprimand
+> 惩罚要塞（后方）
+< Bonny Village
+> 波尼村
+< Bridge Leading to the Village
+> 通村吊桥
+< Church District Highroad
+> 教区大道
+< Cathedral of Manus Metyr
+> 玛努斯·美特大教堂
+< Finger Birthing Grounds
+> 指头产房
+< Castle Watering Hole
+> 城底积水处
+< Darklight Catacombs
+> 驱暗地下墓地
+< Bonny Gaol
+> 波尼监牢
+< Ruined Forge of Starfall Past
+> 古铁陨石锻造遗迹
+< Forsaken Graveyard
+> 荒废墓地
+< Woodland Trail
+> 林中兽径
+< Church Ruins
+> 废弃教堂
+< Divided Falls
+> 水帘瀑布
+< Midra's Manse
+> 米德拉府邸
+< Manse Hall
+> 府邸大厅
+< Midra's Library
+> 米德拉的书库
+< Second Floor Chamber
+> 二楼小房间
+< Discussion Chamber
+> 对谈室
+< Shadow Keep
+> 幽影城
+< Shadow Keep Main Gate
+> 幽影城（正门）
+< Main Gate Plaza
+> 正门广场
+< Shadow Keep, Church District
+> 幽影城（教区）
+< Church District Entrance
+> 教区入口
+< Sunken Chapel
+> 沉水礼拜堂
+< Specimen Storehouse
+> 物种保藏库
+< Dark Chamber Entrance
+> 暗室门前
+< West Rampart
+> 西边城墙
+< Messmer's Dark Chamber
+> 梅瑟莫的暗室
+< Scadutree Base
+> 幽影树的树脚
+< Hinterland
+> 隐匿之地
+< Hinterland Bridge
+> 隐匿之地（桥边）
+< Fingerstone Hill
+> 指岩山丘
+< Scadutree Chalice
+> 幽影树圣杯
+< Limgrave
+> 宁姆格福
+< Siofra River Well
+> 希芙拉河的入口井
+< Stormhill Evergaol
+> 风暴山丘的封印监牢
+< Forlorn Hound Evergaol
+> 无主猎犬的封印监牢
+< Summonwater Village
+> 水唤村
+< Gatefront Ruins
+> 关卡前废墟
+< Dragon-Burnt Ruins
+> 龙息废墟
+< Waypoint Ruins
+> 驿站街遗迹
+< Fort Haight
+> 海德要塞
+< Ailing Village
+> 病村
+< Callu Baptismal Church
+> 卡尔洗礼教堂
+< Castle Morne
+> 摩恩城
+< Demi-Human Forest Ruins
+> 亚人森林的废墟
+< Tombsward Ruins
+> 灵庙原野的废墟
+< Witchbane Ruins
+> 封印魔女的废墟
+< Weeping Evergaol
+> 啜泣的封印监牢
+< Tower of Return
+> 归还塔
+< Forest Lookout Tower
+> 森林监视塔
+< Caelid
+> 盖利德
+< Forsaken Ruins
+> 荒废废墟
+< Swamp Lookout Tower
+> 沼泽监视塔
+< Fort Gael
+> 盖尔要塞
+< Shack of the Rotting
+> 步入腐败者的破屋
+< Street of Sages Ruins
+> 贤者镇的废墟
+< Caelid Waypoint Ruins
+> 盖利德的驿站街遗迹
+< Redmane Castle
+> 红狮子城
+< Sellia Gateway
+> 瑟利亚关卡
+< Minor Erdtree Catacombs
+> 小黄金树地下墓地
+< Sellia Evergaol
+> 瑟利亚的封印监牢
+< Divine Tower of Caelid
+> 盖利德神授塔
+< Sellia Hideaway
+> 瑟利亚隐藏洞窟
+< Caelid Colosseum
+> 盖利德竞技场
+< Liurnia of the Lakes
+> 湖之利耶尼亚
+< Rose Church
+> 蔷薇教堂
+< Church of Irith
+> 伊利斯教堂
+< Academy of Raya Lucaria
+> 魔法学院雷亚卢卡利亚
+< Purified Ruins
+> 受净化的废墟
+< Church of Inhibition
+> 镇静教堂
+< Royal Grave Evergaol
+> 王室墓地的封印监牢
+< Frenzy-Flaming Tower
+> 癫火灯塔
+< Highway Lookout Tower
+> 大道监视塔
+< Frenzied Flame Village
+> 癫火村
+< Village of the Albinaurics
+> 白金村
+< Lunar Estate Ruins
+> 月之贵族废墟
+< Moonfolk Ruins
+> 月之民废墟
+< Deep Ainsel Well
+> 安瑟尔河的出口井
+< Divine Tower of Liurnia
+> 利耶尼亚神授塔
+< Carian Study Hall
+> 卡利亚书斋
+< Caria Manor
+> 卡利亚城寨
+< Converted Fringe Tower
+> 改宗边境塔
+< Ainsel River Well
+> 安瑟尔河的入口井
+< The Shaded Castle
+> 日荫城
+< Golden Lineage Evergaol
+> 黄金一族的封印监牢
+< Woodfolk Ruins
+> 森林之民的废墟
+< Minor Erdtree Church
+> 小黄金树教堂
+< Second Church of Marika
+> 玛莉卡第二教堂
+< Stormcaller Church
+> 唤雷教堂
+< Wyndham Ruins
+> 威达姆废墟
+< Fort Laiedd
+> 莱多要塞
+< Hermit Village
+> 遁世者村
+< Corpse-Stench Shack
+> 飘尸臭的破屋
+< Writheblood Ruins
+> 蠕血废墟
+< Wyndham Catacombs
+> 威达姆地下墓地
+< Mirage Rise
+> 海市蜃楼魔法师塔
+< Dominula, Windmill Village
+> 风车村多明努拉
+< Village Windmill Pasture
+> 村内风车牧场
+< East Windmill Pasture
+> 东边风车牧场
+< West Windmill Pasture
+> 西边风车牧场
+< Mountaintops of the Giants
+> 巨人山顶
+< Castle Sol
+> 索尔城
+< Heretical Rise
+> 异端魔法师塔
+< Shack of the Lofty
+> 离群独行者的破屋
+< Spiritcaller Cave
+> 唤灵洞窟
+< Albinauric Rise
+> 白金魔法师塔
+< Yelough Anix Ruins
+> 耶罗·亚尼斯废墟
+< Ainsel River
+> 安瑟尔河
+< Mohgwyn Dynasty Mausoleum
+> 蒙格温王朝庙
+< Hallowhorn Grounds
+> 角骸灵地
+< Siofra Aqueduct
+> 希芙拉导水桥
+< Pidia's Bell Bearing
+> 毕迪的铃珠
+< Seluvis's Bell Bearing
+> 赛尔维斯的铃珠
+< Sellen's Bell Bearing
+> 瑟濂的铃珠
+< D's Bell Bearing
+> Ｄ的铃珠
+< Bernahl's Bell Bearing
+> 贝纳尔的铃珠
+< Miriel's Bell Bearing
+> 米利耶的铃珠
+< Gostoc's Bell Bearing
+> 葛托克的铃珠
+< Thops's Bell Bearing
+> 托普斯的铃珠
+< Kalé's Bell Bearing
+> 咖列的铃珠
+< Nomadic Merchant's Bell Bearing [1]
+> 流浪商人的铃珠【１】
+< Nomadic Merchant's Bell Bearing [2]
+> 流浪商人的铃珠【２】
+< Nomadic Merchant's Bell Bearing [3]
+> 流浪商人的铃珠【３】
+< Nomadic Merchant's Bell Bearing [4]
+> 流浪商人的铃珠【４】
+< Nomadic Merchant's Bell Bearing [5]
+> 流浪商人的铃珠【５】
+< Isolated Merchant's Bell Bearing [1]
+> 隐居商人的铃珠【１】
+< Isolated Merchant's Bell Bearing [2]
+> 隐居商人的铃珠【２】
+< Isolated Merchant's Bell Bearing [3]
+> 隐居商人的铃珠【３】
+< Nomadic Merchant's Bell Bearing [6]
+> 流浪商人的铃珠【６】
+< Hermit Merchant's Bell Bearing [1]
+> 遁世商人的铃珠【１】
+< Hermit Merchant's Bell Bearing [2]
+> 遁世商人的铃珠【２】
+< Hermit Merchant's Bell Bearing [3]
+> 遁世商人的铃珠【３】
+< Abandoned Merchant's Bell Bearing
+> 见弃商人的铃珠
+< Imprisoned Merchant's Bell Bearing
+> 受囚商人的铃珠
+< Iji's Bell Bearing
+> 伊吉的铃珠
+< Rogier's Bell Bearing
+> 罗杰尔的铃珠
+< Blackguard's Bell Bearing
+> 流氓的铃珠
+< Corhyn's Bell Bearing
+> 柯林的铃珠
+< Gowry's Bell Bearing
+> 格威的铃珠
+< Bone Peddler's Bell Bearing
+> 兽骨贩子的铃珠
+< Meat Peddler's Bell Bearing
+> 兽肉贩子的铃珠
+< Medicine Peddler's Bell Bearing
+> 苔药贩子的铃珠
+< Gravity Stone Peddler's Bell Bearing
+> 重力贩子的铃珠
+< Smithing-Stone Miner's Bell Bearing [1]
+> 锻造石矿工的铃珠【１】
+< Smithing-Stone Miner's Bell Bearing [2]
+> 锻造石矿工的铃珠【２】
+< Smithing-Stone Miner's Bell Bearing [3]
+> 锻造石矿工的铃珠【３】
+< Smithing-Stone Miner's Bell Bearing [4]
+> 锻造石矿工的铃珠【４】
+< Somberstone Miner's Bell Bearing [1]
+> 失色石矿工的铃珠【１】
+< Somberstone Miner's Bell Bearing [2]
+> 失色石矿工的铃珠【２】
+< Somberstone Miner's Bell Bearing [3]
+> 失色石矿工的铃珠【３】
+< Somberstone Miner's Bell Bearing [4]
+> 失色石矿工的铃珠【４】
+< Somberstone Miner's Bell Bearing [5]
+> 失色石矿工的铃珠【５】
+< Glovewort Picker's Bell Bearing [1]
+> 铃兰摘采工的铃珠【１】
+< Glovewort Picker's Bell Bearing [2]
+> 铃兰摘采工的铃珠【２】
+< Glovewort Picker's Bell Bearing [3]
+> 铃兰摘采工的铃珠【３】
+< Ghost-Glovewort Picker's Bell Bearing [1]
+> 灵依摘采工的铃珠【１】
+< Ghost-Glovewort Picker's Bell Bearing [2]
+> 灵依摘采工的铃珠【２】
+< Ghost-Glovewort Picker's Bell Bearing [3]
+> 灵依摘采工的铃珠【３】
+< Name
+> 名字
+< Parry
+> 格挡
+< Poise
+> 强韧度
+< MaxPoise
+> 强韧度上限
+< Poison
+> 中毒
+< Scarlet Rot
+> 猩红腐败
+< Sleep
+> 催眠
+< Equipment
+> 装备
+< Tree Sentinel
+> 大树守卫
+< ----
+> ----
+< Legs
+> 腿甲
+< Max Poison
+> 中毒上限
+< Max Sleep
+> 催眠上限
+< Madness
+> 发狂
+< Max Madness
+> 发狂上限
+< String
+> 绳索
+< You died
+> 您已死亡。
+< Crafting Materials
+> 制作道具的材料
+< Consumables
+> 消耗道具
+< Key Items (1/1)
+> 贵重物品(1/1)
+< Tailoring Tools
+> 裁缝工具
+< Golden Tailoring Tools
+> 黄金裁缝工具
+< Attack
+> 攻击
+< Item Type
+> 道具类别
+< Settings (Do NOT change the descriptions or add anything here)
+> 配置(请不要在此处修改说明或者添加任何东西)
+< Make Everything Discardable 4
+> 使所有道具可丢弃 4
+< Inventory Editor
+> 置物包编辑器
+< AddInventoryEquip
+> 获取装备
+< ItemType
+> 道具种类
+< ItemID
+> 道具ID
+< Num
+> 数量
+< AddItem_
+> 获取道具_
+< --------------------------------
+> --------------------------------
+< FieldArea:PlayRegionId
+> 位置信息：游玩区域ID
+< FieldArea:MapID
+> 位置信息：地图ID
+< ----------------
+> ----------------
+< LastGrace
+> 上一个赐福
+< TargetGrace
+> 目标赐福
+< WeaponLVL (do not change)
+> 武器等级（请勿修改）
+< /9-[{F?
+> /9-[{F?
+< GreatRune
+> 大卢恩
+< Furcalling Finger
+> 唤勾指
+< ChrType
+> 角色类别
+< TeamType
+> 队伍类别
+< PlayTime (ms)
+> 游玩时间(毫秒)
+< Death Count
+> 死亡次数
+< NG+ number (change this)
+> 周目数(请修改此数值)
+< HUD Journey Number (to verify)
+> HUD周目数字(此数值用于校验)
+< Save Slot (Profile Index, Copy Chr with this)
+> 存档槽位(角色索引)
+< [ Character Data ]
+> 【角色数据】
+< Base Info
+> 基础信息
+< Chr ID
+> 角色ID
+< Horse
+> 马
+< HandleID
+> HandleID
+< ----------
+> ----------
+< PlayAnimSpeed
+> 玩家动画速度
+< Animation Override
+> 替换动画
+< Current Animation
+> 当前动画
+< Current animation
+> 当前动画
+< DamageRate
+> 伤害倍率
+< Character Flags
+> 角色标志位
+< Disable Map Collision
+> 地图无碰撞
+< Disable Gravity
+> 无重力
+< -------------------------
+> -------------------------
+< SetEnableAI
+> 启用AI计算
+< Disable Lock-On Hp Bar
+> 禁用锁定HP条
+< NoDead
+> 不会死亡
+< NoDamage
+> 不会受到伤害
+< NoHit
+> 无受击
+< NoAttack
+> 不攻击
+< NoMove
+> 不移动
+< NoFPConsume
+> 不消耗专注值
+< NoStaminaConsume
+> 不消耗精力
+< NoGoodsConsume
+> 道具无消耗
+< Draw Hit
+> 命中范围绘制
+< Draw Direction 1
+> 方向绘制1
+< Draw Direction 2
+> 方向绘制2
+< NoUpdate
+> 不更新AI
+< ToggleDraw
+> 切换绘制
+< Disable Chr Sound
+> 消除角色声音
+< WaterInteraction.EnableAll
+> WaterInteraction.EnableAll
+< Force Fall Camera
+> 强制死亡镜头
+< Kill Character
+> 杀死角色
+< AnotherNoGravityFlag
+> 另一个无重力标志位
+< ThrowSystem
+> 投掷系统
+< TurnByCameraAngle
+> 按今镜头角度旋转
+< Attributes
+> 属性
+< Uncap Stats
+> 解锁属性上限
+< Humanity
+> 人性
+< Scadutree Blessing Level -- DLC
+> 幽影树庇佑等级 -- DLC
+< Revered Spirit Ash Level -- DLC
+> 灵灰庇佑等级 -- DLC
+< Status Effect Resist
+> 抗性状态
+< ArmStyle
+> 双手装备状态
+< CurrentWepSlotOffset < LEFT >
+> 当前武器位 <左>
+< CurrentWepSlotOffset < RIGHT >
+> 当前武器位 <右>
+< CurrentWepSlotOffset < LEFT_ARROW >
+> 当前武器位 <左箭矢>
+< CurrentWepSlotOffset < RIGHT_ARROW >
+> 当前武器位 <右箭矢>
+< CurrentWepSlotOffset < LEFT_BOLT >
+> 当前武器位 <左弩弹>
+< CurrentWepSlotOffset < RIGHT_BOLT >
+> 当前武器位 <右弩弹>
+< Unk
+> 未知
+< --
+> --
+< Accessory 1
+> 饰品1
+< Accessory 2
+> 饰品2
+< Accessory 3
+> 饰品3
+< Accessory 4
+> 饰品4
+< Accessory 5
+> 饰品5
+< PrimaryLeftWep
+> 主武器左手
+< PrimaryRightWep
+> 主武器右手
+< SecondaryLeftWep
+> 第二武器左手
+< SecondaryRightWep
+> 第二武器右手
+< TertiaryLeftWep
+> 第三武器左手
+< TertiaryRightWep
+> 第三武器右手
+< PrimaryArrow
+> 主箭矢
+< PrimaryBolt
+> 主弩弹
+< SecondaryArrow
+> 第二箭矢
+< SecondaryBolt
+> 第二弩弹
+< TertiaryArrow
+> 第三箭矢
+< TertiaryBolt
+> 第三弩弹
+< Helmet
+> 头部
+< Gauntlet
+> 手部
+< Leggings
+> 腿部
+< ChrDbg
+> ChrDbg
+< All Draw Hit
+> 命中范围绘制
+< Headhitbox draw
+> 爆头范围绘制
+< Head Draw
+> 头部绘制
+< New KnockbackMode
+> 新击退模式
+< 1: All Character Respawn
+> 1: 全部角色重生
+< ===Flags===
+> ===标志位===
+< PlayerNoDead
+> 玩家不会死亡
+< PlayerHorseNoDead
+> 马不会死亡
+< Player Exterminate
+> 一击必杀
+< All No Goods Consume
+> 全体道具无消耗
+< All No Stamina Consume
+> 全体精力无消耗
+< All No FP Consume
+> 全体专注值无消耗
+< All No Arrow Consume
+> 全体箭矢无消耗
+< All No MagicQty Consume
+> 全体法术无消耗
+< Player Hide
+> 隐藏玩家
+< Player Silence
+> 玩家消音
+< All No Dead
+> 全体无死亡
+< All No Damage
+> 全体无伤害
+< All No Hit
+> 全体无受击
+< All No Attack
+> 全体不攻击
+< All No Move
+> 全体不移动
+< All No Update AI
+> 全体AI不更新
+< All No WepProtDurability Damage
+> 全体无武器耐久度损伤
+< All No AshOfWar FP Consume
+> 全体召唤骨灰无专注值消耗
+< All No Goods Consume 2
+> 全体道具无消耗2
+< Force Parry Mode
+> 强制格挡模式
+< All Omission Mode
+> 全体忽略模式
+< OmissionLvl
+> 忽略等级
+< =======
+> =======
+< Disables Summoning?
+> 禁止召唤？
+< ===
+> ===
+< ForceSummon Buddy {item Id]
+> 强制召唤 {道具ID]
+< HitStop
+> 停止受击
+< HitStopTime [sec]
+> 停止受击时间 [秒]
+< PlayerParam
+> 玩家Param
+< Hp
+> 血量
+< BaseMaxHp
+> 基础血量上限
+< MaxHp
+> 血量上限
+< Mp
+> 专注值
+< MaxMp
+> 专注值上限
+< Sp
+> 精力
+< BaseMaxSp
+> 基础精力上限
+< MaxSp
+> 精力上限
+< SoulLv
+> 等级
+< Soul
+> 卢恩
+< Total Get Soul
+> 累计获得卢恩
+< PlayerName
+> 角色名
+< ArcheType
+> 职业
+< Appearance
+> 外形
+< Gift
+> 出生遗物
+< Gender
+> 性别
+< Voice Type
+> 声音类型
+< PlayerNo
+> 玩家编号
+< soloBreakInPoint
+> 
+< Total_Runes
+> 总卢恩数
+< Rune Arc [ON/OFF]
+> 卢恩弯弧 [开/关]
+< ArcheType [Starting Class]
+> 起始职业
+< VowType
+> 装备大卢恩
+< MaxEstusHP
+> 红露滴圣杯瓶数
+< MaxEstusMP
+> 蓝露滴圣杯瓶数
+< SwordArtPoint Num _ByStr
+> 
+< SwordArtPoint Num _ByDex
+> 
+< SwordArtPoint Num _ByInt
+> 
+< SwordArtPoint Num _ByFaith
+> 
+< Channel Id
+> 频道Id
+< Vigor [For Correction]
+> 生命力 [校正用]
+< Mind [For Correction]
+> 集中力 [校正用]
+< Endurance [For Correction]
+> 耐力 [校正用]
+< Strength [For Correction]
+> 力气 [校正用]
+< Dexterity [For Correction]
+> 灵巧 [校正用]
+< Intelligence [For Correction]
+> 智力 [校正用]
+< Faith [For Correction]
+> 信仰 [校正用]
+< Arcane [For Correction]
+> 感应 [校正用]
+< EquipMagicData
+> 法术装备数据
+< Memory Slot 1
+> 记忆槽1
+< Memory Slot 2
+> 记忆槽2
+< Memory Slot 3
+> 记忆槽3
+< Memory Slot 4
+> 记忆槽4
+< Memory Slot 5
+> 记忆槽5
+< Memory Slot 6
+> 记忆槽6
+< Memory Slot 7
+> 记忆槽7
+< Memory Slot 8
+> 记忆槽8
+< Memory Slot 9
+> 记忆槽9
+< Memory Slot 10
+> 记忆槽10
+< Memory Slot 11
+> 记忆槽11
+< Memory Slot 12
+> 记忆槽12
+< Memory Slot 13
+> 记忆槽13
+< Memory Slot 14
+> 记忆槽14
+< GestureGameData
+> 肢体动作数据
+< Unlock All Regular Gestures
+> 解锁所有本体肢体动作
+< Unlock All Shadow of the Erdtree Gestures
+> 解锁所有DLC肢体动作
+< Unlock Cut Gestures
+> 解锁废案肢体动作
+< Perform Gestures
+> 做出动作
+< ID (Dropdown List by CLY)
+> 
+< Play
+> 播放
+< Add_Gesture
+> 获取_动作
+< GestureParamID
+> 动作ParamID
+< AddGesture_
+> 获取动作_
+< Gesture Unlock Data
+> 动作解锁数据
+< Wait
+> 等一下
+< Bravo
+> 拍手
+< ?GoodsName?
+> ?GoodsName?
+< -- Shadow of the Erdtree --
+> -- 黄金树幽影 --
+< -- Unused --
+> -- 未使用 --
+< Unused Gesture
+> 未使用肢体动作
+< Gesture Equip Data
+> 肢体动作装备数据
+< Slot 1
+> 槽位1
+< Slot 2
+> 槽位2
+< Slot 3
+> 槽位3
+< Slot 4
+> 槽位4
+< Slot 5
+> 槽位5
+< Slot 6
+> 槽位6
+< Face Data
+> 捏脸数据
+< Face Logger
+> 捏脸Logger
+< Face Editor
+> 捏脸编辑器
+< Animation
+> 动作
+< Idle Animation
+> 待机动作
+< Animation Speed (Player Speed)
+> 动作速度(玩家速度)
+< SpecialEffect
+> 特殊效果
+< Active Effects
+> 当前效果
+< 00
+> 
+< Duration
+> 持续时间
+< Interval
+> 建个
+< Total Duration
+> 总持续时间
+< 01
+> 
+< 02
+> 
+< 03
+> 
+< 04
+> 
+< 05
+> 
+< 06
+> 
+< 07
+> 
+< 08
+> 
+< 09
+> 
+< 10
+> 
+< 11
+> 
+< 12
+> 
+< 13
+> 
+< 14
+> 
+< 15
+> 
+< ChrRideModule
+> 
+< Horse_X
+> 马X
+< Horse_Y
+> 马Y
+< Horse_Z
+> 马Z
+< Toughness
+> 
+< ToughnessDurability /
+> 
+< ToughnessDurability
+> 
+< recoverTime
+> 回复时间
+< SuperArmor
+> 超级护甲
+< break
+> 
+< SADurability  /
+> 
+< SADurability
+> 
+< ExtraSADurability  /
+> 
+< ExtraSADurability
+> 
+< OptionData
+> 选项数据
+< Sound Type
+> 
+< BGM Volume
+> 
+< SE Volume
+> 
+< Voice Volume
+> 
+< Controls->Button Settings
+> 
+< Controls->Key Bindings
+> 
+< Windowed Resolution
+> 
+< Fullscreen Resolution
+> 
+< Borderless Windowed Resolution
+> 
+< Auto-detect best rendering settings | 自動描画調整
+> 
+< Quality Setting
+> 
+< Texture quality
+> 
+< Lightning Quality
+> 
+< [ Scripts ]
+> 【脚本】
+< [ Progression ]
+> 【游玩进度】
+< Activate All Summoning Pools 
+> 激活所有召唤池
+< Unlock Graces/Map/Cookbooks/Pouch etc (will Include DLC content)
+> 解锁赐福/地图/制作笔记/护符皮袋等(包含DLC内容)
+< Unlock/Restore (Before Closing CE) Main Game Maps
+> 解锁/恢复(关闭CE前)本体地图
+< Unlock/Restore (Before Closing CE) DLC Maps
+> 解锁/恢复(关闭CE前)DLC地图
+< Unlock/Restore (Before Closing CE) All Main Game Graces
+> 解锁/恢复(关闭CE前)全部本体赐福
+< Unlock/Restore (Before Closing CE) All DLC Graces
+> 解锁/恢复(关闭CE前)全部DLC赐福
+< Show All Graces
+> 显示所有赐福
+< Complete Varre Questline
+> 完成梵雷任务
+< Show All Buildings on Map
+> 在地图上显示所有建筑
+< Free Crafting and Weapon Upgrading
+> 制作道具和强化武器无消耗
+< Enable FastTravel In Dungeons
+> 在地牢里也能传送
+< Merchants Sells Everything Ror 1 Rune
+> 商人的所有商品只卖1卢恩
+< Fully Unlock Twin Maiden Husk Shop
+> 完全解锁孪生老妪的商店
+< Cracked Pots/Ritual Pots Hack (experimental-Back up save)
+> 龟裂壶/仪式壶作弊 (实验性功能，请备份存档)
+< Drop Rate/Discovery Multiplier (Can Change Default in Script) v1
+> 掉落率/观察力倍率 (可以在脚本里修改默认值) v1
+< Set Drop Rate Multiplier
+> 设置掉落倍率
+< Materials Gained Multiplier (Must have at least one, Then will Multiply others when picked up)
+> 材料获取倍率 (必须至少有一个，然后会拾取时会乘以倍率)
+< Multiplier
+> 倍率
+< No Runes Loss on Death
+> 死亡时不掉落卢恩
+< Rune Gather Multiplier
+> 卢恩获取倍率
+< Rune earn Multiplier
+> 卢恩获取倍率
+< Ignore Weapon Stat Requirements
+> 忽略武器装备需求
+< No Spell Requirements + All spells take only 1 Slot
+> 忽略法术需求 + 所有法术只使用1个法术槽
+< Magic No Requirements
+> 忽略法术需求
+< Revive/Kill All Bosses (Base Game only)
+> 复活/杀死所有Boss(仅本体)
+< ENABLE=REVIVE DISABLE=KILL
+> 激活=复活 不激活=杀死
+< Revive/Kill ALL Bosses 
+> 复活/杀死所有Boss
+< Revive/Kill all Major/Achievement Bosses in Area
+> 复活/杀死所有区域主要/成就Boss
+< Map in Combar
+> 地图交战中
+< Set flask level
+> 设置圣杯瓶等级
+< [ Player ]
+> 【玩家】
+< One Hit Kill Everything
+> 一击必杀
+< NoHitbox+ReflectAttack
+> 无受击+反弹攻击
+< Reflect Attack (May Crach)
+> 反弹攻击(可能导致游戏崩溃)
+< Unlimited Consumables
+> 无限消耗品
+< Unlimited Arrows
+> 无限箭矢
+< Unlimited FP
+> 无限专注值
+< Unlimited Stamina
+> 无限精力
+< Unlimited Wondrous Physick
+> 无限灵药圣杯瓶
+< No Weight
+> 无负重
+< ApplyEffect
+> 应用效果
+< Effect
+> 效果
+< Apply_Effect
+> 应用_效果
+< Dragon Eyes
+> 龙飨眼
+< Blood eyes
+> 血眼
+< Frenzied Body
+> 癫火神躯
+< Open Menus
+> 打开菜单
+< Site of Grace
+> 赐福
+< Flask Allocation
+> 分配灵药
+< Rennala
+> 蕾娜菈
+< Misc
+> 杂项
+< Some Menu
+> 某些菜单
+< Shops
+> 商店
+< All Shops
+> 所有商店
+< -- Options
+> -- 选项
+< Access all shop inventory
+> 访问所有商店库存
+< Unlimited stock
+> 无限数量
+< Shops are free
+> 免费商店
+< Remove material requirement (breaks some shops)
+> 移除所有材料限制(破坏某些商店功能)
+< Open World
+> 打开整个世界
+< Thops
+> 托普斯
+< Knight/Recusant Bernahl
+> 骑士/“叛律者”贝纳尔
+< Nomadic Merchants
+> 流浪民族的商人
+< Merchant Kale
+> “流浪商人”咖列
+< Limgrave near Coastal Cave
+> 宁姆格福靠近海岸洞窟
+< Change Class/Reset your Stats
+> 改变职业/重置属性
+< Those scripts dont change your gear it only adjust your stats 
+> 脚本不会改变你的装备只会改变你的属性
+< Max lvl Wretch
+> 一贫如洗满级
+< Give Yourself Frenzied Eyes
+> 给于癫火眼
+< Easy Parry (Makes it easier to Parry)
+> 简单格挡 (使得格挡更容易)
+< Global Parry
+> 完全格挡
+< AutoParry
+> 自动格挡
+< Super Poise
+> 超级常韧
+< Infinite Player / Horse Jumps
+> 无限跳跃(玩家/马)
+< Ride Anywhere
+> 任意地点骑马
+< 骑马2
+> 骑马2
+< Summon Spirit Ashes Anywhere 
+> 任意地点召唤灵魂骨灰
+< 扩大召唤范围
+> 扩大召唤范围
+< Resistance Multipliers
+> 抗性倍率
+< Activate
+> 激活
+< Robustness Max (Hemorrhage/Bleed)
+> 健壮度上限(出血)
+< Robustness Max (Frostbite)
+> 健壮度上限(冻伤)
+< Vitality Max (Deathblight)
+> 抗死度上限(骤死)
+< PlayAnimation
+> 玩家动画
+< List
+> 列表
+< W_Attack
+> 
+< W_DeathStart
+> 
+< W_ItemInvalid
+> 
+< Bullet Spawn
+> 生成投射物
+< BulletID
+> 
+< Print Current PosX/Y/Z
+> 
+< X
+> 
+< Y
+> 
+< Z
+> 
+< createProjectile
+> 创建投射物
+< [ Game ]
+> 【游戏】
+< Gamespeed modifier
+> 修改游戏速度
+< Set Time/Daylight
+> 设置时间/日夜
+< Freeze Time of Day
+> 锁定日夜时间
+< Set Daylight/Time
+> 设置日夜/时间
+< Pause Game
+> 暂停游戏
+< [ Misc ]
+> 【杂项】
+< Hide From Enemies
+> 不会被敌人发现
+< Hit Collision Display ("Green Screen")
+> 命中碰撞渲染
+< Color
+> 颜色
+< hide map
+> 隐藏地图
+< More Backstab Chances
+> 提升背刺判定
+< Quicker Backstab
+> 更快的背刺
+< Hide Cloth
+> 隐藏衣服
+< Fog Wall Anim
+> 雾墙动画
+< Aggression Mod (restart to disable)
+> 攻击性修改(禁用需重启游戏)
+< Max Cracked Pots
+> 龟裂壶数量上限
+< Max Ritual Pots
+> 仪式壶数量上限
+< Mark iFrames (Parry/Roll)
+> 标记i帧(格挡/翻滚)
+< Debug Stuff
+> Debug内容
+< ChrRideModule by Pavuk
+> 
+< Bonfire Enemy Reset by Pavuk
+> 
+< VFX DEBUG by Pavuk
+> 
+< VFX ID
+> 
+< IsUseDistFromCamera
+> 
+< Dist From Camera
+> 
+< [MOVE CREATED VFX]
+> 
+< Speed
+> 
+< Radius
+> 
+< ---
+> 
+< Create Vfx
+> 
+< Despawn all vfx
+> 
+< VfxDebugConstructor
+> 
+< GroupMask/Hitbox by Pavuk
+> 
+< Show All
+> 
+< Show Map
+> 
+< Show Geom Lv2
+> 
+< Show Geom Lv3
+> 
+< Show Geom Lv4
+> 
+< Show Geom Lv9
+> 
+< Show Geom Lv10
+> 
+< Show Geom Lv11
+> 
+< Show Geom Lv1
+> 
+< Show Geom Lv5
+> 
+< Show Geom Lv6
+> 
+< Show Geom Lv7
+> 
+< Show Geom Lv8
+> 
+< Show Chr
+> 
+< Show VFX
+> 
+< Show Cutscene
+> 
+< Show Unk
+> 
+< Show Grass
+> 
+< Display hitbox
+> 
+< ret
+> 
+< DisplayBossHPBar by Pavuk
+> 
+< CharaInitSwap
+> 
+< This OVERWRITES your current character, backup your save!
+> 
+< ChrID
+> 
+< Swap_Chr!
+> 
+< Damage management | ダメージ管理 by inuNorii
+> 
+< Debug sphere display | デバッグ球表示
+> 
+< Debug sphere display 2 | デバッグ球表示2
+> 
+< Display debug information | デバッグ情報表示
+> 
+< Display the farthest attack arrival point | 最遠攻撃到達点を表示
+> 
+< Damage from weapon Damipoli | 武器ダミポリからダメージ発生するか
+> 
+< Whether damage occurs by referring to attack parameters | 攻撃パラメータ参照してダメージ発生するか
+> 
+< Whether to cast the damage with large rotation angle in multiple times | 回転角が大きいダメージを複数回に分けてシェイプキャストするか
+> 
+< Sparking distance | 火花出す距離
+> 
+< Slope of low hit assumed on the floor [angle 0-180] | 床で仮定するロウヒットの斜度[角度　０〜180]
+> 
+< Damage number | ダメージ数
+> 
+< History usage number | 履歴使用数
+> 
+< Generated damage list | 発生ダメージ一覧
+> 
+< Damage number | ダメージ数[ SUM:%d / POOL:%d ] [ EM:%d / SUM:%d ]
+> 
+< MapLight by NBOTT42
+> 
+< Map Light Colors Red
+> 
+< Map Light Colors Green
+> 
+< Map Light Colors Blue
+> 
+< TurnOnLights
+> 
+< Effect Stretching (Original 1)
+> 
+< Character Stretching (Original 1)
+> 
+< [ Fast Travel and Warp ]
+> 【快速传送】
+< Choose Grace
+> 选择赐福
+< Invoke Warp
+> 进行传送
+< //(/=)((/&W1t3F6
+> //(/=)((/&W1t3F6
+< Show all Graces
+> 显示所有赐福
+< Map In Combat
+> 战斗中地图
+< [ Teleport, Coords, NoClip/FreeCam ]
+> 【传送，坐标，无过场/自由视角】
+< AOB Teleport
+> AOB传送
+< Target-AOB
+> 目标AOB
+< InvokeTP
+> 进行传送
+< Copypaste current coords
+> 复制粘贴当前坐标
+< ---------------
+> ---------------
+< Local Coords
+> 当前坐标
+< Cos(Azimuth/2)
+> 
+< Sin(Azimuth/2)
+> 
+< Global Coords
+> 全局坐标
+< Player Rad
+> 玩家方向
+< MapID
+> 地图ID
+< Chunk Coords
+> 区块坐标
+< InitPos Coords
+> 初始坐标
+< LastGoodGlobalCoords
+> 最后的稳定全局坐标
+< Bloodstain Coords
+> 尸体坐标
+< Souls
+> 尸体卢恩数
+< HeroPoint
+> 
+< Camera Coords
+> 摄像头坐标
+< Yaw
+> 
+< Pitch
+> 
+< CamFollow
+> 摄像头跟随
+< AutoRotation
+> 自动旋转
+< NPC Coords
+> NPC坐标
+< Player Coordinates CMP
+> 玩家坐标对比
+< Coordinates
+> 坐标
+< Save Player Coordinates
+> 保存玩家坐标
+< Saving
+> 保存
+< Teleport Player To Saved Coordinates
+> 传送玩家到保存的坐标
+< Loading
+> 加载
+< Teleport all Entities To Saved Coordinates
+> 将所有物件传送到保存的坐标
+< Teleport all Entities To Player Coordinates
+> 将所有物件传送到玩家的坐标
+< SavedCoordinates
+> 保存的坐标
+< PlayerCoordinates
+> 玩家坐标
+< PlayerCoordinates (Read Only)
+> 玩家坐标(只读)
+< EntityCoordinates
+> 物件坐标
+< No Camera Bound
+> 不绑定摄像头
+< NoClip/Freecam
+> 无过场/自由视角
+< Activate NoClip
+> 激活无过场
+< Activate Freecam
+> 激活自由视角
+< No Fall Camera
+> 无死亡视角
+< [ Player Status ]
+> 【玩家状态】
+< [ World / Npc Flags ]
+> 【世界/NPC标志位】
+< Flags Logger
+> 标志位Logger
+< Revive Bosses
+> 复活Boss
+< Just select "Alive" in the Dropdown to Revive any Boss.
+> 在下拉框选择“存活”即可复活Boss
+< Kill/Revive (Before Closing CE) All Main Game Bosses
+> 杀死/复活(关闭CE前)所有本体Boss
+< Kill/Revive (Before Closing CE) All DLC Bosses
+> 杀死/复活(关闭CE前)所有DLC Boss
+< Revive/Kill all in Area
+> 杀死/复活所有区域Boss
+< Alabaster Lord (Evergaol)
+> 石肤黑王(封印监牢)
+< Margit the Fell Omen
+> “恶兆妖鬼”玛尔基特
+< Weeping Weeping Peninsula
+> 啜泣半岛
+< //skilllessaf//
+> 
+< Crucible Knight & Misbegotten Warrior (Redmane Castle) 
+> 熔炉骑士 & 混种战士(红狮子城)
+< Elder Dragon Greyoll (can apparently spawn invisible)
+> 老龙桂奥尔
+< Dragonbarrow
+> 龙墓
+< Capital Outskirts 
+> 王城外围
+< Crucible Knight & Crucible Knight Ordovis (Auriza Hero Grave)
+> 熔炉骑士 & “熔炉骑士”奥陶琵斯(亚雷萨英雄墓地)
+< Leyendell, Royal Capital
+> 王城罗德尔
+< God-Devouring Serpent / Rykard, Lord of Blasphemy
+> 噬神大蛇 / “亵渎君王”拉卡德
+< //skillless//
+> 
+< Malekith, the Black Blade
+> “黑剑”玛利喀斯
+< Consecrated Snowfields
+> 化圣雪原
+<  To fully reset set everything to 0
+> 全部完全重置为0
+< Is Killed
+> 已经击杀
+< Is Encountered
+> 已经遇到
+< Is First Encounter (affects HP bar before stage 2)
+> 已经初见(影响二阶段HP)
+< Is Cocoon present
+> 是否见过茧
+< Nokron Eternal City
+> “永恒之城”诺克隆恩
+< Fia's Champions
+> 菲雅的英雄
+< Leyendell, Ashen Capital
+> 灰城罗德尔
+< Radagon of the Golden Order / Elden Beast
+> “黄金律法”拉达冈 / 艾尔登之兽
+< Demi Human Swordsman Onze
+> “亚人剑圣”翁吉
+< Renalla Twin Moon Knight Boss
+> “双月骑士”蕾菈娜
+< Red Bear 
+> 红熊
+< Ghostflame Dragon Ruins
+> 灵火龙废墟
+< Midra Lord of Frenzied Flame
+> “癫火之王”米德拉
+< Tree Sentinel 
+> 大树守卫
+< The Jagged Peak Drake
+> 尖刺山的飞龙
+< Enir Ilim
+> 艾尼尔·伊利姆
+< Promised Consort Radahn / Radahn, Consort of Miquella
+> “约定之王”拉塔恩 / “米凯拉的王”拉塔恩
+< Revive NPC
+> 复活NPC
+< Select NPC State by double clicking the Value slot. Reload after changing Value
+> 双击“值/Value”选择NPC状态，修改后需要刷新地图。
+< Revive/Kill all
+> 复活/击杀全部
+< --------------------------------------------------
+> --------------------------------------------------
+< Miriel, Pastor of Vows 
+> “结缘牧师”米利耶
+< Preceptor Seluvis 
+> 魔法教授赛尔维斯
+< Merchant Kalé 
+> “流浪商人”咖列
+< White-Faced Varré
+> “白面具”梵雷
+< Alexander Iron Fist 
+> “战士壶”亚历山大
+< Devious Commoner 
+> 狡猾的居民
+< Kenneth Haight
+> 肯尼斯·海德
+< Fia
+> 菲雅
+< Irina
+> 伊蕾娜
+< Edgar 
+> 艾德格
+< Latenna
+> 勒缇娜
+< Yura
+> 尤拉
+< Tophs
+> 托普斯
+< Jar Bairn
+> 小壶
+< Knight Bernahl 
+> 骑士贝纳尔
+< Millicent 
+> 米莉森
+< Nepheli Loux 
+> 涅斐丽·露
+< Gatekeeper Gostoc 
+> 门卫葛托克
+< Boc 
+> 柏克
+< Gurranq
+> 古兰格
+< Hyetta
+> 海妲
+< Whetblades
+> 砥石刀
+< Unlock/Restore all Whetblades
+> 解锁/恢复所有砥石刀
+< //You need to pick up the the one next to the Gatefront//
+> //你需要失去关卡前方地下室的砥石小刀//
+< Double click the Value to change it 
+> 双击”值/Value“修改
+< Upgrade - Standard 1
+> 强化 - 普通1
+< Unlock/Restore all Main Game Ashes of War
+> 解锁/恢复所有本体战灰
+< Unlock/Restore all DLC Ashes of War
+> 解锁/恢复所有DLC战灰
+< //This Will unlock Ashes of War for duplication//
+> //此处用于解锁战灰的复制//
+< Ash of War:  Thop's Barrier
+> 战灰：托普斯的力场
+< Ash of War: Loretta's slash
+> 战灰：罗蕾塔的斩击
+< Ash of War: Stamp (Sweep)
+> 战灰：箭步（回旋斩）
+< Ash of War: Stamp (Upward Cut)
+> 战灰：箭步（上砍）
+< Cookbooks
+> 制作笔记
+< Unlock/Restore (Before Closing CE) All Main Game Cookbooks
+> 解锁/恢复(关闭CE前)所有本体制作笔记
+< Unlock/Restore (Before Closing CE) All DLC Cookbooks
+> 解锁/恢复(关闭CE前)所有DLC制作笔记
+< Nomadic warrior's Cookbook [1]
+> 流浪战士的制作笔记【１】
+< Nomadic warrior's Cookbook [2]
+> 流浪战士的制作笔记【２】
+< Maps
+> 地图
+< Map: N
+> 地图：北方
+< Map: NE
+> 地图：东北
+< Map: SE
+> 地图：东南
+< Map: NW
+> 地图：西北
+< Map: SW
+> 地图：西南
+< Map: Center
+> 地图：中央
+< Map: Altus Plateur
+> 地图碎片：亚坛高原
+< Map: Mountaintops of the Giants, North
+> 地图碎片：巨人山顶（北）
+< Map: Deeprooth Depths
+> 地图碎片：深根底层
+< Map: Stormfoot Catacombs
+> 地图碎片：风暴脚跟的地下墓地
+< Map: Fringefolk Hero's Cave
+> 地图碎片：边境英雄墓地
+< Map Abyss
+> 地图碎片：谷底
+< Map Gracesite Plain
+> 地图碎片：墓地平原
+< Map Scada Altus
+> 地图碎片：幽影亚坛
+< Map Southern Shore
+> 地图碎片：南方海岸
+< Map Rauh Ruins
+> 地图碎片：劳弗古遗迹
+< Dont activate both versions of the Capital at the same time or it will potentially break Boss arenas and parts of the Map 
+> 请不要同时激活王城的两个不同状态的同一个赐福，否则可能会破坏流程
+< Table of Lost Grace / Roundtable Hold
+> 
+< Behind The Castle
+> 城堡后方
+< Debate Parlour
+> 讨论室
+< Auzira Hero's Grave
+> 亚雷萨英雄墓地
+< Minor Eerdtree Church
+> 小黄金树教堂
+< Leyndell, Royal Capiral
+> 王城罗德尔
+< East Capital Rampart 
+> 王城东边城墙
+< Minor Eerdtree Catacombs
+> 小黄金树地下墓地
+< Heart of Aenoia
+> 艾奥尼亚中心地
+< Forbiden Lands
+> 禁域
+< Divine Tower of the East Altus
+> 东亚坛神授塔
+< Divine Tower of the East Altus: Gate
+> 东亚坛神授塔（门口）
+< Spiritcaller's Cave
+> 唤灵洞窟
+< Giant's Gravepost
+> 巨人墓碑
+< Giant's Mountaintop Catacombs
+> 巨人山顶地下墓地
+< Malenia, Godess of Rot
+> 玛莲妮亚，腐败女神
+< Beside the great Bridge
+> 大桥旁
+< Underground
+> 地底
+< Main Game (Ash)
+> 主游戏（灰烬）
+< Leyendell, Capital of Ash
+> "灰烬王城"罗德尔
+< Three Path Cross
+> 三路十字路口
+< Greatbridge North
+> 大桥北方
+< Castle Lord's Chamber
+> 城主房间
+< Lamenter's Goall
+> 哀叹者监牢
+< Rest of the Dead Dragon
+> 死龙安息处
+< Belrat Tower Settlement
+> 贝尔拉特塔住所
+< Enir Ilim Outer Wall
+> 艾尼尔·伊利姆外墙
+< Rauh Ancient Ruins East
+> 拉乌古代遗迹东方
+< Rauh Ancient Ruins West
+> 拉乌古代遗迹西方
+< Ancient Ruins Grand Stairway
+> 古代遗迹大阶梯
+< Church of the Bud Main Entrance
+> 萌芽教堂正门
+< Scadu Altus 
+> 影树高原
+< Scadu Altus West
+> 影树高原西方
+< Moorth Highway South
+> 穆尔斯大道南方
+< Saduview Cross
+> 影景十字路口
+< Recluses River Upstream
+> 隐者河上游
+< Recluses River Downstream
+> 隐者河下游
+< Shadow Keep, Church District 
+> 幽影城（教区）
+< Tree Worship Passage
+> 礼树暗道
+< Tree Worship Sanctum
+> 礼树教堂
+< Specimen Storehouse 
+> 物种保藏库
+< Storehouse First Floor 
+> 保藏库（一楼）
+< Storehouse Fourth Floor
+> 保藏库（四楼）
+< Storehouse Seventh Floor
+> 保藏库（七楼）
+< Storehouse Back Section
+> 保藏库（后区）
+< Storehouse Loft
+> 保藏库（阁楼）
+< Shadow Keep Back Gate
+> 幽影城（后门）
+< Buildings
+> 建筑
+< Unlock/Restore (Before Closing CE) Main Game Buildings
+> 解锁/恢复(关闭CE前)本体建筑
+< Albinaurics Shack
+> 白金破屋
+< Taylews Ruined Forge
+> 泰乌尔锻造遗迹
+< unused?
+> 未使用?
+< Limgrave 
+> 宁姆格福
+< Warmaster´s Shack
+> 习战者的破屋
+< Artist´s Shack
+> 画家的破屋
+< Third Chuch of Marika
+> 玛莉卡第三教堂
+< Limgrave Colloseum
+> 宁姆格福竞技场
+< Weeping  Peninsula 
+> 啜泣半岛
+< Oridys´s Rise
+> 奥利缇斯魔法师塔
+< Isolated Mechant´s Shack
+> 隐居商人的破屋
+< Earthbone Cave
+> 垂穴洞窟
+< Impaler´s Catacombs
+> 穿刺地下墓地
+< Caelid 
+> 盖利德
+< Gowry´s Shack
+> 格威的破屋
+< Minor Erdtree Caelid
+> 盖利德小黄金树
+< Sellia, town of Sorcery
+> 瑟利亚魔法镇
+< Isolated Merchant´s Shack
+> 隐居商人的破屋
+< Sellia Hideaway 
+> 瑟利亚隐藏洞窟
+< Minor Erdtree Dragonbarrow
+> 龙墓小黄金树
+< Lennes´ Rise
+> 雷恩魔法师塔
+< Liurnia of the Lakes 
+> 湖之利耶尼亚
+< Road´s End Catacombs
+> 绝路地下墓地
+< Academy of Raya Lucaria 
+> 魔法学院雷亚卢卡利亚
+< Revenger´s Shack
+> 复仇者的破屋
+< Biolprawn Shack
+> 煮虾子的破屋
+< Slumbering Wolf´s Shack
+> 眠狼的破屋
+< Kingsreal Ruins
+> 王室领地废墟
+< Church of Inhibition 
+> 镇静教堂
+< Cuckoo´s Evergaol
+> 杜鹃的封印监牢
+< Malefactor´s Evergaol
+> 小偷的封印监牢
+< Village of the Albinaurics 
+> 白金村
+< Chelona´s Rise
+> 希耶罗那魔法师塔
+< Ringleader´s Evergaol
+> 刀之首的封印监牢
+< Divine Tower of Liurnia 
+> 利耶尼亚神授塔
+< Minor Erdtree NE
+> 小黄金树（东北）
+< Minor Erdtree SW
+> 小黄金树（西南）
+< Renna´s Rise
+> 蕾娜魔法师塔
+< Ranni´s Rise
+> 菈妮魔法师塔
+< Seluvis´s Rise
+> 赛尔维斯魔法师塔
+< Testu´s Rise
+> 提斯魔法师塔
+< Altus 
+> 亚坛高原
+< Perfumer´s Ruins
+> 调香师废墟
+< Minor Erdtree E
+> 小黄金树（东）
+< Minor Erdtree N
+> 小黄金树（北）
+< Öux Ruins
+> 卢克斯废墟
+< Craftman´s Shack
+> 匠人的破屋
+< Hermit´s Shack
+> 遁世者的破屋
+< Minor Erdtree W
+> 小黄金树（西）
+< Sage´s Cave
+> 贤者的洞窟
+< Perfumer´s Grotto
+> 调香师的隐藏洞窟
+< Wyndham Catacombs 
+> 威达姆地下墓地
+< Auriza Hero´s Grave
+> 亚雷萨英雄墓地
+< Gelmir Hero´s Grave
+> 格密尔英雄墓地
+< Sainted Hero´s Grave
+> 尊贵者的英雄墓地
+< Hermit Merchant´s Shack
+> 遁世商人的破屋
+< St. Trina´s Hideaway
+> 托莉娜的藏身所
+< Leyendell Colosseum
+> 王城竞技场
+< Mountaintops of the Giants 
+> 巨人山顶
+< Guardian´s Garrison
+> 监视者要塞
+< Lord Contender´s Evergaol
+> 准王者的封印监牢
+< Stargazer´s Ruins
+> 观星者废墟
+< Giants´ Mountaintop Catacombs
+> 巨人山顶地下墓地
+< Giant-Conquering Hero´s Grave
+> 巨人战争的英雄墓地
+< Minor Erdtree NW
+> 小黄金树（西北）
+< Apostate Dereclict
+> 离教废屋
+< Ainsel River 
+> 安瑟尔河
+< Nokstella Eternal City
+> "永恒之城"诺克史黛拉
+< Hollowhorn Grounds
+> 角骸灵地
+< Night´s Sacred Ground
+> 黑夜神域
+< Twin Maiden Husk
+> 孪生老妪
+< These Flags change if the Twin Maiden Husk Received a Bearing or not
+> 这些标志位控制了孪生老妪是否获取了对应的铃珠
+< Remove all Bearings/Add all Bearings
+> 移除/获取所有铃珠
+< Patches's Bell Bearing
+> 帕奇的铃珠
+< Events
+> 事件
+< Epilogue ( 0 > 1 > 0 or it will keep repeating)
+> 序章
+< Burning ashes floating
+> 烧成灰城
+< Fire in Roundtable Hold (Slight)
+> 燃烧的圆桌厅
+< In cut-scene/loading screen
+> 在过场/加载画面
+< Ability to Summon/ Summon Available Icon
+> 显示召唤图标
+< Invasion Regions
+> 入侵区域
+< Unlock Arena(s)
+> 解锁竞技场
+< Limgrave Arena
+> 宁姆格福
+< Leyndell
+> 罗德尔
+< Caelid Arena
+> 盖利德
+< Endings 
+> 结局
+< Setting All these Flags to "No" and unlocking the Fractured Marika Site of Grace allows you to play all the Endings in one Run
+> 将这些标志位全部设为否并且解锁石舞台的赐福后可以重复观看结局
+< Game Finished
+> 已完成游戏
+< Lord of The Frenzied Flame 
+> 癫火之王
+< Age of the Stars 
+> 星星时代
+< Blessing of Despair 
+> 绝望赐福时代
+< Age of Order
+> 律法时代
+< Age of Duskborn
+> 潜藏者当道的时代
+< Age of Fracture 
+> 衰颓时代
+< [ NPC ]
+> 【NPC】
+< Targeted Enemy
+> 目标敌人
+< Extra Lock on Range
+> 远距离锁定
+< Target
+> 目标
+< NpcId
+> NPC ID
+< Local ID
+> 本地ID
+< NpcThinK ParamID
+> NPC思考 Param ID
+< Global ID
+> 全局ID
+< Param ID
+> Param ID
+< Phantom Type
+> 灵魂类型
+< Alliance
+> 关系
+< Animation Speed
+> 动画速度
+< Dead AF
+> 死亡AF
+< Roll
+> 翻滚
+< Block
+> 格挡
+< Resistances
+> 抗性
+< Poison Max
+> 中毒上限
+< Scarlet Rot Max
+> 猩红腐败上限
+< Bleed
+> 出血
+< Bleed Max
+> 出血上限
+< Blight
+> 骤死
+< Blight Max
+> 骤死上限
+< Frostbite
+> 冻伤
+< Frostbite Max
+> 冻伤上限
+< Sleep Max
+> 催眠上限
+< Mad
+> 发狂
+< Mad Max
+> 发狂上限
+< Azimuth Angle
+> Azimuth角度
+< Position
+> 位置
+< InitPos
+> 初始位置
+< Teleport Npc to Self
+> 传送Npc到自己的位置
+< Teleport Self to Npc
+> 传送自己到Npc的位置
+< ThrowPtr
+> 
+< ModelId
+> 
+< Handle
+> 
+< Stats
+> 
+< MaxHP2
+> 
+< NoFPConsumption
+> 
+< NoStaminaConsumption
+> 
+< Character Spawner
+> 角色生成器
+< NPC Manager (Double-click to select NPCs)
+> NPC管理器(双击选择NPC)
+< Character Instance
+> 角色结构
+< --- debug
+> 
+< ItemQuantity
+> 
+< HighlightedItemFunc
+> 
+< dropdowns
+> 
+< GraceDropdown
+> 
+< AnimDropdown
+> 
+< AshofWarDropdown
+> 
+< NPCParamDropdown
+> 
+< MagicID
+> 
+< itemgibv2
+> 
+< WeaponDropdown(0)
+> 
+< ArmorDropdown(1)
+> 
+< TailsmanDropdown(2)
+> 
+< Magic/GoodsDropdown(3)
+> 
+< AshesofWarDropdown(4)
+> 
+< GigaGib
+> 
+< Main Game Lists
+> 
+< Weapon and Shields
+> 
+< Max Level Weapon and Shields
+> 
+< Talisman
+> 
+< Ash of War
+> 
+< Arrows
+> 
+< Smithing Stone  and Glovewort
+> 
+< Bell Bearing
+> 
+< Crystal Tear
+> 
+< Maps/Cookbooks/Whetblades
+> 
+< All Souls+0
+> 
+< All Souls+10
+> 
+< Add Runes and Golden Runes of bosses
+> 
+< Reusables
+> 
+< Special Items
+> 
+< Online Items
+> 
+< DLC Lists
+> 
+< DLC Weapons and Shields
+> 
+< DLC Armors
+> 
+< DLC Talismans
+> 
+< DLC Crafting Materials
+> 
+< DLC Consumables
+> 
+< DLC Ashes of War
+> 
+< DLC Arrows
+> 
+< DLC Key Items
+> 
+< DLC Special Items
+> 
+< DLC Reusables
+> 
+< DLC Bell Bearing
+> 
+< DLC Crystal Tear
+> 
+< DLC Maps/Cookbooks
+> 
+< DLC Tutorials (not used in gigagib)
+> 
+< DLC Ashes +0
+> 
+< DLC Ashes +10
+> 
+< DLC Pots (not used in gigagib)
+> 
+< DLC Remembrances
+> 
+< DLC Spells
+> 
+< DLC Weapons and Shields Max lvl
+> 
+< Tailoring Tools Flags
+> 
+< Unlock Tailoring Tools
+> 
+< Unavailable items
+> 
+< ON_OFF
+> 
+< --- WIP and outdated
+> 
+< itemgib func
+> 
+< itemgibrcx
+> 
+< coordtest
+> 
+< Peek Support
+> 
+< Old 
+> 
+< Weapon
+> 
+< Data
+> 
+< Goods
+> 
+< sortid
+> 
+< ID
+> 
+< Bullet
+> 
+< Effects
+> 
+< DATA
+> 
+< NPC
+> 
+< SummonSpirits
+> 
+< Behavior
+> 
+< Data (Change bullets by changing reference IDs)
+> 
+< by NBOTT42
+> 
+< Enhanced Magic
+> 
+< String Dumper
+> 
+< String Table Index
+> 
+< File Name
+> 
+< Dump
+> 
+< Pause Process
+> 
+< ItemGib v1.0 Old
+> 
+< Quantity
+> 
+< Add Item
+> 
+< EntityCountOverWorld
+> 
+< Reset all Bosses
+> 
+< Display Target's Status
+> 
+< Start
+> 
+< ↓CX/CY=Size,DX/DY=Position
+> 
+< FontName
+> 
+< FontSize
+> 
+< DX
+> 
+< DY
+> 
+< CX
+> 
+< CY
+> 
+< Mode
+> 
+< Fixed
+> 
+< ShowName
+> 
+< ShowHP
+> 
+< ShowMP
+> 
+< ShowSP
+> 
+< ShowPoise
+> 
+< ShowPoison
+> 
+< ShowRot
+> 
+< ShowBleed
+> 
+< ShowBlight
+> 
+< ShowFrost
+> 
+< ShowSleep
+> 
+< ShowMad
+> 
+< [Info and FAQ]
+> 
+< Important
+> 
+< Marked 
+> 
+< Marked
+> 
+< Most used Scripts
+> 
+< Infos/Descriptions 
+> 
+< [Our Patreon page]
+> 
+< If you like our work support us on Patreon
+> 
+< As a little bonus you get a EAC trainer that enables you to use serverside super spells with free trial
+> 
+< [Support Discord]
+> 
+< [ID master spreadsheet]
+> 
+< 
+> 
+< FaceData_AOB
+> 
+< Face_Model_Id
+> 
+< Hair_Model_Id
+> 
+< Eye_Model_Id
+> 
+< Eyebrow_Model_Id
+> 
+< Beard_Model_Id
+> 
+< Accessories_Model_Id
+> 
+< Decal_Model_Id
+> 
+< Eyelash_Model_Id
+> 
+< Unk (Numen = 128)
+> 
+< EyeSlant
+> 
+< Vertical Face Ratio
+> 
+< Horizontal Face Ratio
+> 
+< Jaw With
+> 
+< Mouth Occlusion
+> 
+< Nose Bridge Protrusion 1
+> 
+< Nose Bridge Protrusion 2
+> 
+< Body_Scale_Head
+> 
+< Body_Scale_Breast
+> 
+< Body_Scale_Abdomen
+> 
+< Body_Scale_Arm_Right
+> 
+< Body_Scale_Leg_Right
+> 
+< Body_Scale_Arm_Left
+> 
+< Body_Scale_Leg_Left
+> 
+< Skin_Color_r
+> 
+< Skin_Color_g
+> 
+< Skin_Color_b
+> 
+< Skin_Color_a
+> 
+< Skin_Pores
+> 
+< Beard_Stubble
+> 
+< Skin_Dark_Circle
+> 
+< Skin_Dark_Circle_Color_r
+> 
+< Skin_Dark_Circle_Color_g
+> 
+< Skin_Dark_Circle_Color_b
+> 
+< Cheeks_Color_r
+> 
+< Cheeks_Color_g
+> 
+< Cheeks_Color_b
+> 
+< Eyeliner_Color_r
+> 
+< Eyeliner_Color_g
+> 
+< Eyeliner_Color_b
+> 
+< Eyeshadow_Lower
+> 
+< Eyeshadow_Lower_Color_r
+> 
+< Eyeshadow_Lower_Color_g
+> 
+< Eyeshadow_Lower_Color_b
+> 
+< Eyeshadow_Upper
+> 
+< Eyeshadow_Upper_Color_r
+> 
+< Eyeshadow_Upper_Color_g
+> 
+< Eyeshadow_Upper_Color_b
+> 
+< Lipstick_Color_r
+> 
+< Lipstick_Color_g
+> 
+< Lipstick_Color_b
+> 
+< Decal_Position_x
+> 
+< Decal_Position_y
+> 
+< Decal_Angle
+> 
+< Decal_Scale
+> 
+< Decal_Color_r
+> 
+< Decal_Color_g
+> 
+< Decal_Color_b
+> 
+< Decal_Flip
+> 
+< Body_Hair
+> 
+< Body_Hair_Color_r
+> 
+< Body_Hair_Color_g
+> 
+< Body_Hair_Color_b
+> 
+< Eye_Right_Color_r
+> 
+< Eye_Right_Color_g
+> 
+< Eye_Right_Color_b
+> 
+< Eye_Right_Iris_Size
+> 
+< Eye_Right_Clouding
+> 
+< Eye_Right_Clouding_r
+> 
+< Eye_Right_Clouding_g
+> 
+< Eye_Right_Clouding_b
+> 
+< Eye_Right_Sclera_r
+> 
+< Eye_Right_Sclera_g
+> 
+< Eye_Right_Sclera_b
+> 
+< Eye_Right_Position
+> 
+< Eye_Left_Color_r
+> 
+< Eye_Left_Color_g
+> 
+< Eye_Left_Color_b
+> 
+< Eye_Left_Iris_Size
+> 
+< Eye_Left_Clouding
+> 
+< Eye_Left_Clouding_r
+> 
+< Eye_Left_Clouding_g
+> 
+< Eye_Left_Clouding_b
+> 
+< Eye_Left_Sclera_r
+> 
+< Eye_Left_Sclera_g
+> 
+< Eye_Left_Sclera_b
+> 
+< Eye_Left_Position
+> 
+< Hair_Color_r
+> 
+< Hair_Color_g
+> 
+< Hair_Color_b
+> 
+< Hair_Color_a
+> 
+< Hair_Color_Root_Darkness
+> 
+< Hair_Color_White
+> 
+< Beard_Color_r
+> 
+< Beard_Color_g
+> 
+< Beard_Color_b
+> 
+< Beard_Color_a
+> 
+< Beard_Color_Root_Darkness
+> 
+< Beard_Color_White
+> 
+< Eyebrow_Color_r
+> 
+< Eyebrow_Color_g
+> 
+< Eyebrow_Color_b
+> 
+< Eyebrow_Color_a
+> 
+< Eyebrow_Color_Root_Darkness
+> 
+< Eyebrow_Color_White
+> 
+< Eyelash_Color_r
+> 
+< Eyelash_Color_g
+> 
+< Eyelash_Color_b
+> 
+< Accessories_Color_r
+> 
+< Accessories_Color_g
+> 
+< Accessories_Color_b
+> 
+< Frenzied Flame
+> 
+< Model and Body
+> 
+< Proportions
+> 
+< Waist
+> 
+< Left arm
+> 
+< Left leg
+> 
+< Right arm
+> 
+< Right leg
+> 
+< Model depth ( Character Size )
+> 
+< Model width X
+> 
+< Model height 
+> 
+< Model height Z
+> 
+< DLC
+> 
