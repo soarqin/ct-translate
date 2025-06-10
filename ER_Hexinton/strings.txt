@@ -1,0 +1,6368 @@
+< [ Enable ]
+> [ 开启 ]
+< Make a Backup of your Save
+> 备份你的存档
+< Give Yourself Items and Runes
+> 获取道具和卢恩
+< These options will only Work if you followed the Tutorial.
+> 请遵循教程使用这些选项
+< ItemGib v2.1 & GigaGib
+> 道具获取 v2.1 & 批量获取
+< ItemGib v2.1 - Add Items Individually 
+> 道具获取 v2.1 - 获取单个道具
+< GigaGib - Add Everything of the Same Type
+> 批量获取 - 获取所有同类道具
+< Main Game
+> 本体
+< Add All Weapons and Shields
+> 获取所有武器和盾牌
+< Add All Max Level Weapon and Shields
+> 获取所有满级武器和盾牌
+< Add All Armor
+> 获取所有防具
+< Add All Talismans
+> 获取所有护符
+< Add All Crafting Materials
+> 获取所有制作材料
+< Add All Consumables
+> 获取所有消耗品
+< Add All Magic
+> 获取所有法术
+< Add All Ashes of War (Includes Duplicate unlock)
+> 获取所有战灰 (包含解锁复制)
+< unlock
+> 解锁
+< Add All Arrows
+> 获取所有箭矢
+< Add All Smithing Stones and Glovewort
+> 获取所有锻造石和铃兰
+< Add All Bell Bearings
+> 获取所有铃珠
+< Add All Crystal Tear
+> 获取所有灵药露滴
+< Add All Maps/Cookbooks/Whetblades (includes unlock)
+> 获取所有地图/制作书/砥石刀 (包括解锁)
+< Add All Spirit Ashes+0
+> 获取所有+0灵魂骨灰
+< Add All Spirit Ashes+10
+> 获取所有+10灵魂骨灰
+< Add Runes and Remembrances
+> 获取所有道具卢恩和追忆
+< Add All Great Runes 
+> 获取所有大卢恩
+< Add All Key Items (1/1)
+> 获取所有关键道具 (1/1)
+< Add Tailoring Tools
+> 获取裁缝工具
+< Add All Reusables
+> 获取所有可重复使用道具
+< Add All Special Items
+> 获取所有特殊道具
+< Add All Online Items
+> 获取所有联机游戏道具
+< DLC Items
+> DLC道具
+< Add All DLC Weapons and Shields
+> 获取所有DLC武器和盾牌
+< Add All DLC Max level Weapons and Shields
+> 获取所有DLC满级武器和盾牌
+< Add All DLC Armor
+> 获取所有DLC防具
+< Add All DLC Talismans
+> 获取所有DLC护符
+< Add All DLC Crafting Materials
+> 获取所有DLC制作材料
+< Add All DLC Consumables
+> 获取所有DLC消耗品
+< Add All DLC Ashes of War (Includes Duplicate unlock)
+> 获取所有DLC战灰 (包含解锁复制)
+< Add All DLC Arrows
+> 获取所有DLC箭矢
+< Add All DLC Key Items (1/1)
+> 获取所有DLC关键道具 (1/1)
+< Add All DLC Reusables
+> 获取所有DLC可重复使用道具
+< Add All DLC Special Items
+> 获取所有DLC特殊道具
+< Add All DLC Bell Bearings
+> 获取所有DLC铃珠
+< Add All DLC Crystal Tear
+> 获取所有DLC灵药露滴
+< Add All DLC Maps/Cookbooks (includes unlock)
+> 获取所有DLC地图/制作书 (包含解锁)
+< Add All DLC Spirit Ashes+0
+> 获取所有DLC+0灵魂骨灰
+< Add All DLC Spirit Ashes+10
+> 获取所有DLC+10灵魂骨灰
+< Add All DLC Runes and Remembrances
+> 获取所有DLC道具卢恩和追忆
+< Add All DLC Spells
+> 获取所有DLC法术
+< Add Runes
+> 获取卢恩
+< Amount
+> 数量
+< Gib me Runes
+> 获取
+< Rune Multiplier 
+> 卢恩倍率
+< x
+> 
+< Selected Item
+> 选中的道具
+< Item ID (Icon)
+> 道具 ID (图标)
+< Item ID
+> 道具 ID
+< Type
+> 类型
+< Make Everything Discardable 4
+> 
+< Inventory Editor
+> 
+< AddInventoryEquip
+> 
+< ItemType
+> 
+< ItemID
+> 
+< Num
+> 
+< AddItem_
+> 
+< --------------------------------
+> 
+< [ Player Status ]
+> 
+< FieldArea:PlayRegionId
+> 
+< FieldArea:MapID
+> 
+< ----------------
+> 
+< Name (do not use)
+> 
+< LastGrace
+> 
+< TargetGrace
+> 
+< Level
+> 
+< WeaponLVL (do not change)
+> 
+< HP
+> 
+< /9-[{F?
+> 
+< FP
+> 
+< SP
+> 
+< GreatRune
+> 
+< Furcalling Finger
+> 
+< ChrType
+> 
+< TeamType
+> 
+< PlayTime (ms)
+> 
+< Death Count
+> 
+< NG+ number (change this)
+> 
+< HUD Journey Number (to verify)
+> 
+< Save Slot (Profile Index, Copy Chr with this)
+> 
+< [ Character Data ]
+> 
+< Base Info
+> 
+< Chr ID
+> 
+< Horse
+> 
+< HandleID
+> 
+< ----------
+> 
+< MaxHP
+> 
+< BaseMaxHP
+> 
+< MP
+> 
+< MaxMP
+> 
+< BaseMaxMP
+> 
+< MaxSP
+> 
+< BaseMaxSP
+> 
+< PlayAnimSpeed
+> 
+< Animation Override
+> 
+< Current Animation
+> 
+< Current animation
+> 
+< DamageRate
+> 
+< Character Flags
+> 
+< Disable Map Collision
+> 
+< Disable Gravity
+> 
+< -------------------------
+> 
+< SetEnableAI
+> 
+< Disable Lock-On Hp Bar
+> 
+< NoDead
+> 
+< NoDamage
+> 
+< NoHit
+> 
+< NoAttack
+> 
+< NoMove
+> 
+< NoFPConsume
+> 
+< NoStaminaConsume
+> 
+< NoGoodsConsume
+> 
+< Draw Hit
+> 
+< Draw Direction 1
+> 
+< Draw Direction 2
+> 
+< NoUpdate
+> 
+< ToggleDraw
+> 
+< Disable Chr Sound
+> 
+< WaterInteraction.EnableAll
+> 
+< Force Fall Camera
+> 
+< Kill Character
+> 
+< AnotherNoGravityFlag
+> 
+< ThrowSystem
+> 
+< TurnByCameraAngle
+> 
+< Attributes
+> 
+< Uncap Stats
+> 
+< Vigor
+> 
+< Mind
+> 
+< Endurance
+> 
+< Strength
+> 
+< Dexterity
+> 
+< Intelligence
+> 
+< Faith
+> 
+< Arcane
+> 
+< Humanity
+> 
+< Scadutree Blessing Level -- DLC
+> 
+< Revered Spirit Ash Level -- DLC
+> 
+< Status Effect Resist
+> 
+< Immunity (Poison)
+> 
+< Max Immunity (Poison)
+> 
+< Immunity (Scarlet Rot)
+> 
+< Max Immunity (Scarlet Rot)
+> 
+< Robustness (Hemorrhage)
+> 
+< Max Robustness (Hemorrhage)
+> 
+< Vitality (Deathblight)
+> 
+< Max Vitality (Deathblight)
+> 
+< Robustness (Frostbite)
+> 
+< Max Robustness (Frostbite)
+> 
+< Focus (Sleep)
+> 
+< Max Focus (Sleep)
+> 
+< Focus (Madness)
+> 
+< Max Focus (Madness)
+> 
+< ChrAsm (Edit)
+> 
+< ArmStyle
+> 
+< CurrentWepSlotOffset < LEFT >
+> 
+< CurrentWepSlotOffset < RIGHT >
+> 
+< CurrentWepSlotOffset < LEFT_ARROW >
+> 
+< CurrentWepSlotOffset < RIGHT_ARROW >
+> 
+< CurrentWepSlotOffset < LEFT_BOLT >
+> 
+< CurrentWepSlotOffset < RIGHT_BOLT >
+> 
+< Unk
+> 
+< 
+> 
+< --
+> 
+< Accessory 1
+> 
+< Accessory 2
+> 
+< Accessory 3
+> 
+< Accessory 4
+> 
+< Accessory 5
+> 
+< PrimaryLeftWep
+> 
+< PrimaryRightWep
+> 
+< SecondaryLeftWep
+> 
+< SecondaryRightWep
+> 
+< TertiaryLeftWep
+> 
+< TertiaryRightWep
+> 
+< PrimaryArrow
+> 
+< PrimaryBolt
+> 
+< SecondaryArrow
+> 
+< SecondaryBolt
+> 
+< TertiaryArrow
+> 
+< TertiaryBolt
+> 
+< Helmet
+> 
+< Armor
+> 
+< Gauntlet
+> 
+< Leggings
+> 
+< Hair
+> 
+< ChrDbg
+> 
+< All Draw Hit
+> 
+< Headhitbox draw
+> 
+< Head Draw
+> 
+< New KnockbackMode
+> 
+< 1: All Character Respawn
+> 
+< ===Flags===
+> 
+< PlayerNoDead
+> 
+< PlayerHorseNoDead
+> 
+< Player Exterminate
+> 
+< All No Goods Consume
+> 
+< All No Stamina Consume
+> 
+< All No FP Consume
+> 
+< All No Arrow Consume
+> 
+< All No MagicQty Consume
+> 
+< Player Hide
+> 
+< Player Silence
+> 
+< All No Dead
+> 
+< All No Damage
+> 
+< All No Hit
+> 
+< All No Attack
+> 
+< All No Move
+> 
+< All No Update AI
+> 
+< All No WepProtDurability Damage
+> 
+< All No AshOfWar FP Consume
+> 
+< All No Goods Consume 2
+> 
+< Force Parry Mode
+> 
+< All Omission Mode
+> 
+< OmissionLvl
+> 
+< =======
+> 
+< Disables Summoning?
+> 
+< ===
+> 
+< ForceSummon Buddy {item Id]
+> 
+< HitStop
+> 
+< HitStopTime [sec]
+> 
+< PlayerParam
+> 
+< Hp
+> 
+< BaseMaxHp
+> 
+< MaxHp
+> 
+< Mp
+> 
+< MaxMp
+> 
+< Sp
+> 
+< BaseMaxSp
+> 
+< MaxSp
+> 
+< SoulLv
+> 
+< Soul
+> 
+< Total Get Soul
+> 
+< Immunity
+> 
+< Robustness
+> 
+< Vitality
+> 
+< Focus
+> 
+< PlayerName
+> 
+< ArcheType
+> 
+< Appearance
+> 
+< Gift
+> 
+< Gender
+> 
+< Voice Type
+> 
+< PlayerNo
+> 
+< soloBreakInPoint
+> 
+< White Cipher Ring
+> 
+< Blue Cipher Ring
+> 
+< Runes Held
+> 
+< Total_Runes
+> 
+< Rune Arc [ON/OFF]
+> 
+< ArcheType [Starting Class]
+> 
+< VowType
+> 
+< MaxEstusHP
+> 
+< MaxEstusMP
+> 
+< SwordArtPoint Num _ByStr
+> 
+< SwordArtPoint Num _ByDex
+> 
+< SwordArtPoint Num _ByInt
+> 
+< SwordArtPoint Num _ByFaith
+> 
+< Channel Id
+> 
+< Vigor [For Correction]
+> 
+< Mind [For Correction]
+> 
+< Endurance [For Correction]
+> 
+< Strength [For Correction]
+> 
+< Dexterity [For Correction]
+> 
+< Intelligence [For Correction]
+> 
+< Faith [For Correction]
+> 
+< Arcane [For Correction]
+> 
+< EquipMagicData
+> 
+< Memory Slot 1
+> 
+< Memory Slot 2
+> 
+< Memory Slot 3
+> 
+< Memory Slot 4
+> 
+< Memory Slot 5
+> 
+< Memory Slot 6
+> 
+< Memory Slot 7
+> 
+< Memory Slot 8
+> 
+< Memory Slot 9
+> 
+< Memory Slot 10
+> 
+< Memory Slot 11
+> 
+< Memory Slot 12
+> 
+< Memory Slot 13
+> 
+< Memory Slot 14
+> 
+< GestureGameData
+> 
+< Unlock All Regular Gestures
+> 
+< Unlock All Shadow of the Erdtree Gestures
+> 
+< Unlock Cut Gestures
+> 
+< Perform Gestures
+> 
+< ID (Dropdown List by CLY)
+> 
+< Play
+> 
+< Add_Gesture
+> 
+< GestureParamID
+> 
+< AddGesture_
+> 
+< Gesture Unlock Data
+> 
+< Bow
+> 
+< Polite Bow
+> 
+< My Thanks
+> 
+< Curtsy
+> 
+< Reverential Bow
+> 
+< My Lord
+> 
+< Warm Welcome
+> 
+< Wave
+> 
+< Casual Greeting
+> 
+< Strength!
+> 
+< As You Wish
+> 
+< Point Forwards
+> 
+< Point Upwards
+> 
+< Point Downwards
+> 
+< Beckon
+> 
+< Wait
+> 
+< Calm Down!
+> 
+< Nod In Thought
+> 
+< Extreme Repentance
+> 
+< Grovel For Mercy
+> 
+< Rallying Cry
+> 
+< Heartening Cry
+> 
+< By My Sword
+> 
+< Hoslow's Oath
+> 
+< Fire Spur Me
+> 
+< The Carian Oath
+> 
+< Bravo
+> 
+< Jump for Joy
+> 
+< Triumphant Delight
+> 
+< Fancy Spin
+> 
+< Finger Snap
+> 
+< Dejection
+> 
+< Patches' Crouch
+> 
+< Crossed Legs
+> 
+< Rest
+> 
+< Sitting Sideways
+> 
+< Dozing Cross-Legged
+> 
+< Spread Out
+> 
+< Fetal Position
+> 
+< Balled Up
+> 
+< What Do You Want?
+> 
+< Prayer
+> 
+< Desperate Prayer
+> 
+< Rapture
+> 
+< Erudition
+> 
+< Outer Order
+> 
+< Inner Order
+> 
+< Golden Order Totality
+> 
+< The Ring (Pre-order)
+> 
+< The Ring
+> 
+< ?GoodsName?
+> 
+< -- Shadow of the Erdtree --
+> 
+< May the Best Win
+> 
+< The Two Fingers
+> 
+< Ring of Miquella (Pre-order)
+> 
+< Let Us Go Together
+> 
+< O Mother
+> 
+< Ring of Miquella
+> 
+< -- Unused --
+> 
+< Unused Gesture
+> 
+< Gesture Equip Data
+> 
+< Slot 1
+> 
+< Slot 2
+> 
+< Slot 3
+> 
+< Slot 4
+> 
+< Slot 5
+> 
+< Slot 6
+> 
+< Face Data
+> 
+< Face Logger
+> 
+< Face Editor
+> 
+< FaceData_AOB
+> 
+< Face_Model_Id
+> 
+< Hair_Model_Id
+> 
+< Eye_Model_Id
+> 
+< Eyebrow_Model_Id
+> 
+< Beard_Model_Id
+> 
+< Accessories_Model_Id
+> 
+< Decal_Model_Id
+> 
+< Eyelash_Model_Id
+> 
+< Apparent Age
+> 
+< Facial Aesthetic
+> 
+< Form Emphasis
+> 
+< Unk (Numen = 128)
+> 
+< Brow Ridge Height
+> 
+< Inner Brow Ridge
+> 
+< Outer Brow Ridge
+> 
+< Cheekbone Height
+> 
+< Cheekbone Depth
+> 
+< Cheekbone Width
+> 
+< Cheekbone Protrusion
+> 
+< Cheeks
+> 
+< Chin Tip Position
+> 
+< Chin Length
+> 
+< Chin Protrusion
+> 
+< Chin Depth
+> 
+< Chin Size
+> 
+< Chin Height
+> 
+< Chin Width
+> 
+< Eye Position
+> 
+< Eye Size
+> 
+< EyeSlant
+> 
+< Eye Spacing
+> 
+< Nose Size
+> 
+< Nose/Forehead Ratio
+> 
+< Face Protrusion
+> 
+< Vertical Face Ratio
+> 
+< Facial Feature Slant
+> 
+< Horizontal Face Ratio
+> 
+< Forehead Depth
+> 
+< Forehead Protrusion
+> 
+< Jaw Protrusion
+> 
+< Jaw With
+> 
+< Lower Jaw
+> 
+< Jaw Contour
+> 
+< Lip Shape
+> 
+< Lip Size
+> 
+< Lip Fullness
+> 
+< Mouth Expression
+> 
+< Lip Protrusion
+> 
+< Lip Thickness
+> 
+< Mouth Protrusion
+> 
+< Mouth Slant
+> 
+< Mouth Occlusion
+> 
+< Mouth Position
+> 
+< Mouth Width
+> 
+< Mouth-Chin Distance
+> 
+< Nose Ridge Depth
+> 
+< Nose Ridge Length
+> 
+< Nose Position
+> 
+< Nose Tip Height
+> 
+< Nostril Slant
+> 
+< Nostril Size
+> 
+< Nostril Width
+> 
+< Nose Protrusion
+> 
+< Nose Bridge Height
+> 
+< Nose Bridge Protrusion 1
+> 
+< Nose Bridge Protrusion 2
+> 
+< Nose Bridge Width
+> 
+< Nose Height
+> 
+< Nose Slant
+> 
+< Body_Scale_Head
+> 
+< Body_Scale_Breast
+> 
+< Body_Scale_Abdomen
+> 
+< Body_Scale_Arm_Right
+> 
+< Body_Scale_Leg_Right
+> 
+< Body_Scale_Arm_Left
+> 
+< Body_Scale_Leg_Left
+> 
+< Skin_Color_r
+> 
+< Skin_Color_g
+> 
+< Skin_Color_b
+> 
+< Skin_Color_a
+> 
+< Skin_Pores
+> 
+< Beard_Stubble
+> 
+< Skin_Dark_Circle
+> 
+< Skin_Dark_Circle_Color_r
+> 
+< Skin_Dark_Circle_Color_g
+> 
+< Skin_Dark_Circle_Color_b
+> 
+< Cheeks_Color_r
+> 
+< Cheeks_Color_g
+> 
+< Cheeks_Color_b
+> 
+< Eyeliner
+> 
+< Eyeliner_Color_r
+> 
+< Eyeliner_Color_g
+> 
+< Eyeliner_Color_b
+> 
+< Eyeshadow_Lower
+> 
+< Eyeshadow_Lower_Color_r
+> 
+< Eyeshadow_Lower_Color_g
+> 
+< Eyeshadow_Lower_Color_b
+> 
+< Eyeshadow_Upper
+> 
+< Eyeshadow_Upper_Color_r
+> 
+< Eyeshadow_Upper_Color_g
+> 
+< Eyeshadow_Upper_Color_b
+> 
+< Lipstick
+> 
+< Lipstick_Color_r
+> 
+< Lipstick_Color_g
+> 
+< Lipstick_Color_b
+> 
+< Decal_Position_x
+> 
+< Decal_Position_y
+> 
+< Decal_Angle
+> 
+< Decal_Scale
+> 
+< Decal_Color_r
+> 
+< Decal_Color_g
+> 
+< Decal_Color_b
+> 
+< Decal_Flip
+> 
+< Body_Hair
+> 
+< Body_Hair_Color_r
+> 
+< Body_Hair_Color_g
+> 
+< Body_Hair_Color_b
+> 
+< Eye_Right_Color_r
+> 
+< Eye_Right_Color_g
+> 
+< Eye_Right_Color_b
+> 
+< Eye_Right_Iris_Size
+> 
+< Eye_Right_Clouding
+> 
+< Eye_Right_Clouding_r
+> 
+< Eye_Right_Clouding_g
+> 
+< Eye_Right_Clouding_b
+> 
+< Eye_Right_Sclera_r
+> 
+< Eye_Right_Sclera_g
+> 
+< Eye_Right_Sclera_b
+> 
+< Eye_Right_Position
+> 
+< Eye_Left_Color_r
+> 
+< Eye_Left_Color_g
+> 
+< Eye_Left_Color_b
+> 
+< Eye_Left_Iris_Size
+> 
+< Eye_Left_Clouding
+> 
+< Eye_Left_Clouding_r
+> 
+< Eye_Left_Clouding_g
+> 
+< Eye_Left_Clouding_b
+> 
+< Eye_Left_Sclera_r
+> 
+< Eye_Left_Sclera_g
+> 
+< Eye_Left_Sclera_b
+> 
+< Eye_Left_Position
+> 
+< Hair_Color_r
+> 
+< Hair_Color_g
+> 
+< Hair_Color_b
+> 
+< Hair_Color_a
+> 
+< Hair_Color_Root_Darkness
+> 
+< Hair_Color_White
+> 
+< Beard_Color_r
+> 
+< Beard_Color_g
+> 
+< Beard_Color_b
+> 
+< Beard_Color_a
+> 
+< Beard_Color_Root_Darkness
+> 
+< Beard_Color_White
+> 
+< Eyebrow_Color_r
+> 
+< Eyebrow_Color_g
+> 
+< Eyebrow_Color_b
+> 
+< Eyebrow_Color_a
+> 
+< Eyebrow_Color_Root_Darkness
+> 
+< Eyebrow_Color_White
+> 
+< Eyelash_Color_r
+> 
+< Eyelash_Color_g
+> 
+< Eyelash_Color_b
+> 
+< Accessories_Color_r
+> 
+< Accessories_Color_g
+> 
+< Accessories_Color_b
+> 
+< Frenzied Flame
+> 
+< Model and Body
+> 
+< Proportions
+> 
+< Head
+> 
+< Chest
+> 
+< Waist
+> 
+< Left arm
+> 
+< Left leg
+> 
+< Right arm
+> 
+< Right leg
+> 
+< Model depth ( Character Size )
+> 
+< Model width X
+> 
+< Model height 
+> 
+< Model height Z
+> 
+< Animation
+> 
+< Idle Animation
+> 
+< Animation Speed (Player Speed)
+> 
+< SpecialEffect
+> 
+< Active Effects
+> 
+< 00
+> 
+< Duration
+> 
+< Interval
+> 
+< Total Duration
+> 
+< 01
+> 
+< 02
+> 
+< 03
+> 
+< 04
+> 
+< 05
+> 
+< 06
+> 
+< 07
+> 
+< 08
+> 
+< 09
+> 
+< 10
+> 
+< 11
+> 
+< 12
+> 
+< 13
+> 
+< 14
+> 
+< 15
+> 
+< ChrRideModule
+> 
+< Horse_X
+> 
+< Horse_Y
+> 
+< Horse_Z
+> 
+< Toughness
+> 
+< ToughnessDurability /
+> 
+< ToughnessDurability
+> 
+< recoverTime
+> 
+< SuperArmor
+> 
+< break
+> 
+< SADurability  /
+> 
+< SADurability
+> 
+< ExtraSADurability  /
+> 
+< ExtraSADurability
+> 
+< OptionData
+> 
+< Game Options
+> 
+< Toggle Auto Lock-On
+> 
+< Auto-Target
+> 
+< Manual Attack Aiming
+> 
+< Controller Vibration
+> 
+< Camera Options
+> 
+< Camera X-Axis
+> 
+< Camera Y-Axis
+> 
+< Reset Camera Y-Axis
+> 
+< Camera Speed
+> 
+< Camera Auto Rotation
+> 
+< Camera Auto Wall Recovery
+> 
+< Cinematic Effects
+> 
+< Sound and Display
+> 
+< Display Blood
+> 
+< Subtitles
+> 
+< HUD
+> 
+< Show Tutorials
+> 
+< HDR
+> 
+< Brightness
+> 
+< Sound Type
+> 
+< Master Volume
+> 
+< BGM Volume
+> 
+< SE Volume
+> 
+< Voice Volume
+> 
+< Device for On-Screen Prompts
+> 
+< Network
+> 
+< Cross-Region Play
+> 
+< Send Summon Sign
+> 
+< Voice Chat
+> 
+< Display Player Names
+> 
+< Launch Setting
+> 
+< Data Usage Agreement
+> 
+< Controller Settings
+> 
+< Controls->Button Settings
+> 
+< Key Bindings
+> 
+< Controls->Key Bindings
+> 
+< Mouse Sensitivity
+> 
+< Mouse X-Axis
+> 
+< Mouse Y-Axis
+> 
+< Graphics
+> 
+< Screen Mode
+> 
+< Resolution (read only)
+> 
+< Windowed Resolution
+> 
+< Fullscreen Resolution
+> 
+< Borderless Windowed Resolution
+> 
+< Auto-detect best rendering settings | 自動描画調整
+> 
+< Ray Tracing Quality
+> 
+< Quality Setting
+> 
+< Advanced Settings
+> 
+< Texture quality
+> 
+< Antialiasing Quality
+> 
+< SSAO
+> 
+< Depth of Field
+> 
+< Motion Blur
+> 
+< Shadow Quality
+> 
+< Lightning Quality
+> 
+< Effects Quality
+> 
+< Volumetric Quality
+> 
+< Reflection Quality
+> 
+< Water Surface Quality
+> 
+< Shader Quality
+> 
+< Global Illumination Quality
+> 
+< Grass Quality
+> 
+< [ Scripts ]
+> 
+< [ Progression ]
+> 
+< Activate All Summoning Pools 
+> 
+< Unlock Graces/Map/Cookbooks/Pouch etc (will Include DLC content)
+> 
+< Unlock/Restore (Before Closing CE) Main Game Maps
+> 
+< Unlock/Restore (Before Closing CE) DLC Maps
+> 
+< Unlock/Restore (Before Closing CE) All Main Game Graces
+> 
+< Unlock/Restore (Before Closing CE) All DLC Graces
+> 
+< Show All Graces
+> 
+< Complete Varre Questline
+> 
+< Show All Buildings on Map
+> 
+< Free Crafting and Weapon Upgrading
+> 
+< Enable FastTravel In Dungeons
+> 
+< Merchants Sells Everything Ror 1 Rune
+> 
+< Fully Unlock Twin Maiden Husk Shop
+> 
+< Cracked Pots/Ritual Pots Hack (experimental-Back up save)
+> 
+< Drop Rate/Discovery Multiplier (Can Change Default in Script) v1
+> 
+< Set Drop Rate Multiplier
+> 
+< Materials Gained Multiplier (Must have at least one, Then will Multiply others when picked up)
+> 
+< Multiplier
+> 
+< No Runes Loss on Death
+> 
+< Rune Gather Multiplier
+> 
+< Rune earn Multiplier
+> 
+< Ignore Weapon Stat Requirements
+> 
+< No Spell Requirements + All spells take only 1 Slot
+> 
+< Magic No Requirements
+> 
+< Revive/Kill All Bosses (Base Game only)
+> 
+< ENABLE=REVIVE DISABLE=KILL
+> 
+< Revive/Kill ALL Bosses 
+> 
+< Revive/Kill all Major/Achievement Bosses in Area
+> 
+< Map in Combar
+> 
+< Set flask level
+> 
+< Add charge to flask
+> 
+< [ Player ]
+> 
+< One Hit Kill Everything
+> 
+< NoHitbox+ReflectAttack
+> 
+< Reflect Attack (May Crach)
+> 
+< Unlimited Consumables
+> 
+< Unlimited Arrows
+> 
+< Unlimited FP
+> 
+< Unlimited Stamina
+> 
+< Unlimited Wondrous Physick
+> 
+< No Weight
+> 
+< ApplyEffect
+> 
+< Effect
+> 
+< Apply_Effect
+> 
+< Dragon Eyes
+> 
+< Blood eyes
+> 
+< Frenzied Body
+> 
+< Open Menus
+> 
+< Site of Grace
+> 
+< Memorize Spells
+> 
+< Sort Chest
+> 
+< Level Up
+> 
+< Ashes of War
+> 
+< Flask Allocation
+> 
+< Wondrous Physick Mix
+> 
+< Great Runes
+> 
+< Alter Garments
+> 
+< Rennala
+> 
+< Rebirth
+> 
+< Cosmetics
+> 
+< Misc
+> 
+< Cosmetics (Mirror)
+> 
+< Blacksmith
+> 
+< Smithing Table
+> 
+< Spirit Tuning
+> 
+< Some Menu
+> 
+< Remembrance Duplication
+> 
+< Shops
+> 
+< All Shops
+> 
+< Sell Item
+> 
+< -- Options
+> 
+< Access all shop inventory
+> 
+< Unlimited stock
+> 
+< Shops are free
+> 
+< Remove material requirement (breaks some shops)
+> 
+< Roundtable Hold
+> 
+< Twin Maiden Husks
+> 
+< Brother Corhyn
+> 
+< Power of Remembrance
+> 
+< Open World
+> 
+< Patches
+> 
+< Thops
+> 
+< Knight/Recusant Bernahl
+> 
+< Sorceress Sellen
+> 
+< Smithing Master Iji
+> 
+< Pidia, Carian Servant
+> 
+< Gatekeeper Gostoc
+> 
+< Miriel, Pastor of Vows
+> 
+< Study sorcery
+> 
+< Study incantations
+> 
+< Nomadic Merchants
+> 
+< Limgrave
+> 
+< Merchant Kale
+> 
+< Limgrave near Coastal Cave
+> 
+< Mistwood Ruins
+> 
+< Saintsbridge
+> 
+< Castle Morne Rampart
+> 
+< Isolated Merchant's Shack
+> 
+< Liurnia of the Lakes
+> 
+< Liurnia Lake Shore
+> 
+< Bellum Church
+> 
+< Altus Plateau
+> 
+< Forest-Spanning Greatbridge
+> 
+< Hermit Merchant's Shack
+> 
+< Caelid
+> 
+< Astray from Caelid Highway North
+> 
+< Southern Aeonia Swamp Bank
+> 
+< Ainsel River
+> 
+< Uhl Palace Ruins
+> 
+< Dragon Communion
+> 
+< Church of Dragon Communion (Limgrave)
+> 
+< Cathedral of Dragon Communion (Caelid)
+> 
+< Change Class/Reset your Stats
+> 
+< Those scripts dont change your gear it only adjust your stats 
+> 
+< Vagabond
+> 
+< Warrior
+> 
+< Hero
+> 
+< Bandit
+> 
+< Astrologer
+> 
+< Prophet
+> 
+< Samurai
+> 
+< Prisoner
+> 
+< Confessor
+> 
+< Wretch
+> 
+< Max lvl Wretch
+> 
+< Give Yourself Frenzied Eyes
+> 
+< Easy Parry (Makes it easier to Parry)
+> 
+< Global Parry
+> 
+< AutoParry
+> 
+< Super Poise
+> 
+< Infinite Player / Horse Jumps
+> 
+< Ride Anywhere
+> 
+< 骑马2
+> 
+< Summon Spirit Ashes Anywhere 
+> 
+< 扩大召唤范围
+> 
+< Resistance Multipliers
+> 
+< Activate
+> 
+< Immunity Max (Poison)
+> 
+< Immunity Max (Scarlet Rot)
+> 
+< Robustness Max (Hemorrhage/Bleed)
+> 
+< Robustness Max (Frostbite)
+> 
+< Focus Max (Sleep)
+> 
+< Focus Max (Madness)
+> 
+< Vitality Max (Deathblight)
+> 
+< PlayAnimation
+> 
+< List
+> 
+< W_Attack
+> 
+< W_DeathStart
+> 
+< W_ItemInvalid
+> 
+< Bullet Spawn
+> 
+< BulletID
+> 
+< Print Current PosX/Y/Z
+> 
+< X
+> 
+< Y
+> 
+< Z
+> 
+< createProjectile
+> 
+< [ Game ]
+> 
+< Gamespeed modifier
+> 
+< Set Time/Daylight
+> 
+< Freeze Time of Day
+> 
+< Set Daylight/Time
+> 
+< Pause Game
+> 
+< [ Misc ]
+> 
+< Hide From Enemies
+> 
+< Hit Collision Display ("Green Screen")
+> 
+< Color
+> 
+< hide map
+> 
+< More Backstab Chances
+> 
+< Quicker Backstab
+> 
+< Hide Cloth
+> 
+< Fog Wall Anim
+> 
+< Aggression Mod (restart to disable)
+> 
+< Max Cracked Pots
+> 
+< Max Ritual Pots
+> 
+< Mark iFrames (Parry/Roll)
+> 
+< Debug Stuff
+> 
+< ChrRideModule by Pavuk
+> 
+< Bonfire Enemy Reset by Pavuk
+> 
+< VFX DEBUG by Pavuk
+> 
+< VFX ID
+> 
+< IsUseDistFromCamera
+> 
+< Dist From Camera
+> 
+< [MOVE CREATED VFX]
+> 
+< Speed
+> 
+< Radius
+> 
+< ---
+> 
+< Create Vfx
+> 
+< Despawn all vfx
+> 
+< VfxDebugConstructor
+> 
+< GroupMask/Hitbox by Pavuk
+> 
+< Show All
+> 
+< Show Map
+> 
+< Show Geom Lv2
+> 
+< Show Geom Lv3
+> 
+< Show Geom Lv4
+> 
+< Show Geom Lv9
+> 
+< Show Geom Lv10
+> 
+< Show Geom Lv11
+> 
+< Show Geom Lv1
+> 
+< Show Geom Lv5
+> 
+< Show Geom Lv6
+> 
+< Show Geom Lv7
+> 
+< Show Geom Lv8
+> 
+< Show Chr
+> 
+< Show VFX
+> 
+< Show Cutscene
+> 
+< Show Unk
+> 
+< Show Grass
+> 
+< Display hitbox
+> 
+< ret
+> 
+< DisplayBossHPBar by Pavuk
+> 
+< CharaInitSwap
+> 
+< This OVERWRITES your current character, backup your save!
+> 
+< ChrID
+> 
+< Swap_Chr!
+> 
+< Damage management | ダメージ管理 by inuNorii
+> 
+< Debug sphere display | デバッグ球表示
+> 
+< Debug sphere display 2 | デバッグ球表示2
+> 
+< Display debug information | デバッグ情報表示
+> 
+< Display the farthest attack arrival point | 最遠攻撃到達点を表示
+> 
+< Damage from weapon Damipoli | 武器ダミポリからダメージ発生するか
+> 
+< Whether damage occurs by referring to attack parameters | 攻撃パラメータ参照してダメージ発生するか
+> 
+< Whether to cast the damage with large rotation angle in multiple times | 回転角が大きいダメージを複数回に分けてシェイプキャストするか
+> 
+< Sparking distance | 火花出す距離
+> 
+< Slope of low hit assumed on the floor [angle 0-180] | 床で仮定するロウヒットの斜度[角度　０〜180]
+> 
+< Damage number | ダメージ数
+> 
+< History usage number | 履歴使用数
+> 
+< Generated damage list | 発生ダメージ一覧
+> 
+< Damage number | ダメージ数[ SUM:%d / POOL:%d ] [ EM:%d / SUM:%d ]
+> 
+< MapLight by NBOTT42
+> 
+< Map Light Colors Red
+> 
+< Map Light Colors Green
+> 
+< Map Light Colors Blue
+> 
+< TurnOnLights
+> 
+< Effect Stretching (Original 1)
+> 
+< Character Stretching (Original 1)
+> 
+< [ Fast Travel and Warp ]
+> 
+< Choose Grace
+> 
+< Invoke Warp
+> 
+< //(/=)((/&W1t3F6
+> 
+< Show all Graces
+> 
+< Map In Combat
+> 
+< [ Teleport, Coords, NoClip/FreeCam ]
+> 
+< AOB Teleport
+> 
+< Target-AOB
+> 
+< InvokeTP
+> 
+< Copypaste current coords
+> 
+< ---------------
+> 
+< Local Coords
+> 
+< Cos(Azimuth/2)
+> 
+< Sin(Azimuth/2)
+> 
+< Global Coords
+> 
+< Player Rad
+> 
+< MapID
+> 
+< Chunk Coords
+> 
+< InitPos Coords
+> 
+< LastGoodGlobalCoords
+> 
+< Bloodstain Coords
+> 
+< Map
+> 
+< Souls
+> 
+< HeroPoint
+> 
+< Camera Coords
+> 
+< Yaw
+> 
+< Pitch
+> 
+< CamFollow
+> 
+< AutoRotation
+> 
+< NPC Coords
+> 
+< Player Coordinates CMP
+> 
+< Coordinates
+> 
+< Save Player Coordinates
+> 
+< Saving
+> 
+< Teleport Player To Saved Coordinates
+> 
+< Loading
+> 
+< Teleport all Entities To Saved Coordinates
+> 
+< Teleport all Entities To Player Coordinates
+> 
+< SavedCoordinates
+> 
+< PlayerCoordinates
+> 
+< PlayerCoordinates (Read Only)
+> 
+< EntityCoordinates
+> 
+< No Camera Bound
+> 
+< NoClip/Freecam
+> 
+< Activate NoClip
+> 
+< Activate Freecam
+> 
+< No Fall Camera
+> 
+< [ Param Patcher ]
+> 
+< [Alt Param Patcher]
+> 
+< BaseParamClass
+> 
+< ActionButtonParam
+> 
+< AttackElementCorrectParam
+> 
+< AiSoundParam
+> 
+< AtkParam_Npc
+> 
+< AtkParam_Pc
+> 
+< BehaviorParam_PC
+> 
+< BonfireWarpParam
+> 
+< Bullet
+> 
+< CalcCorrectGraph
+> 
+< Ceremony
+> 
+< CharaInitParam
+> 
+< ClearCountCorrectParam
+> 
+< DecalParam
+> 
+< EquipMtrlSetParam
+> 
+< EquipParamAccessory
+> 
+< EquipParamGoods
+> 
+< EquipParamProtector
+> 
+< EquipParamWeapon
+> 
+< HitEffectSfxParam
+> 
+< HitMtrlParam
+> 
+< ItemLotParam
+> 
+< LockCamParam
+> 
+< LodParam
+> 
+< Magic
+> 
+< MapMimicryEstablishmentParam
+> 
+< NetworkAreaParam
+> 
+< PlayRegionParam
+> 
+< NpcParam
+> 
+< ObjActParam
+> 
+< ObjectParam
+> 
+< PhantomParam
+> 
+< ReinforceParamWeapon
+> 
+< RoleParam
+> 
+< ShopLineupParam
+> 
+< SpEffectParam
+> 
+< SpEffectVfxParam
+> 
+< SwordArtsParam
+> 
+< ThrowParam
+> 
+< UpperArmParam
+> 
+< WetAspectParam
+> 
+< CoolTimeParam
+> 
+< WhiteSignCoolTimeParam
+> 
+< Param Scripts and Tutorials
+> 
+< No Spirit Summon cooldown
+> 
+< Infinite Duration Tutorial
+> 
+< Infinite_Flasks
+> 
+< Warp Out Of Dungeons
+> 
+< Free Round Table
+> 
+< KillEverything (Bone Dart)
+> 
+< Custom Magic Tutorial (Pebble)
+> 
+< Weapon buff cycle (Freezing Grease)
+> 
+< Free Spells
+> 
+< Free Weapons
+> 
+< Make All Weapons Buffable
+> 
+< Change All Item Amounts to 999 ( for removing bad items from the chest)
+> 
+< Everything can cast everything
+> 
+< Make Everything Discardable (make sure to disable once you are done)
+> 
+< Maxout Runes
+> 
+< Attack in Roundtable Hold after use Apply Effect 9621
+> 
+< [ World / Npc Flags ]
+> 
+< Flags Logger
+> 
+< Revive Bosses
+> 
+< Just select "Alive" in the Dropdown to Revive any Boss.
+> 
+< Kill/Revive (Before Closing CE) All Main Game Bosses
+> 
+< Kill/Revive (Before Closing CE) All DLC Bosses
+> 
+< Revive/Kill all in Area
+> 
+< Alabaster Lord (Evergaol)
+> 
+< Beastman of Faram Azula (Groveside Cave)
+> 
+< Bell Bearing Hunter (Warmaster's Shack)
+> 
+< Black Knife Assassin (Deathtouched Catacombs)
+> 
+< Bloodhound Knight Darriwil (Forlorn Hound Evergaol)
+> 
+< Crucible Knight (Stormhill Evergaol)
+> 
+< Deathbird (Limgrave)
+> 
+< Demi-Human Chiefs (Coastal Cave)
+> 
+< Erdtree Burial Watchdog (Stormfront Catacombs)
+> 
+< Flying Dragon Agheel (Limgrave)
+> 
+< Godrick the Grafted
+> 
+< Grafted Scion (Chapel of Anticipation)
+> 
+< Grave Warden Duelist (Murkwater Catacombs)
+> 
+< Guardian Golem (Highroad Cave)
+> 
+< Mad Pumpkin Head (Waypoint Ruins)
+> 
+< Margit the Fell Omen
+> 
+< Night's Cavalry (Limgrave)
+> 
+< Patches (Murkwater Cave)
+> 
+< Soldier of Godrick
+> 
+< Stonedigger Troll (Limgrave Tunnels)
+> 
+< Tibia Mariner (Summonwater Village)
+> 
+< Tree Sentinel (Limgrave)
+> 
+< Ulcerated Tree Spirit (Fringefolk Hero's Grave)
+> 
+< Weeping Weeping Peninsula
+> 
+< Ancient Hero of Zamor (Weeping Evergaol)
+> 
+< Cemetery Shade (Tombsward Catacombs)
+> 
+< Deathbird (Weeping Peninsula)
+> 
+< Erdtree Avatar
+> 
+< Edtree Burial Watchdog (Impaler's Catacombs)
+> 
+< Leonine Misbegotten (Morne Moangrave)
+> 
+< Miranda the Blighted Bloom (Tombsward Cave)
+> 
+< Night's Cavalry (Weeping Peninsula)
+> 
+< Runebear (Earthbore Cave)
+> 
+< Scaly Misbegotten (Morne Tunnels)
+> 
+< //skilllessaf//
+> 
+< Adan, Thief of Fire (Malefactor's Evergaol)
+> 
+< Alecto, Black Knife Ringleader (Ringleader's Evergaol)
+> 
+< Bell Bearing Hunter (Church of Vows)
+> 
+< Black Knife Assassin (Black Knife Catacombs)
+> 
+< Bloodhound Knight (Lakeside Crystal Cave)
+> 
+< Bols, Carian Knight (Cuckoo's Evergaol)
+> 
+< Cemetery Shade (Black Knife Catacombs)
+> 
+< Cleanrot Knight (Stillwater Cave)
+> 
+< Crystalian (Raya Lucaria Crystal Tunnel)
+> 
+< Crystalian Spear & Crystalian Staff (Academy Crystal Cave)
+> 
+< Death Rite Bird (Liurnia North)
+> 
+< Deathbird (Liurnia South)
+> 
+< Erdtree Avatar (Liurnia Northeast)
+> 
+< Erdtree Avatar (Liurnia Southwest)
+> 
+< Erdtree Burial Watchdog (Cliffbottom Catacombs)
+> 
+< Glintstone Dragon Adula (Moonlight Altar)
+> 
+< Glintstone Dragon Smarag (Liurnia)
+> 
+< Magma Wyrm Makar (Ruin-Strewn Precipice)
+> 
+< Night's Cavalry (Liurnia North)
+> 
+< Night's Cavalry (Liurnia South)
+> 
+< Omenkiller (Village of the Albinaurics)
+> 
+< Onyx Lord (Royal Grave Evergaol)
+> 
+< Red Wolf of Radagon (Raya Lucaria)
+> 
+< Rennala, Queen of the Full Moon
+> 
+< Royal Knight Loretta (Caria Manor)
+> 
+< Royal Revenant (Kingsrealm Ruins)
+> 
+< Spiritcaller Snail (Road's End Catacombs)
+> 
+< Tibia Mariner (East Liurnia)
+> 
+< Cemetery Shade (Caelid Catacombs)
+> 
+< Commander O'Neil (Swamp of Aeonia)
+> 
+< Crucible Knight & Misbegotten Warrior (Redmane Castle) 
+> 
+< Death Rite Bird (Caelid)
+> 
+< Decaying Ekzykes (Caelid)
+> 
+< Elder Dragon Greyoll (can apparently spawn invisible)
+> 
+< Erdtree Burial Watchdogs (Minor Erdtree Catacombs)
+> 
+< Fallingstar Beast (Sellia Crystal Tunnel)
+> 
+< Frenzied Duelist (Gaol Cave)
+> 
+< Mad Pumpkin Heads (Caelem Ruins)
+> 
+< Magma Wyrm (Gael Tunnel)
+> 
+< Night's Cavalry (Caelid)
+> 
+< Nox Swordstress and Nox Priest (Sellia, Town of Sorcery)
+> 
+< Putrid Avatar (Caelid)
+> 
+< Starscourge Radahn
+> 
+< Dragonbarrow
+> 
+< Battlemage Hugues (Sellia Evergaol)
+> 
+< Beastmen of Faram Azula (Dragonbarrow Cave)
+> 
+< Bell Bearing Hunter (Isolated Merchant's Shack)
+> 
+< Black Blade Kindred (Bestial Sanctum)
+> 
+< Cleanrot Knights (Stillwater Cave)
+> 
+< Flying Dragon Greyll (Greyoll's Dragonbarrow)
+> 
+< Godskin Apostle (Divine Tower of Caelid)
+> 
+< Night's Cavalry (Dragonbarrow)
+> 
+< Putrid Avatar (Dragonbarrow)
+> 
+< Putrid Crystalians (Sellia Hideaway)
+> 
+< Putrid Tree Spirit (War-Dead Catacombs)
+> 
+< Ancient Dragon Lansseax (Altus Plateau)
+> 
+< Ancient Hero of Zamor (Sainted Hero's Grave)
+> 
+< Black Knife Assassin (Sage's Cave)
+> 
+< Black Knife Assassin (Sainted Hero's Grave)
+> 
+< Crystalian Spear and Crystalian Ringblade (Altus Tunnel)
+> 
+< Demi-Human Queen Gilika (Lux Ruins)
+> 
+< Elemer of the Briar (The Shaded Castle)
+> 
+< Erdtree Burial Watchdog (Wyndham Catacombs)
+> 
+< Fallingstar Beast (Altus Plateau)
+> 
+< Godefroy the Grafted (Golden Lineage Evergaol)
+> 
+< Godskin Apostle (Dominula, Windmill Village)
+> 
+< Necromancer Garris (Sage's Cave)
+> 
+< Night's Cavalry (Altus Plateau)
+> 
+< Omenkiller and Miranda the Blighted Bloom (Perfumer's Grotto)
+> 
+< Perfumer Tricia and Misbegotten Warrior (Unsightly Catacombs)
+> 
+< Sanguine Noble (Writheblood Ruins)
+> 
+< Stonedigger Troll (Old Altus Tunnel)
+> 
+< Tibia Mariner (Wyndham Ruins)
+> 
+< Tree Sentinels (Altus Plateau)
+> 
+< Wormface (Altus Plateau)
+> 
+< Capital Outskirts 
+> 
+< Bell Bearing Hunter (Hermit Merchant's Shack)
+> 
+< Crucible Knight & Crucible Knight Ordovis (Auriza Hero Grave)
+> 
+< Deathbird (Warmaster's Shack)
+> 
+< Draconic Tree Sentinel (Capital Outskirts)
+> 
+< Fell Twins (Divine Tower of East Altus)
+> 
+< Grave Warden Duelist (Auriza Side Tomb)
+> 
+< Onyx Lord (Sealed Tunnel)
+> 
+< Leyendell, Royal Capital
+> 
+< Esgar, Priest of Blood (Leyndell Catacombs)
+> 
+< Godfrey, First Elden Lord (Golden Shade)
+> 
+< Mohg, the Omen (Cathedral of the Forsaken)
+> 
+< Morgott, the Omen King
+> 
+< Mt. Gelmir
+> 
+< Abductor Virgins (Mt. Gelmir)
+> 
+< Demi-Human Queen Maggie (Hermit Village)
+> 
+< Demi-Human Queen Margot (Volano Cave)
+> 
+< Full-Grown Fallingstar Beast (Ninth Mt. Gelmir Campsite)
+> 
+< God-Devouring Serpent / Rykard, Lord of Blasphemy
+> 
+< Godskin Noble (Temple of Eiglay)
+> 
+< Kindred of Rot (Seethewater Cave)
+> 
+< Magma Wyrm (Mt. Gelmir)
+> 
+< Red Wolf of the Champion (Gelmir Hero's Grave)
+> 
+< Ulcerated Tree Spirit (Mt. Gelmir)
+> 
+< Mountaintops of the Giants
+> 
+< Ancient Hero of Zamor (Giant-Conquring Hero's Grave)
+> 
+< Borealis the Freezing Fog (Freezing Lake)
+> 
+< Commander Niall (Castle Sol)
+> 
+< Death Rite Bird (Mountaintops of the Giants)
+> 
+< Erdtree Avatar (Mountaintops of the Giants)
+> 
+< Fire Giant
+> 
+< Godskin Apostle and Godskin Noble  (Spiritcaller Cave) Spiritcaller Snail
+> 
+< Ulcerated Tree Spirit (Giants' Mountaintop Catacombs)
+> 
+< Vyke, Knight of the Roundtable (Lord Contender's Evergaol)
+> 
+< Crumbling Farum Azula
+> 
+< //skillless//
+> 
+< Dragonlord Placidusax
+> 
+< Godskin Duo
+> 
+< Malekith, the Black Blade
+> 
+< Forbidden Lands
+> 
+< Black Blade Kindred (Forbidden Lands)
+> 
+< Night's Cavalry (Forbidden Lands)
+> 
+< Stray Mimic Tear (Hidden Path to the Haligtree)
+> 
+< Consecrated Snowfields
+> 
+< Astel, Stars of Darkness (Yelough Anix Tunnel)
+> 
+< Death Rite Bird (Consecrated Snowfield)
+> 
+< Great Wyrm Theodorix (Consecrated Snowfield)
+> 
+< Misbegotten Crusader (Cave of the Forlorn)
+> 
+< Night's Cavalry Duo (Consecrated Snowfield)
+> 
+< Putrid Avatar
+> 
+< Putrid Grave Warden Duelist (Consecrated Snowfield Catacombs)
+> 
+< Miquella's Haligtree
+> 
+< Loretta, Knight of the Haligtree
+> 
+< Malenia, Goddess of Rot
+> 
+<  To fully reset set everything to 0
+> 
+< Is Killed
+> 
+< Is Encountered
+> 
+< Is First Encounter (affects HP bar before stage 2)
+> 
+< Is Cocoon present
+> 
+< Siofra River
+> 
+< Ancestor Spirit (Siofra River Bank)
+> 
+< Dragonkin Soldier (Siofra River Bank)
+> 
+< Mohg, Lord of Blood
+> 
+< Dragonkin Soldier of Nokstella (Ainsel River)
+> 
+< Nokron Eternal City
+> 
+< Mimic Tear (Nokron, Eternal City)
+> 
+< Regal Ancestor Spirit (Ancestral Woods)
+> 
+< Valiant Gargoyles (Siofra Aqueduct)
+> 
+< Deeproot Depths
+> 
+< Crucible Knight Siluria
+> 
+< Fia's Champions
+> 
+< Lichdragon Fortissax
+> 
+< Lake of Rot
+> 
+< Astel, Naturalborn of the Void
+> 
+< Dragonkin Soldier (Lake of Rot)
+> 
+< Leyendell, Ashen Capital
+> 
+< Godfrey, First Elden Lord (Hoarah Loux)
+> 
+< Sir Gideon Ofnir, the All-Knowing
+> 
+< Elden Throne
+> 
+< Radagon of the Golden Order / Elden Beast
+> 
+< DLC
+> 
+< Gravesite Plain
+> 
+< Knight of the Solitary Gaol
+> 
+< Chief Bloodfiend
+> 
+< Demi Human Swordsman Onze
+> 
+< Divine Beast Dancing Lion
+> 
+< Ghostflame Dragon
+> 
+< Lamenter
+> 
+< Renalla Twin Moon Knight Boss
+> 
+< Red Bear 
+> 
+< Cerulean Coast
+> 
+< Dancer of Ranah
+> 
+< Ghostflame Dragon Ruins
+> 
+< Putrescent Knight
+> 
+< Abyssal Woods
+> 
+< Jori, Elder Inquisitor
+> 
+< Midra Lord of Frenzied Flame
+> 
+< Finger Ruins of Rhia
+> 
+< Jagged Peak Drake
+> 
+< Scadu Altus
+> 
+< Black Knight Edredd
+> 
+< Black Knight Garrew
+> 
+< Commander Gaius
+> 
+< Curseblade Labirith
+> 
+< Death Knight (Fog Rift Catacombs)
+> 
+< Dryleaf Dane
+> 
+< Golden Hippopotamus
+> 
+< Messmer the Impaler
+> 
+< Metyr, Mother of Fingers
+> 
+< Rakshasa
+> 
+< Ralva the Great Red Bear
+> 
+< Tree Sentinel 
+> 
+< Charo's Hidden Grave
+> 
+< Demi-Human Queen Marigga
+> 
+< Scaduview
+> 
+< Fallingstar Beast
+> 
+< Scadutree Avatar
+> 
+< Rauh Base
+> 
+< Romina, Saint of the Bud
+> 
+< Death Knight (Scorpion River Catacombs)
+> 
+< Jagged Peak
+> 
+< Ancient Dragon-Man
+> 
+< Ancient Dragon Senessax
+> 
+< Bayle the Dread
+> 
+< The Jagged Peak Drake
+> 
+< Enir Ilim
+> 
+< Promised Consort Radahn / Radahn, Consort of Miquella
+> 
+< Revive NPC
+> 
+< Select NPC State by double clicking the Value slot. Reload after changing Value
+> 
+< Revive/Kill all
+> 
+< --------------------------------------------------
+> 
+< Miriel, Pastor of Vows 
+> 
+< Preceptor Seluvis 
+> 
+< Merchant Kalé 
+> 
+< White-Faced Varré
+> 
+< Alexander Iron Fist 
+> 
+< Devious Commoner 
+> 
+< Kenneth Haight
+> 
+< Fia
+> 
+< Irina
+> 
+< Edgar 
+> 
+< Latenna
+> 
+< Yura
+> 
+< Tophs
+> 
+< Jar Bairn
+> 
+< Knight Bernahl 
+> 
+< Blackguard
+> 
+< Millicent 
+> 
+< Nepheli Loux 
+> 
+< Gatekeeper Gostoc 
+> 
+< Boc 
+> 
+< Gurranq
+> 
+< Hyetta
+> 
+< Whetblades
+> 
+< Unlock/Restore all Whetblades
+> 
+< //You need to pick up the the one next to the Gatefront//
+> 
+< Double click the Value to change it 
+> 
+< Upgrade - Standard 1
+> 
+< Iron Whetblade (Heavy)
+> 
+< Iron Whetblade (Keen)
+> 
+< Iron Whetblade (Quality)
+> 
+< Red-Hot Whetblade (Fire)
+> 
+< Red-Hot Whetblade (Flame Art)
+> 
+< Sanctified Whetblade (Lightning)
+> 
+< Sanctified Whetblade (Sacred)
+> 
+< Glintstone Whetblade (Magic)
+> 
+< Glintstone Whetblade (Frost)
+> 
+< Black Whetblade (Poison)
+> 
+< Black Whetblade (Blood)
+> 
+< Black Whetblade (Occult)
+> 
+< Unlock/Restore all Main Game Ashes of War
+> 
+< Unlock/Restore all DLC Ashes of War
+> 
+< //This Will unlock Ashes of War for duplication//
+> 
+< Ash of War: No Skill
+> 
+< Ash of War: Carian Retaliation
+> 
+< Ash of War:  Thop's Barrier
+> 
+< Ash of War: Barricade Shield
+> 
+< Ash of War: Shield Crash
+> 
+< Ash of War: Shield Bash
+> 
+< Ash of War: Storm Wall
+> 
+< Ash of War: Golden Parry
+> 
+< Ash of War: Parry
+> 
+< Ash of War: Rain of Arrows
+> 
+< Ash of War: Enchanted Shot
+> 
+< Ash of War: Sky Shot
+> 
+< Ash of War: Barrage
+> 
+< Ash of War: Through and Through
+> 
+< Ash of War: Mighty Shot
+> 
+< Ash of War: Assassin's Gambit
+> 
+< Ash of War: White Shadow's Lure
+> 
+< Ash of War: Lifesteal Fist
+> 
+< Ash of War: Spectral Lance
+> 
+< Ash of War: Hoarfrost Stomp
+> 
+< Ash of War: Chilling Mist
+> 
+< Ash of War: Ice Spear
+> 
+< Ash of War: Seppuku
+> 
+< Ash of War: Blood Tax
+> 
+< Ash of War: Bloody Slash
+> 
+< Ash of War: Blood Blade
+> 
+< Ash of War: Poison Moth Flight
+> 
+< Ash of War: Poisonous Mist
+> 
+< Ash of War: Holy Ground
+> 
+< Ash of War: Vow of the Indomitable
+> 
+< Ash of War: Golden Vow
+> 
+< Ash of War: Golden Slam
+> 
+< Ash of War: Golden Land
+> 
+< Ash of War: Shared Order
+> 
+< Ash of War: Sacred Order
+> 
+< Ash of War: Sacred Ring of Light
+> 
+< Ash of War: Prayerful Strike
+> 
+< Ash of War: Sacred Blade
+> 
+< Ash of War: Lightning Ram
+> 
+< Ash of War: Lightning Slash
+> 
+< Ash of War: Thunderbolt
+> 
+< Ash of War: Black Flame Tornado
+> 
+< Ash of War: Prelate's Charge
+> 
+< Ash of War: Eruption
+> 
+< Ash of War: Flame of the Redmanes
+> 
+< Ash of War: Flaming Strike
+> 
+< Ash of War: Waves of Darkness
+> 
+< Ash of War: Gravitas
+> 
+< Ash of War: Loretta's slash
+> 
+< Ash of War: Spinning Weapon
+> 
+< Ash of War: Carian Grandeur
+> 
+< Ash of War: Carian Greatsword
+> 
+< Ash of War: Glintblade Phalanx
+> 
+< Ash of War: Glintstone Pebble
+> 
+< Ash of War: Royal Knight's Resolve
+> 
+< Ash of War: Determination
+> 
+< Ash of War: Phantom Slash
+> 
+< Ash of War: Vacuum Slice
+> 
+< Ash of War: Storm Stomp
+> 
+< Ash of War: Stormcaller
+> 
+< Ash of War: Storm Assault
+> 
+< Ash of War: Storm Blade
+> 
+< Ash of War: Giant Hunt
+> 
+< Ash of War: Spinning Strikes
+> 
+< Ash of War: Charge Forth
+> 
+< Ash of War: Square Off
+> 
+< Ash of War: Beast's Roar
+> 
+< Ash of War: Raptor of the Mists
+> 
+< Ash of War: Bloodhound's Step
+> 
+< Ash of War: Quickstep
+> 
+< Ash of War: Unsheathe
+> 
+< Ash of War: Sword Dance
+> 
+< Ash of War: Double Slash
+> 
+< Ash of War: Repeating Thrust
+> 
+< Ash of War: Piercing Fang
+> 
+< Ash of War: Impaling Thrust
+> 
+< Ash of War: Spinning Slash
+> 
+< Ash of War: Troll's Roar
+> 
+< Ash of War: Braggart's Roar
+> 
+< Ash of War: Barbaric Roar
+> 
+< Ash of War: War Cry
+> 
+< Ash of War: Hoarah Loux's Earthshaker
+> 
+< Ash of War: Earthshaker
+> 
+< Ash of War: Ground Slam
+> 
+< Ash of War: Endure
+> 
+< Ash of War: Kick
+> 
+< Ash of War: Cragblade
+> 
+< Ash of War: Lion's Claw
+> 
+< Ash of War: Wild Strikes
+> 
+< Ash of War: Stamp (Sweep)
+> 
+< Ash of War: Stamp (Upward Cut)
+> 
+< Ash of War: Shield Strike
+> 
+< Ash of War: Igon's Drake Hunt
+> 
+< Ash of War: Rolling Sparks
+> 
+< Ash of War: Wall of Sparks
+> 
+< Ash of War: Dryleaf Whirlwind
+> 
+< Ash of War: Palm Blast
+> 
+< Ash of War: Shriek of Sorrow
+> 
+< Ash of War: Divine Beast Frost Stomp
+> 
+< Ash of War: Ghostflame Call
+> 
+< Ash of War: The Poison Flower Blooms Twice
+> 
+< Ash of War: Aspects of the Crucible: Wings
+> 
+< Ash of War: Blinkbolt
+> 
+< Ash of War: Flame Spear
+> 
+< Ash of War: Flame Skewer
+> 
+< Ash of War: Carian Sovereignty
+> 
+< Ash of War: Wing Stance
+> 
+< Ash of War: Scattershot Throw
+> 
+< Ash of War: Piercing Throw
+> 
+< Ash of War: Raging Beast
+> 
+< Ash of War: Savage Claws
+> 
+< Ash of War: Overhead Stance
+> 
+< Ash of War: Swift Slash
+> 
+< Ash of War: Blind Spot
+> 
+< Ash of War: Spinning Gravity Thrust
+> 
+< Ash of War: Savage Lion's Claw
+> 
+< Cookbooks
+> 
+< Unlock/Restore (Before Closing CE) All Main Game Cookbooks
+> 
+< Unlock/Restore (Before Closing CE) All DLC Cookbooks
+> 
+< Missionary's Cookbook [1]
+> 
+< Missionary's Cookbook [2]
+> 
+< Missionary's Cookbook [3]
+> 
+< Missionary's Cookbook [4]
+> 
+< Missionary's Cookbook [5]
+> 
+< Missionary's Cookbook [6]
+> 
+< Missionary's Cookbook [7]
+> 
+< Nomadic warrior's Cookbook [1]
+> 
+< Nomadic warrior's Cookbook [2]
+> 
+< Nomadic Warrior's Cookbook [3]
+> 
+< Nomadic Warrior's Cookbook [4]
+> 
+< Nomadic Warrior's Cookbook [5]
+> 
+< Nomadic Warrior's Cookbook [6]
+> 
+< Nomadic Warrior's Cookbook [7]
+> 
+< Nomadic Warrior's Cookbook [8]
+> 
+< Nomadic Warrior's Cookbook [9]
+> 
+< Nomadic Warrior's Cookbook [10]
+> 
+< Nomadic Warrior's Cookbook [11]
+> 
+< Nomadic Warrior's Cookbook [12]
+> 
+< Nomadic Warrior's Cookbook [13]
+> 
+< Nomadic Warrior's Cookbook [14]
+> 
+< Nomadic Warrior's Cookbook [15]
+> 
+< Nomadic Warrior's Cookbook [16]
+> 
+< Nomadic Warrior's Cookbook [17]
+> 
+< Nomadic Warrior's Cookbook [18]
+> 
+< Nomadic Warrior's Cookbook [19]
+> 
+< Nomadic Warrior's Cookbook [20]
+> 
+< Nomadic Warrior's Cookbook [21]
+> 
+< Nomadic Warrior's Cookbook [22]
+> 
+< Nomadic Warrior's Cookbook [23]
+> 
+< Nomadic Warrior's Cookbook [24]
+> 
+< Armorer's Cookbook [1]
+> 
+< Armorer's Cookbook [2]
+> 
+< Armorer's Cookbook [3]
+> 
+< Armorer's Cookbook [4]
+> 
+< Armorer's Cookbook [5]
+> 
+< Armorer's Cookbook [6]
+> 
+< Armorer's Cookbook [7]
+> 
+< Ancient Dragon Apostle's Cookbook [1]
+> 
+< Ancient Dragon Apostle's Cookbook [2]
+> 
+< Ancient Dragon Apostle's Cookbook [3]
+> 
+< Ancient Dragon Apostle's Cookbook [4]
+> 
+< Fevor's Cookbook [1]
+> 
+< Fevor's Cookbook [2]
+> 
+< Fevor's Cookbook [3]
+> 
+< Perfumer's Cookbook [1]
+> 
+< Perfumer's Cookbook [2]
+> 
+< Perfumer's Cookbook [3]
+> 
+< Perfumer's Cookbook [4]
+> 
+< Glintstone Craftsman's Cookbook [1]
+> 
+< Glintstone Craftsman's Cookbook [2]
+> 
+< Glintstone Craftsman's Cookbook [3]
+> 
+< Glintstone Craftsman's Cookbook [4]
+> 
+< Glintstone Craftsman's Cookbook [5]
+> 
+< Glintstone Craftsman's Cookbook [6]
+> 
+< Glintstone Craftsman's Cookbook [7]
+> 
+< Glintstone Craftsman's Cookbook [8]
+> 
+< Frenzied's Cookbook [1]
+> 
+< Frenzied's Cookbook [2]
+> 
+< Greater Potentate's Cookbook [1]
+> 
+< Greater Potentate's Cookbook [2]
+> 
+< Greater Potentate's Cookbook [3]
+> 
+< Greater Potentate's Cookbook [4]
+> 
+< Greater Potentate's Cookbook [5]
+> 
+< Greater Potentate's Cookbook [6]
+> 
+< Greater Potentate's Cookbook [7]
+> 
+< Greater Potentate's Cookbook [8]
+> 
+< Greater Potentate's Cookbook [9]
+> 
+< Greater Potentate's Cookbook [10]
+> 
+< Greater Potentate's Cookbook [11]
+> 
+< Greater Potentate's Cookbook [12]
+> 
+< Greater Potentate's Cookbook [13]
+> 
+< Greater Potentate's Cookbook [14]
+> 
+< Loyal Knight's Cookbook
+> 
+< Fire Knight's Cookbook [1]
+> 
+< Fire Knight's Cookbook [2]
+> 
+< Battlefield Priest's Cookbook [1]
+> 
+< Battlefield Priest's Cookbook [2]
+> 
+< Battlefield Priest's Cookbook [3]
+> 
+< Battlefield Priest's Cookbook [4]
+> 
+< Ancient Dragon Knight's Cookbook [1]
+> 
+< Ancient Dragon Knight's Cookbook [2]
+> 
+< St. Trina Disciple's Cookbook [1]
+> 
+< St. Trina Disciple's Cookbook [2]
+> 
+< St. Trina Disciple's Cookbook [3]
+> 
+< Mad Craftsman's Cookbook [1]
+> 
+< Mad Craftsman's Cookbook [2]
+> 
+< Mad Craftsman's Cookbook [3]
+> 
+< Grave Keeper's Cookbook [1]
+> 
+< Grave Keeper's Cookbook [2]
+> 
+< Tibia's Cookbook
+> 
+< Finger-Weaver's Cookbook [1]
+> 
+< Finger-Weaver's Cookbook [2]
+> 
+< Antiquity Scholar's Cookbook [1]
+> 
+< Antiquity Scholar's Cookbook [2]
+> 
+< Forager Brood Cookbook [1]
+> 
+< Forager Brood Cookbook [2]
+> 
+< Forager Brood Cookbook [3]
+> 
+< Forager Brood Cookbook [4]
+> 
+< Forager Brood Cookbook [5]
+> 
+< Forager Brood Cookbook [6]
+> 
+< Forager Brood Cookbook [7]
+> 
+< Igon's Cookbook [1]
+> 
+< Igon's Cookbook [2]
+> 
+< Maps
+> 
+< Map: N
+> 
+< Map: NE
+> 
+< Map: SE
+> 
+< Map: NW
+> 
+< Map: SW
+> 
+< Map: Center
+> 
+< Map: Limgrave, East
+> 
+< Map: Weeping Peninsula
+> 
+< Map: Limgrave, West
+> 
+< Map: Liurnia, West
+> 
+< Map: Liurnia, North
+> 
+< Map: Liurnia, East
+> 
+< Map: Leyndell, Royal Capital
+> 
+< Map: Altus Plateur
+> 
+< Map: Mt. Gelmir
+> 
+< Map: Dragonbarrow
+> 
+< Map: Caelid
+> 
+< Map: Mountaintops of the Giants, North
+> 
+< Map: Mountaintops of the Giants, East
+> 
+< Map: Mountaintops of the Giants, West
+> 
+< Map: Siofra River
+> 
+< Map: Mohgwyn Palace
+> 
+< Map: Lake of Rot
+> 
+< Map: Ainsel River
+> 
+< Map: Deeprooth Depths
+> 
+< Map: Stormfoot Catacombs
+> 
+< Map: Fringefolk Hero's Cave
+> 
+< Show underground
+> 
+< Map Abyss
+> 
+< Map Gracesite Plain
+> 
+< Map Scada Altus
+> 
+< Map Southern Shore
+> 
+< Map Rauh Ruins
+> 
+< Sites of Grace
+> 
+< Dont activate both versions of the Capital at the same time or it will potentially break Boss arenas and parts of the Map 
+> 
+< Table of Lost Grace / Roundtable Hold
+> 
+< The First Step
+> 
+< Church of Elleh
+> 
+< Gatefront
+> 
+< Waypoint Ruins Cellar
+> 
+< Artist's Shack (Limgrave)
+> 
+< Third Church of Marika
+> 
+< Fort Haight West
+> 
+< Agheel Lake South
+> 
+< Agheel Lake North
+> 
+< Church of Dragon Communion
+> 
+< Seaside Ruins
+> 
+< Mistwood Outskirts
+> 
+< Murkwater Coast
+> 
+< Summonwater Village Outskirts
+> 
+< Stormfoot Catacombs
+> 
+< Murkwater Catacombs
+> 
+< Groveside Cave
+> 
+< Coastal Cave
+> 
+< Murkwater Cave
+> 
+< Highroad Cave
+> 
+< Limgrave Tunnels
+> 
+< Stranded Graveyard
+> 
+< Cave of Knowledge
+> 
+< Stormhill
+> 
+< Stormhill Shack
+> 
+< Castleward Tunnel
+> 
+< Margit, the Fell Omen
+> 
+< Warmaster's Shack
+> 
+< Deathtouched Catacombs
+> 
+< Limgrave Tower Bridge
+> 
+< Divine Tower of Limgrave
+> 
+< Weeping Peninsula
+> 
+< Church of Pilgrimage
+> 
+< Tombsward
+> 
+< South of the Lookout Tower
+> 
+< Ailing Village Outskirts
+> 
+< Beside the Crater-Pocked Glade
+> 
+< Isolated Merchant's Shack (Limgrave)
+> 
+< Fourth Church of Marika
+> 
+< Bridge of Sacrifice
+> 
+< Castle Morne Lift
+> 
+< Behind The Castle
+> 
+< Beside the Rampart Gaol
+> 
+< Morne Moangrave
+> 
+< Impaler's Catacombs
+> 
+< Tombsward Catacombs
+> 
+< Earthbore Cave
+> 
+< Tombsward Cave
+> 
+< Morne Tunnel
+> 
+< Stormveil Castle
+> 
+< Stormveil Main Gate
+> 
+< Gateside Chamber
+> 
+< Stormveil Cliffside
+> 
+< Rampart Tower
+> 
+< Liftside Chamber
+> 
+< Secluded Cell
+> 
+< Lake-Facing Cliffs
+> 
+< Laskyar Ruins
+> 
+< Academy Gate Town
+> 
+< Artist's Shack (Liurnia of the Lakes)
+> 
+< Eastern Liurnia Lake Shore
+> 
+< Gate Town Bridge
+> 
+< Liurnia Highway North
+> 
+< Liurnia Highway South
+> 
+< Main Academy Gate
+> 
+< Scenic Isle
+> 
+< South Raya Lucaria Gate
+> 
+< Ruined Labyrinth
+> 
+< Boilprawn Shack
+> 
+< Church of Vows
+> 
+< Converted Tower
+> 
+< Eastern Tableland
+> 
+< Fallen Ruins of the Lake
+> 
+< Folly on the Lake
+> 
+< Jarburg
+> 
+< Mausoleum Compound
+> 
+< Ranni's Chamber
+> 
+< Revenger's Shack
+> 
+< Slumbering Wolf's Shack
+> 
+< Village of the Albinaurics
+> 
+< Crystalline Woods
+> 
+< East Gate Bridge Trestle
+> 
+< Foot of the Four Belfries
+> 
+< Gate Town North
+> 
+< Main Caria Manor Gate
+> 
+< Manor Lower Level
+> 
+< Manor Upper Level
+> 
+< Northern Liurnia Lake Shore
+> 
+< Road to the Manor
+> 
+< Royal Moongazing Grounds
+> 
+< Sorcerer's Isle
+> 
+< Temple Quarter
+> 
+< The Four Belfries
+> 
+< Academy Crystal Cave
+> 
+< Behind Caria Manor
+> 
+< Black Knife Catacombs
+> 
+< Cliffbottom Catacombs
+> 
+< Lakeside Crystal Cave
+> 
+< Liurnia Tower Bridge
+> 
+< Ranni's Rise
+> 
+< Ravine-Veiled Village
+> 
+< Raya Lucaria Crystal Tunnel
+> 
+< Road's End Catacombs
+> 
+< Stillwater Cave
+> 
+< Study Hall Entrance
+> 
+< The Ravine
+> 
+< Divine Tower of Liurnia
+> 
+< Bellum Highway
+> 
+< Church of Inhibition
+> 
+< East Raya Lucaria Gate
+> 
+< Frenzied Flame Village Outskirts
+> 
+< Grand Lift of Dectus
+> 
+< Ruin-Strewn Precipice
+> 
+< Magma Wyrm
+> 
+< Ruin-Strewn Precipice Overlook
+> 
+< Moonlight Altar
+> 
+< Altar South
+> 
+< Cathedral of Manus Celes
+> 
+< Academy of Raya Lucaria
+> 
+< Church of the Cuckoo
+> 
+< Debate Parlour
+> 
+< Raya Lucaria Grand Library
+> 
+< Schoolhouse Classroom
+> 
+< Abandoned Coffin
+> 
+< Altus Highway Junction
+> 
+< Bower of Bounty
+> 
+< Erdtree-Gazing Hill
+> 
+< Rampartside Path
+> 
+< Road of Iniquity Side Path
+> 
+< Shaded Castle Inner Gate
+> 
+< Shaded Castle Ramparts
+> 
+< Windmill Heights
+> 
+< Windmill Village
+> 
+< Altus Tunnel
+> 
+< Castellan's Hall
+> 
+< Old Altus Tunnel
+> 
+< Perfumer's Grotto
+> 
+< Sage's Cave
+> 
+< Sainted Hero's Grave
+> 
+< Unsightly Catacombs
+> 
+< Bridge of Iniquity
+> 
+< Craftsman's Shack
+> 
+< First Mt. Gelmir Campsite
+> 
+< Gelmir Hero's Grave
+> 
+< Ninth Mt. Gelmir Campsite
+> 
+< Primeval Sorcerer Azur
+> 
+< Road of Iniquity
+> 
+< Seethewater Cave
+> 
+< Seethewater River
+> 
+< Seethewater Terminus
+> 
+< Volcano Cave
+> 
+< Wyndham Catacombs
+> 
+< Leyndell, Royal Capital
+> 
+< Auriza Side Tomb
+> 
+< Auzira Hero's Grave
+> 
+< Capital Rampart
+> 
+< Divine Tower of West Altus
+> 
+< Divine Tower of West Altus: Gate
+> 
+< Minor Eerdtree Church
+> 
+< Outer Wall Battleground
+> 
+< Outer Wall Phantom Tree
+> 
+< Sealed Tunnel
+> 
+< Volcano Manor
+> 
+< Abductor Virgin
+> 
+< Audience Pathway
+> 
+< Guest Hall
+> 
+< Prison Town Church
+> 
+< Rykard, Lord of Blasphemy
+> 
+< Subterranean Inquisition Chamber
+> 
+< Temple of Eiglay
+> 
+< Leyndell, Royal Capiral
+> 
+< East Capital Rampart 
+> 
+< Avenue Balcony
+> 
+< Lower Capital Church
+> 
+< West Capital Rampart
+> 
+< Fortified Manor, First Floor
+> 
+< Divine Bridge
+> 
+< Erdtree Sanctuary
+> 
+< Queen's Bedchamber (Royal Capital)
+> 
+< Caelem Ruins
+> 
+< Caelid Highway South
+> 
+< Cathedral of Dragon Communion
+> 
+< Chair-Crypt of Sellia
+> 
+< Church of the Plague
+> 
+< Fort Gael North
+> 
+< Rotview Balcony
+> 
+< Sellia Backstreets
+> 
+< Sellia Under-Stair
+> 
+< Smoldering Church
+> 
+< Smoldering Wall
+> 
+< Abandoned Cave
+> 
+< Caelid Catacombs
+> 
+< Chamber Outside the Plaza
+> 
+< Deep Siofra Well
+> 
+< Gael Tunnel
+> 
+< Gaol Cave
+> 
+< Impassable Greatbridge
+> 
+< Minor Eerdtree Catacombs
+> 
+< Rear Gael Tunnel Entrance
+> 
+< Redmane Castle Plaza
+> 
+< Sellia Crystal Tunnel
+> 
+< War-Dead Catacombs
+> 
+< Swamp of Aeonia
+> 
+< Aeonia Swamp Shore
+> 
+< Heart of Aenoia
+> 
+< Inner Aeonia
+> 
+< Greyoll's Dragonbarrow
+> 
+< Bestial Sanctum
+> 
+< Divine Tower of Caelid: Basement
+> 
+< Divine Tower of Caelid: Center
+> 
+< Dragonbarrow Cave
+> 
+< Dragonbarrow Fork
+> 
+< Dragonbarrow West
+> 
+< Farum Greatbridge
+> 
+< Fort Faroth
+> 
+< Isolated Divine Tower
+> 
+< Isolated Merchant's Shack (Greyoll's Dragonbarrow)
+> 
+< Lenne's Rise
+> 
+< Sellia Hideaway
+> 
+< Forbiden Lands
+> 
+< Divine Tower of the East Altus
+> 
+< Divine Tower of the East Altus: Gate
+> 
+< Grand Lift of Rold
+> 
+< Hidden Path to the Haligtree
+> 
+< Ancient Snow Valley Ruins
+> 
+< Castle Sol Main Gate
+> 
+< Castle Sol Rooftop
+> 
+< Church of the Eclipse
+> 
+< First Church of Marika
+> 
+< Freezing Lake
+> 
+< Snow Valley Ruins Overlook
+> 
+< Spiritcaller's Cave
+> 
+< Whiteridge Road
+> 
+< Zamor Ruins
+> 
+< Flame Peak
+> 
+< Church of Repose
+> 
+< Foot of the Forge
+> 
+< Forge of the Giants
+> 
+< Giant's Gravepost
+> 
+< Giant's Mountaintop Catacombs
+> 
+< Giant-Conquering Hero's Grave
+> 
+< Consecrated Snowfield
+> 
+< Apostate Derelict
+> 
+< Cave of the Forlorn
+> 
+< Consecrated Snowfield Catacombs
+> 
+< Inner Consecrated Snowfield
+> 
+< Ordina, Liturgical Town
+> 
+< Yelough Anix Tunnel
+> 
+< Haligtree Canopy
+> 
+< Haligtree Promenade
+> 
+< Haligtree Town
+> 
+< Haligtree Town Plaza
+> 
+< Elphael, Brace of the Haligtree
+> 
+< Drainage Channel
+> 
+< Elphael Inner Wall
+> 
+< Haligtree Roots
+> 
+< Malenia, Godess of Rot
+> 
+< Prayer Room
+> 
+< Beside the great Bridge
+> 
+< Crumbling Beast Grave
+> 
+< Crumbling Beast Grave Depths
+> 
+< Dragon Temple
+> 
+< Dragon Temple Altar
+> 
+< Dragon Temple Lift
+> 
+< Dragon Temple Rooftop
+> 
+< Dragon Temple Transept
+> 
+< Maliketh, the Black Blade
+> 
+< Tempest-Facing Balcony
+> 
+< Underground
+> 
+< Ainsel River Downstream
+> 
+< Ainsel River Sluice Gate
+> 
+< Ainsel River Well Depths
+> 
+< Dragonkin Soldier of Nokstella
+> 
+< Ainsel River Main
+> 
+< Nokstella, Eternal City
+> 
+< Nokstella Waterfall Basin
+> 
+< Grand Cloister
+> 
+< Lake of Rot Shoreside
+> 
+< Nokron, Eternal City
+> 
+< Ancestral Woods
+> 
+< Aqueduct-Facing Cliffs
+> 
+< Great Waterfall Basin
+> 
+< Mimic Tear
+> 
+< Night's Sacred Ground
+> 
+< Below the Well
+> 
+< Siofra River Bank
+> 
+< Siofra River Well Depths
+> 
+< Worshippers' Woods
+> 
+< Mohgwyn Palace
+> 
+< Cocoon of the Empyrean
+> 
+< Dynasty Mausoleum Entrance
+> 
+< Dynasty Mausoleum Midpoint
+> 
+< Palace Approach Ledge-Road
+> 
+< Across the Roots
+> 
+< Great Waterfall Crest
+> 
+< Prince of Death's Throne
+> 
+< Root-Facing Cliffs
+> 
+< The Nameless Eternal City
+> 
+< Main Game (Ash)
+> 
+< Leyndell, Royal Capital (Ash)
+> 
+< Subterranean Shunning-Grounds
+> 
+< Cathedral of the Forsaken
+> 
+< Forsaken Depths
+> 
+< Frenzied Flame Proscription
+> 
+< Leyndell Catacombs
+> 
+< Underground Roadside
+> 
+< Leyndell, Ashen Capital
+> 
+< East Capital Rampart
+> 
+< Leyendell, Capital of Ash
+> 
+< Queen's Bedchamber
+> 
+< Stone Platform
+> 
+< Fractured Marika
+> 
+< Scorched Ruins
+> 
+< Three Path Cross
+> 
+< Greatbridge North
+> 
+< Main Gate Cross
+> 
+< Cliffroad Terminus
+> 
+< Castle Front
+> 
+< Pillar Path Cross
+> 
+< Pillar Path Waypoint
+> 
+< Ellac River Cave
+> 
+< Ellac River Downstream
+> 
+< Fog Rift Catacombs
+> 
+< Belurat Gaol
+> 
+< Ruined Forge Lava Intake
+> 
+< Dragon's Pit
+> 
+< Dragon's Pit Terminus
+> 
+< Castle Ensis
+> 
+< Castle Ensis Checkpoint
+> 
+< Castle Lord's Chamber
+> 
+< Ensis Moongazing Grounds (Twin Moon Knight)
+> 
+< Cerulean Coast West
+> 
+< Cerulean Coast Cross
+> 
+< The Fissure
+> 
+< Lamenter's Goall
+> 
+< Stone Coffin Fissure
+> 
+< Fissure Cross
+> 
+< Fissure Waypoint
+> 
+< Fissure Depths
+> 
+< Garden of Deep Purple
+> 
+< Foot of the Jagged Peak
+> 
+< Grand Altar of Dragon Communion
+> 
+< Jagged Peak Mountainside
+> 
+< Jagged Peak Summit
+> 
+< Rest of the Dead Dragon
+> 
+< Land of the Tower
+> 
+< Belurat, Tower Settlement
+> 
+< Belrat Tower Settlement
+> 
+< Small Private Altar
+> 
+< Stagefront
+> 
+< Theatre of the Divine Beast
+> 
+< Enir Ilim Outer Wall
+> 
+< First Rise
+> 
+< Spiral Rise
+> 
+< Cleansing Chamber Anteroom
+> 
+< Divine Gate Front Staircase
+> 
+< Gate of Divinity
+> 
+< Ancient Ruins of Rauh
+> 
+< Viaduct Minor Tower
+> 
+< Rauh Ancient Ruins East
+> 
+< Rauh Ancient Ruins West
+> 
+< Ancient Ruins Grand Stairway
+> 
+< Church of the Bud Main Entrance
+> 
+< Church of the Bud
+> 
+< Rivermouth Cave
+> 
+< Ancient Ruins Base
+> 
+< Temple Town Ruins
+> 
+< Ravine North
+> 
+< Scorpion River Catacombs
+> 
+< Taylew's Ruined Forge
+> 
+< Scadu Altus 
+> 
+< Highroad Cross
+> 
+< Scadu Altus West
+> 
+< Moorth Ruins
+> 
+< Moorth Highway South
+> 
+< Fort of Reprimand
+> 
+< Behind the Fort of Reprimand
+> 
+< Saduview Cross
+> 
+< Bonny Village
+> 
+< Bridge Leading to the Village
+> 
+< Church District Highroad
+> 
+< Cathedral of Manus Metyr
+> 
+< Finger Birthing Grounds
+> 
+< Castle Watering Hole
+> 
+< Recluses River Upstream
+> 
+< Recluses River Downstream
+> 
+< Darklight Catacombs
+> 
+< Bonny Gaol
+> 
+< Ruined Forge of Starfall Past
+> 
+< Forsaken Graveyard
+> 
+< Woodland Trail
+> 
+< Church Ruins
+> 
+< Divided Falls
+> 
+< Midra's Manse
+> 
+< Manse Hall
+> 
+< Midra's Library
+> 
+< Second Floor Chamber
+> 
+< Discussion Chamber
+> 
+< Shadow Keep
+> 
+< Shadow Keep Main Gate
+> 
+< Main Gate Plaza
+> 
+< Shadow Keep, Church District 
+> 
+< Church District Entrance
+> 
+< Sunken Chapel
+> 
+< Tree Worship Passage
+> 
+< Tree Worship Sanctum
+> 
+< Specimen Storehouse 
+> 
+< Storehouse First Floor 
+> 
+< Storehouse Fourth Floor
+> 
+< Storehouse Seventh Floor
+> 
+< Dark Chamber Entrance
+> 
+< Storehouse Back Section
+> 
+< Storehouse Loft
+> 
+< West Rampart
+> 
+< Messmer's Dark Chamber
+> 
+< Shadow Keep Back Gate
+> 
+< Scadutree Base
+> 
+< Hinterland
+> 
+< Hinterland Bridge
+> 
+< Fingerstone Hill
+> 
+< Buildings
+> 
+< Unlock/Restore (Before Closing CE) Main Game Buildings
+> 
+< Scadutree Chalice
+> 
+< Albinaurics Shack
+> 
+< Taylews Ruined Forge
+> 
+< unused?
+> 
+< Limgrave 
+> 
+< Siofra River Well
+> 
+< Stormhill Evergaol
+> 
+< Forlorn Hound Evergaol
+> 
+< Warmaster´s Shack
+> 
+< Artist´s Shack
+> 
+< Summonwater Village
+> 
+< Gatefront Ruins
+> 
+< Dragon-Burnt Ruins
+> 
+< Waypoint Ruins
+> 
+< Third Chuch of Marika
+> 
+< Limgrave Colloseum
+> 
+< Weeping  Peninsula 
+> 
+< Fort Haight
+> 
+< Oridys´s Rise
+> 
+< Ailing Village
+> 
+< Isolated Mechant´s Shack
+> 
+< Callu Baptismal Church
+> 
+< Castle Morne
+> 
+< Demi-Human Forest Ruins
+> 
+< Tombsward Ruins
+> 
+< Witchbane Ruins
+> 
+< Weeping Evergaol
+> 
+< Tower of Return
+> 
+< Forest Lookout Tower
+> 
+< Earthbone Cave
+> 
+< Impaler´s Catacombs
+> 
+< Caelid 
+> 
+< Forsaken Ruins
+> 
+< Swamp Lookout Tower
+> 
+< Fort Gael
+> 
+< Gowry´s Shack
+> 
+< Shack of the Rotting
+> 
+< Street of Sages Ruins
+> 
+< Caelid Waypoint Ruins
+> 
+< Minor Erdtree Caelid
+> 
+< Redmane Castle
+> 
+< Sellia, town of Sorcery
+> 
+< Sellia Gateway
+> 
+< Minor Erdtree Catacombs
+> 
+< Sellia Evergaol
+> 
+< Isolated Merchant´s Shack
+> 
+< Divine Tower of Caelid
+> 
+< Sellia Hideaway 
+> 
+< Minor Erdtree Dragonbarrow
+> 
+< Lennes´ Rise
+> 
+< Caelid Colosseum
+> 
+< Liurnia of the Lakes 
+> 
+< Rose Church
+> 
+< Church of Irith
+> 
+< Road´s End Catacombs
+> 
+< Academy of Raya Lucaria 
+> 
+< Revenger´s Shack
+> 
+< Biolprawn Shack
+> 
+< Slumbering Wolf´s Shack
+> 
+< Kingsreal Ruins
+> 
+< Purified Ruins
+> 
+< Church of Inhibition 
+> 
+< Royal Grave Evergaol
+> 
+< Cuckoo´s Evergaol
+> 
+< Malefactor´s Evergaol
+> 
+< Frenzy-Flaming Tower
+> 
+< Highway Lookout Tower
+> 
+< Frenzied Flame Village
+> 
+< Village of the Albinaurics 
+> 
+< Lunar Estate Ruins
+> 
+< Moonfolk Ruins
+> 
+< Chelona´s Rise
+> 
+< Deep Ainsel Well
+> 
+< Ringleader´s Evergaol
+> 
+< Divine Tower of Liurnia 
+> 
+< Carian Study Hall
+> 
+< Minor Erdtree NE
+> 
+< Minor Erdtree SW
+> 
+< Caria Manor
+> 
+< Converted Fringe Tower
+> 
+< Renna´s Rise
+> 
+< Ranni´s Rise
+> 
+< Seluvis´s Rise
+> 
+< Testu´s Rise
+> 
+< Ainsel River Well
+> 
+< Altus 
+> 
+< Perfumer´s Ruins
+> 
+< Minor Erdtree E
+> 
+< Minor Erdtree N
+> 
+< The Shaded Castle
+> 
+< Golden Lineage Evergaol
+> 
+< Öux Ruins
+> 
+< Woodfolk Ruins
+> 
+< Minor Erdtree Church
+> 
+< Second Church of Marika
+> 
+< Stormcaller Church
+> 
+< Craftman´s Shack
+> 
+< Hermit´s Shack
+> 
+< Wyndham Ruins
+> 
+< Minor Erdtree W
+> 
+< Fort Laiedd
+> 
+< Hermit Village
+> 
+< Corpse-Stench Shack
+> 
+< Writheblood Ruins
+> 
+< Sage´s Cave
+> 
+< Perfumer´s Grotto
+> 
+< Wyndham Catacombs 
+> 
+< Auriza Hero´s Grave
+> 
+< Gelmir Hero´s Grave
+> 
+< Sainted Hero´s Grave
+> 
+< Mirage Rise
+> 
+< Dominula, Windmill Village
+> 
+< Village Windmill Pasture
+> 
+< East Windmill Pasture
+> 
+< West Windmill Pasture
+> 
+< Hermit Merchant´s Shack
+> 
+< St. Trina´s Hideaway
+> 
+< Leyendell Colosseum
+> 
+< Mountaintops of the Giants 
+> 
+< Castle Sol
+> 
+< Guardian´s Garrison
+> 
+< Heretical Rise
+> 
+< Lord Contender´s Evergaol
+> 
+< Shack of the Lofty
+> 
+< Stargazer´s Ruins
+> 
+< Giants´ Mountaintop Catacombs
+> 
+< Giant-Conquering Hero´s Grave
+> 
+< Spiritcaller Cave
+> 
+< Minor Erdtree NW
+> 
+< Albinauric Rise
+> 
+< Yelough Anix Ruins
+> 
+< Apostate Dereclict
+> 
+< Ainsel River 
+> 
+< Nokstella Eternal City
+> 
+< Mohgwyn Dynasty Mausoleum
+> 
+< Hallowhorn Grounds
+> 
+< Hollowhorn Grounds
+> 
+< Siofra Aqueduct
+> 
+< Night´s Sacred Ground
+> 
+< Twin Maiden Husk
+> 
+< These Flags change if the Twin Maiden Husk Received a Bearing or not
+> 
+< Remove all Bearings/Add all Bearings
+> 
+< Pidia's Bell Bearing
+> 
+< Seluvis's Bell Bearing
+> 
+< Patches's Bell Bearing
+> 
+< Sellen's Bell Bearing
+> 
+< D's Bell Bearing
+> 
+< Bernahl's Bell Bearing
+> 
+< Miriel's Bell Bearing
+> 
+< Gostoc's Bell Bearing
+> 
+< Thops's Bell Bearing
+> 
+< Kalé's Bell Bearing
+> 
+< Nomadic Merchant's Bell Bearing [1]
+> 
+< Nomadic Merchant's Bell Bearing [2]
+> 
+< Nomadic Merchant's Bell Bearing [3]
+> 
+< Nomadic Merchant's Bell Bearing [4]
+> 
+< Nomadic Merchant's Bell Bearing [5]
+> 
+< Isolated Merchant's Bell Bearing [1]
+> 
+< Isolated Merchant's Bell Bearing [2]
+> 
+< Isolated Merchant's Bell Bearing [3]
+> 
+< Nomadic Merchant's Bell Bearing [6]
+> 
+< Hermit Merchant's Bell Bearing [1]
+> 
+< Hermit Merchant's Bell Bearing [2]
+> 
+< Hermit Merchant's Bell Bearing [3]
+> 
+< Abandoned Merchant's Bell Bearing
+> 
+< Imprisoned Merchant's Bell Bearing
+> 
+< Iji's Bell Bearing
+> 
+< Rogier's Bell Bearing
+> 
+< Blackguard's Bell Bearing
+> 
+< Corhyn's Bell Bearing
+> 
+< Gowry's Bell Bearing
+> 
+< Bone Peddler's Bell Bearing
+> 
+< Meat Peddler's Bell Bearing
+> 
+< Medicine Peddler's Bell Bearing
+> 
+< Gravity Stone Peddler's Bell Bearing
+> 
+< Smithing-Stone Miner's Bell Bearing [1]
+> 
+< Smithing-Stone Miner's Bell Bearing [2]
+> 
+< Smithing-Stone Miner's Bell Bearing [3]
+> 
+< Smithing-Stone Miner's Bell Bearing [4]
+> 
+< Somberstone Miner's Bell Bearing [1]
+> 
+< Somberstone Miner's Bell Bearing [2]
+> 
+< Somberstone Miner's Bell Bearing [3]
+> 
+< Somberstone Miner's Bell Bearing [4]
+> 
+< Somberstone Miner's Bell Bearing [5]
+> 
+< Glovewort Picker's Bell Bearing [1]
+> 
+< Glovewort Picker's Bell Bearing [2]
+> 
+< Glovewort Picker's Bell Bearing [3]
+> 
+< Ghost-Glovewort Picker's Bell Bearing [1]
+> 
+< Ghost-Glovewort Picker's Bell Bearing [2]
+> 
+< Ghost-Glovewort Picker's Bell Bearing [3]
+> 
+< Events
+> 
+< Epilogue ( 0 > 1 > 0 or it will keep repeating)
+> 
+< Burning ashes floating
+> 
+< Fire in Roundtable Hold (Slight)
+> 
+< In cut-scene/loading screen
+> 
+< Ability to Summon/ Summon Available Icon
+> 
+< Invasion Regions
+> 
+< Unlock Arena(s)
+> 
+< Limgrave Arena
+> 
+< Leyndell
+> 
+< Caelid Arena
+> 
+< Endings 
+> 
+< Setting All these Flags to "No" and unlocking the Fractured Marika Site of Grace allows you to play all the Endings in one Run
+> 
+< Game Finished
+> 
+< Lord of The Frenzied Flame 
+> 
+< Age of the Stars 
+> 
+< Blessing of Despair 
+> 
+< Age of Duskborn
+> 
+< Age of Fracture 
+> 
+< [ NPC ]
+> 
+< Targeted Enemy
+> 
+< Extra Lock on Range
+> 
+< Target
+> 
+< Name
+> 
+< NpcId
+> 
+< Local ID
+> 
+< NpcThinK ParamID
+> 
+< Global ID
+> 
+< Param ID
+> 
+< Phantom Type
+> 
+< Alliance
+> 
+< Animation Speed
+> 
+< Dead AF
+> 
+< Roll
+> 
+< Block
+> 
+< Parry
+> 
+< Poise
+> 
+< MaxPoise
+> 
+< Resistances
+> 
+< Poison
+> 
+< Poison Max
+> 
+< Scarlet Rot
+> 
+< Scarlet Rot Max
+> 
+< Bleed
+> 
+< Bleed Max
+> 
+< Blight
+> 
+< Blight Max
+> 
+< Frostbite
+> 
+< Frostbite Max
+> 
+< Sleep
+> 
+< Sleep Max
+> 
+< Mad
+> 
+< Mad Max
+> 
+< Azimuth Angle
+> 
+< Position
+> 
+< InitPos
+> 
+< Teleport Npc to Self
+> 
+< Teleport Self to Npc
+> 
+< ThrowPtr
+> 
+< ModelId
+> 
+< Handle
+> 
+< Stats
+> 
+< MaxHP2
+> 
+< NoFPConsumption
+> 
+< NoStaminaConsumption
+> 
+< Equipment
+> 
+< Character Spawner
+> 
+< [Character Spawner]
+> 
+< [Spawn Presets]
+> 
+< [Enemies]
+> 
+< General Radahn
+> 
+< Skeleton
+> 
+< Night Rider
+> 
+< Tree Sentinel
+> 
+< Troll Knight
+> 
+< c5040
+> 
+< c5080
+> 
+< c5090
+> 
+< c5160
+> 
+< c5900
+> 
+< c6080
+> 
+< [Players]
+> 
+< Empty Preset 
+> 
+< EnemyType
+> 
+< ----
+> 
+< ChrID AOB for making presets
+> 
+< NpcParam Dropdown
+> 
+< NpcParamID
+> 
+< NpcThinkParamID
+> 
+< EventEntityID
+> 
+< TalkID
+> 
+< ---EnemyType: Player Exclusive---
+> 
+< Unknown Player Type
+> 
+< CharacterInitParamID
+> 
+< SpawnManipulatorType
+> 
+< SpawnPosX
+> 
+< SpawnPosY
+> 
+< SpawnPosZ
+> 
+< ====
+> 
+< Spawn Debug Character
+> 
+< Debug Chr Data
+> 
+< [PROPERTIES]
+> 
+< Copy Model
+> 
+< Copy Cloth
+> 
+< Freeze
+> 
+< myProperty
+> 
+< [NpcParam]
+> 
+< disableParam_NT
+> 
+< behaviorVariationId
+> 
+< resistCorrectId_poison
+> 
+< nameId
+> 
+< turnVellocity
+> 
+< hitHeight
+> 
+< hitRadius
+> 
+< weight
+> 
+< hitYOffset
+> 
+< hp
+> 
+< mp
+> 
+< getSoul
+> 
+< itemLotId_enemy
+> 
+< itemLotId_map
+> 
+< maxAnkleRollAngle
+> 
+< chrHitGroupAndNavimesh
+> 
+< faceIconId
+> 
+< deactivateDist
+> 
+< chrActivateConditionParamId
+> 
+< footIkErrorHeightLimit
+> 
+< humanityLotId
+> 
+< spEffectID0
+> 
+< spEffectID1
+> 
+< spEffectID2
+> 
+< spEffectID3
+> 
+< spEffectID4
+> 
+< spEffectID5
+> 
+< spEffectID6
+> 
+< spEffectID7
+> 
+< GameClearSpEffectID
+> 
+< physGuardCutRate
+> 
+< magGuardCutRate
+> 
+< fireGuardCutRate
+> 
+< thunGuardCutRate
+> 
+< animIdOffset
+> 
+< lockGazePoint0
+> 
+< lockGazePoint1
+> 
+< lockGazePoint2
+> 
+< lockGazePoint3
+> 
+< lockGazePoint4
+> 
+< lockGazePoint5
+> 
+< networkWarpDist
+> 
+< dbgBehaviorR1
+> 
+< dbgBehaviorL1
+> 
+< dbgBehaviorR2
+> 
+< dbgBehaviorL2
+> 
+< dbgBehaviorRL
+> 
+< dbgBehaviorRR
+> 
+< dbgBehaviorRD
+> 
+< dbgBehaviorRU
+> 
+< dbgBehaviorLL
+> 
+< dbgBehaviorLR
+> 
+< dbgBehaviorLD
+> 
+< dbgBehaviorLU
+> 
+< animIdOffset2
+> 
+< partsDamageRate1
+> 
+< partsDamageRate2
+> 
+< partsDamageRate3
+> 
+< partsDamageRate4
+> 
+< partsDamageRate5
+> 
+< partsDamageRate6
+> 
+< partsDamageRate7
+> 
+< partsDamageRate8
+> 
+< weakPartsDamageRate
+> 
+< superArmorRecoverCorrection
+> 
+< superArmorBrakeKnockbackDist
+> 
+< stamina
+> 
+< staminaRecoverBaseVel
+> 
+< def_phys
+> 
+< def_slash
+> 
+< def_blow
+> 
+< def_thrust
+> 
+< def_mag
+> 
+< def_fire
+> 
+< def_thunder
+> 
+< defFlickPower
+> 
+< resist_poison
+> 
+< resist_desease
+> 
+< resist_blood
+> 
+< resist_curse
+> 
+< ghostModelId
+> 
+< normalChangeResouceId
+> 
+< guardAngle
+> 
+< slashGuardCutRate
+> 
+< blowGuardCutRate
+> 
+< thrustGuardCutRate
+> 
+< lockGazePoint6
+> 
+< normalChangeTexChrId
+> 
+< dropType
+> 
+< knockbackRate
+> 
+< knockbackParamId
+> 
+< fallDamageDump
+> 
+< staminaGuardDef
+> 
+< resist_sleep
+> 
+< resist_madness
+> 
+< sleepGuardResist
+> 
+< madnessGuardResist
+> 
+< lockGazePoint7
+> 
+< mpRecoverBaseVel
+> 
+< flickDamageCutRate
+> 
+< defaultLodParamId
+> 
+< drawType
+> 
+< npcType
+> 
+< teamType
+> 
+< moveType
+> 
+< lockDist
+> 
+< materialSe_Weak1
+> 
+< materialSfx_Weak1
+> 
+< partsDamageType
+> 
+< vowType
+> 
+< guardLevel
+> 
+< burnSfxType
+> 
+< poisonGuardResist
+> 
+< diseaseGuardResist
+> 
+< bloodGuardResist
+> 
+< curseGuardResist
+> 
+< parryAttack
+> 
+< parryDefence
+> 
+< sfxSize
+> 
+< pushOutCamRegionRadius
+> 
+< hitStopType
+> 
+< ladderEndChkOffsetTop
+> 
+< ladderEndChkOffsetLow
+> 
+< useRagdollCamHit
+> 
+< disableClothRigidHit
+> 
+< useUndulationAddAnimFB
+> 
+< isWeakA
+> 
+< isGhost
+> 
+< isNoDamageMotion
+> 
+< isUnduration
+> 
+< isChangeWanderGhost
+> 
+< modelDispMask0
+> 
+< modelDispMask1
+> 
+< modelDispMask2
+> 
+< modelDispMask3
+> 
+< modelDispMask4
+> 
+< modelDispMask5
+> 
+< modelDispMask6
+> 
+< modelDispMask7
+> 
+< modelDispMask8
+> 
+< modelDispMask9
+> 
+< modelDispMask10
+> 
+< modelDispMask11
+> 
+< modelDispMask12
+> 
+< modelDispMask13
+> 
+< modelDispMask14
+> 
+< modelDispMask15
+> 
+< isEnableNeckTurn
+> 
+< disableRespawn
+> 
+< isMoveAnimWait
+> 
+< isCrowd
+> 
+< isWeakB
+> 
+< isWeakC
+> 
+< isWeakD
+> 
+< doesAlwaysUseSpecialTurn
+> 
+< isRideAtkTarget
+> 
+< isEnableStepDispInterpolate
+> 
+< isStealthTarget
+> 
+< disableInitializeDead
+> 
+< isHitRumble
+> 
+< isSmoothTurn
+> 
+< isWeakE
+> 
+< isWeakF
+> 
+< modelDispMask16
+> 
+< modelDispMask17
+> 
+< modelDispMask18
+> 
+< modelDispMask19
+> 
+< modelDispMask20
+> 
+< modelDispMask21
+> 
+< modelDispMask22
+> 
+< modelDispMask23
+> 
+< modelDispMask24
+> 
+< modelDispMask25
+> 
+< modelDispMask26
+> 
+< modelDispMask27
+> 
+< modelDispMask28
+> 
+< modelDispMask29
+> 
+< modelDispMask30
+> 
+< modelDispMask31
+> 
+< itemSearchRadius
+> 
+< chrHitHeight
+> 
+< chrHitRadius
+> 
+< specialTurnType
+> 
+< isSoulGetByBoss
+> 
+< isBulletOwner_byObject
+> 
+< isUseLowHitFootIk
+> 
+< isCalculatePvPDamage
+> 
+< isHostSyncChr
+> 
+< isSkipWeakDamageAnim
+> 
+< isKeepHitOnRide
+> 
+< isSpCollide
+> 
+< def_dark
+> 
+< threatLv
+> 
+< specialTurnDistanceThreshold
+> 
+< autoFootEffectSfxId
+> 
+< materialSe1
+> 
+< materialSfx1
+> 
+< materialSe_Weak2
+> 
+< materialSfx_Weak2
+> 
+< materialSe2
+> 
+< materialSfx2
+> 
+< spEffectID8
+> 
+< spEffectID9
+> 
+< spEffectID10
+> 
+< spEffectID11
+> 
+< spEffectID12
+> 
+< spEffectID13
+> 
+< spEffectID14
+> 
+< spEffectID15
+> 
+< autoFootEffectDecalBaseId1
+> 
+< toughness
+> 
+< toughnessRecoverCorrection
+> 
+< neutralDamageCutRate
+> 
+< slashDamageCutRate
+> 
+< blowDamageCutRate
+> 
+< thrustDamageCutRate
+> 
+< magicDamageCutRate
+> 
+< fireDamageCutRate
+> 
+< thunderDamageCutRate
+> 
+< darkDamageCutRate
+> 
+< darkGuardCutRate
+> 
+< clothUpdateOffset
+> 
+< npcPlayerWeightType
+> 
+< normalChangeModelId
+> 
+< normalChangeAnimChrId
+> 
+< paintRenderTargetSize
+> 
+< resistCorrectId_disease
+> 
+< phantomShaderId
+> 
+< multiPlayCorrectionParamId
+> 
+< maxAnklePitchAngle
+> 
+< resist_freeze
+> 
+< freezeGuardResist
+> 
+< lockCameraParamId
+> 
+< spEffectID16
+> 
+< spEffectID17
+> 
+< spEffectID18
+> 
+< spEffectID19
+> 
+< spEffectID20
+> 
+< spEffectID21
+> 
+< spEffectID22
+> 
+< spEffectID23
+> 
+< spEffectID24
+> 
+< spEffectID25
+> 
+< spEffectID26
+> 
+< spEffectID27
+> 
+< spEffectID28
+> 
+< spEffectID29
+> 
+< spEffectID30
+> 
+< spEffectID31
+> 
+< disableLockOnAng
+> 
+< clothOffLodLevel
+> 
+< isUseFootIKNormalByUnduration
+> 
+< attachHitInitializeDead
+> 
+< excludeGroupRewardCheck
+> 
+< enableAILockDmyPoly_212
+> 
+< enableAILockDmyPoly_213
+> 
+< enableAILockDmyPoly_214
+> 
+< disableActivateOpen_xb1
+> 
+< disableActivateLegacy_xb1
+> 
+< estusFlaskRecoveryParamId
+> 
+< roleNameId
+> 
+< estusFlaskLotPoint
+> 
+< hpEstusFlaskLotPoint
+> 
+< mpEstusFlaskLotPoint
+> 
+< estusFlaskRecovery_failedLotPointAdd
+> 
+< hpEstusFlaskRecovery_failedLotPointAdd
+> 
+< mpEstusFlaskRecovery_failedLotPointAdd
+> 
+< WanderGhostPhantomId
+> 
+< hearingHeadSize
+> 
+< SoundBankId
+> 
+< forwardUndulationLimit
+> 
+< sideUndulationLimit
+> 
+< deactiveMoveSpeed
+> 
+< deactiveMoveDist
+> 
+< enableSoundObjDist
+> 
+< undulationCorrectGain
+> 
+< autoFootEffectDecalBaseId2
+> 
+< autoFootEffectDecalBaseId3
+> 
+< RetargetReferenceChrId
+> 
+< SfxResBankId
+> 
+< updateActivatePriolity
+> 
+< chrNavimeshFlag_Alive
+> 
+< chrNavimeshFlag_Dead
+> 
+< wheelRotType
+> 
+< wheelRotRadius
+> 
+< retargetMoveRate
+> 
+< ladderWarpOffset
+> 
+< loadAssetId
+> 
+< overlapCameraDmypolyId
+> 
+< residentMaterialExParamId00
+> 
+< residentMaterialExParamId01
+> 
+< residentMaterialExParamId02
+> 
+< residentMaterialExParamId03
+> 
+< residentMaterialExParamId04
+> 
+< sleepCollectorItemLotId_enemy
+> 
+< sleepCollectorItemLotId_map
+> 
+< footIkErrorOnGain
+> 
+< footIkErrorOffGain
+> 
+< SoundAddBankId
+> 
+< materialVariationValue
+> 
+< materialVariationValue_Weak
+> 
+< superArmorDurability
+> 
+< saRecoveryRate
+> 
+< saGuardCutRate
+> 
+< resistCorrectId_blood
+> 
+< resistCorrectId_curse
+> 
+< resistCorrectId_freeze
+> 
+< resistCorrectId_sleep
+> 
+< resistCorrectId_madness
+> 
+< chrDeadTutorialFlagId
+> 
+< stepDispInterpolateTime
+> 
+< stepDispInterpolateTriggerValue
+> 
+< lockScoreOffset
+> 
+< [PlayerIns - c0000 specific]
+> 
+< [CHR_ASM_EDIT]
+> 
+< Left_Hand_1
+> 
+< RightHand_1
+> 
+< Left_Hand_2
+> 
+< RightHand_2
+> 
+< Left_Hand_3
+> 
+< RightHand_3
+> 
+< Arrow_1
+> 
+< Bolt_1
+> 
+< Arrow_2
+> 
+< Bolt_2
+> 
+< Helm
+> 
+< Arm
+> 
+< Legs
+> 
+< Talisman1
+> 
+< Talisman2
+> 
+< Talisman3
+> 
+< Talisman4
+> 
+< [TAE_MOVESET]
+> 
+< TAE_MOVESET_ID_LEFT_HAND
+> 
+< TAE_MOVESET_ID_RIGHT_HAND
+> 
+< [Stats]
+> 
+< [EnemyIns - non c0000 specific]
+> 
+< RetargetReferenceChrID
+> 
+< RetargetMoveRate
+> 
+< LoadAssetID
+> 
+< GhostModelID
+> 
+< [ComManipulator]
+> 
+< [HandleTargetAccessor]
+> 
+< [AI]
+> 
+< Current Controller
+> 
+< Override Controller
+> 
+< ComController
+> 
+< NetAiController
+> 
+< RideController
+> 
+< [AiJumpMoveCtrl]
+> 
+< Force Jump
+> 
+< aIJump_DecelerateParam
+> 
+< aIJump_AnimYMoveCorrectRate_onJumpOff
+> 
+< [AI SYS]
+> 
+< attackRequestAnimID [For Debug]
+> 
+< [ThinkOwner]
+> 
+< [AI Goal, Animation]
+> 
+< AttackRequest Pass
+> 
+< attackRequestAnimID
+> 
+< animID
+> 
+< [C480]
+> 
+< [C628]
+> 
+< [AiFunc]
+> 
+< [TargetingSystemOwner]
+> 
+< [Targeting System]
+> 
+< TargetingSystem
+> 
+< Target Data Ptr
+> 
+< Target HandleID
+> 
+< Target Handle ID
+> 
+< [1D0]
+> 
+< [340]
+> 
+< [Target Velocity Recorder]
+> 
+< [FixedPosTarget]
+> 
+< [TargetAccessor]
+> 
+< [D970]
+> 
+< [RouteNavigatorInterface]
+> 
+< [E9D8]
+> 
+< [ED10]
+> 
+< [DBB0]
+> 
+< [DC48]
+> 
+< dbg control
+> 
+< setAi Controller
+> 
+< PadManipulator 0xA8
+> 
+< chr_dbg Pad
+> 
+< Camera Ptr
+> 
+< override Ptr
+> 
+< entityIns
+> 
+< [NetAIManipulator]
+> 
+< [NpcSpEffectEquip]
+> 
+< ==NpcParam Effects==
+> 
+< SpEffectCount
+> 
+< SpEffectID0
+> 
+< SpEffectID1
+> 
+< SpEffectID2
+> 
+< SpEffectID3
+> 
+< SpEffectID4
+> 
+< SpEffectID5
+> 
+< SpEffectID6
+> 
+< SpEffectID7
+> 
+< SpEffectID8
+> 
+< SpEffectID9
+> 
+< SpEffectID10
+> 
+< SpEffectID11
+> 
+< SpEffectID12
+> 
+< SpEffectID13
+> 
+< SpEffectID14
+> 
+< SpEffectID15
+> 
+< SpEffectID16
+> 
+< SpEffectID17
+> 
+< SpEffectID18
+> 
+< SpEffectID19
+> 
+< SpEffectID20
+> 
+< SpEffectID21
+> 
+< SpEffectID22
+> 
+< SpEffectID23
+> 
+< SpEffectID24
+> 
+< SpEffectID25
+> 
+< SpEffectID26
+> 
+< SpEffectID27
+> 
+< SpEffectID28
+> 
+< SpEffectID29
+> 
+< SpEffectID30
+> 
+< SpEffectID31
+> 
+< IsUseGameClearSpEffectID
+> 
+< [MapStudioSpEffectEquip]
+> 
+< SpEffectId0
+> 
+< SpEffectId1
+> 
+< SpEffectId2
+> 
+< SpEffectId3
+> 
+< SpEffectId4
+> 
+< SpEffectId5
+> 
+< SpEffectId6
+> 
+< SpEffectId7
+> 
+< SpEffectId8
+> 
+< SpEffectId9
+> 
+< SpEffectId10
+> 
+< SpEffectId11
+> 
+< SpEffectId12
+> 
+< SpEffectId13
+> 
+< SpEffectId14
+> 
+< SpEffectId15
+> 
+< byte
+> 
+< ======
+> 
+< [BasicInfo]
+> 
+< [ChrData/Base Stats] 0
+> 
+< EventEntityId
+> 
+< CHR_TYPE
+> 
+< TEAM_TYPE
+> 
+< HP MAX
+> 
+< FP MAX
+> 
+< SP MAX
+> 
+< ==Draw==
+> 
+< ===Extra Flags===
+> 
+< [Unk]
+> 
+< Countdown
+> 
+< Unk Method Switch 0<->1
+> 
+< UnkMethodInt
+> 
+< GoodsAnimInvalid
+> 
+< TalkEsdByte?
+> 
+< MoWwiseMan
+> 
+< SessionMan
+> 
+< SessionManByte
+> 
+< Chr_dbg
+> 
+< Deattach
+> 
+< Cloth?
+> 
+< [Status Effect Resist] 4
+> 
+< Max Poison
+> 
+< Scarlet
+> 
+< Max Scarlet
+> 
+< Max Bleed
+> 
+< Max Blight
+> 
+< Frost
+> 
+< Max Frost
+> 
+< Max Sleep
+> 
+< Madness
+> 
+< Max Madness
+> 
+< ===Resist Change===
+> 
+< Add Poison
+> 
+< Add Scarlet
+> 
+< Add Bleed
+> 
+< Add Blight
+> 
+< Add Frost
+> 
+< Add Sleep
+> 
+< Add Madness
+> 
+< Mul Poison
+> 
+< Mul Scarlet
+> 
+< Mul Bleed
+> 
+< Mul Blight
+> 
+< Mul Frost
+> 
+< Mul Sleep
+> 
+< Mul Madness
+> 
+< [Draw]
+> 
+< [DrawGroup]
+> 
+< ==DrawGroup==
+> 
+< DrawGroup1
+> 
+< DrawGroup2
+> 
+< DrawGroup3
+> 
+< DrawGroup4
+> 
+< DrawGroup5
+> 
+< DrawGroup6
+> 
+< DrawGroup7
+> 
+< DrawGroup8
+> 
+< ==DispGroup==
+> 
+< DispGroup1
+> 
+< DispGroup2
+> 
+< DispGroup3
+> 
+< DispGroup4
+> 
+< DispGroup5
+> 
+< DispGroup6
+> 
+< DispGroup7
+> 
+< DispGroup8
+> 
+< ==BackReadGroup==
+> 
+< BackredGroup1
+> 
+< BackredGroup2
+> 
+< BackredGroup3
+> 
+< BackredGroup4
+> 
+< BackredGroup5
+> 
+< BackredGroup6
+> 
+< BackredGroup7
+> 
+< BackredGroup8
+> 
+< [PrimMask]
+> 
+< EventPrimMask1
+> 
+< EventPrimMask2
+> 
+< EventPrimMask3
+> 
+< EventPrimMask4
+> 
+< TaePrimHideMask1
+> 
+< TaePrimHideMask2
+> 
+< TaePrimHideMask3
+> 
+< TaePrimHideMask4
+> 
+< ModelPrimMask1
+> 
+< ModelPrimMask2
+> 
+< ModelPrimMask3
+> 
+< ModelPrimMask4
+> 
+< Chr Fade out [ON/OFF]
+> 
+< Enable Chr Draw
+> 
+< ===Character Fade [Ghost] 0.0 - 1.0===
+> 
+< Base
+> 
+< Force RoleParam
+> 
+< RoleParamID [Force]
+> 
+< RoleParamID [For Debug]
+> 
+< PhantomParamID [Debug]
+> 
+< WetParamID [Debug]
+> 
+< Disable /parts/ render
+> 
+< Cast Shadow?
+> 
+< Motion Blur?
+> 
+< mapMimicryVariationType [0-2]
+> 
+< mapMimicyEstablishmentID [Mimic Veil]
+> 
+< PlayRegionPoint
+> 
+< PlayRegionId
+> 
+< ?PlaceName?
+> 
+< Something
+> 
+< Cloth
+> 
+< Jumptable
+> 
+< [Physics/Position]
+> 
+< [Physics/Position] 13
+> 
+< Chunk X
+> 
+< Chunk Y
+> 
+< Chunk Z
+> 
+< Allowed Y Levitation
+> 
+< Hks_call
+> 
+< [FALL] 14
+> 
+< Insta Death Fall Test
+> 
+< [Knockback] 21
+> 
+< Debug_KnockbackParamID
+> 
+< [Ride] 29
+> 
+< RideParamID
+> 
+< IsRidingEnabled
+> 
+< Riding
+> 
+< IsRidingPossible
+> 
+< "WTF"
+> 
+< NewRidingTest
+> 
+< Physical Attribute
+> 
+< Special Attribute
+> 
+< Riding:HeightOfFall * (float)100
+> 
+< Riding: IsOnLand?
+> 
+< Riding: AreYouReallyLanding?
+> 
+< Riding:IsHorseFalling?
+> 
+< IsInsideNoRideArea?
+> 
+< HorseHP
+> 
+< DidHorseTakeDamage?
+> 
+< HorseDamageType
+> 
+< HorseDamageDirection
+> 
+< HorseAttackDirection
+> 
+< HorseGuardLvl
+> 
+< HorseDmgLvl
+> 
+< Riding_AnimationID
+> 
+< IsItAHorse?
+> 
+< HorseState
+> 
+< [WheelRotation] 36
+> 
+< NpcParam + 0x26B - WheelRotationType
+> 
+< WheelRotType
+> 
+< WheelRotRadius
+> 
+< [AutoHoming] 32
+> 
+< Debug Display
+> 
+< Score?
+> 
+< [Behavior/Animation]
+> 
+< [ActionFlag: AnimCancel] 1
+> 
+< Action: Invoke Attack Goal
+> 
+< Animation Cancel
+> 
+< hks
+> 
+< [BehScriptModule] 2
+> 
+< DebugLog
+> 
+< [TAE/Animation QUEUE] 3
+> 
+< [Animation Queue]
+> 
+< ===1===
+> 
+< AnimationID
+> 
+< Current Time
+> 
+< Max Time
+> 
+< ===2===
+> 
+< ===3===
+> 
+< ===4===
+> 
+< ===5===
+> 
+< ===6===
+> 
+< ===7===
+> 
+< ===8===
+> 
+< GestureWalkRegion
+> 
+< Animation Queue Count
+> 
+< [ChrBehavior/Debug Animation Play] 5
+> 
+< Play Behavior Name
+> 
+< String
+> 
+< String : W_Attack3000, W_Event700 etc
+> 
+< PlayAnimSpawned_
+> 
+< x64 bool
+> 
+< [BehaviorDebugAnimHelper]
+> 
+< PlayAnimTest
+> 
+< IsLoop
+> 
+< ExecutePlayAnimSpawned
+> 
+< IsLanding
+> 
+< SkeleDraw_index?
+> 
+< Draw Skeleton
+> 
+< [BehaviorSyncModule] 6
+> 
+< [ActionRequestModule] 16
+> 
+< Request AttackAnimID
+> 
+< int64 bool
+> 
+< Anim Cancel Mask Input
+> 
+< Anim Cancel Mask Match
+> 
+< Anim Cancel Mask
+> 
+< ExtraMask
+> 
+< Flags Int64
+> 
+< [BehaviorData] 24
+> 
+< Countdown on
+> 
+< Countdown Max
+> 
+< [Visual]
+> 
+< [SFX] 22
+> 
+< [VFX] 23
+> 
+< [Dripping] 27
+> 
+< SpEffectVfxParamID
+> 
+< SpEffectVfxParamId [Read]
+> 
+< DecalID 1
+> 
+< DecalID 2
+> 
+< [Wet] 31
+> 
+< WetStatusTime[sec]
+> 
+< WetStatusCountdown
+> 
+< SetDebugWetStatus
+> 
+< [CliffWind] 37
+> 
+< Rad
+> 
+< [Other]
+> 
+< [AI] 7
+> 
+< [SuperArmor] 8
+> 
+< currentSuperArmor
+> 
+< maxSuperArmor
+> 
+< superArmorRecoverTimer [sec]
+> 
+< [Toughness] 9
+> 
+< [Talk] 10
+> 
+< TalkID [MSB]
+> 
+< [Event] 11
+> 
+< EventAnimationID
+> 
+< Last EventAnimationID
+> 
+< EzStateRequest_Ladder
+> 
+< EzStateRequest_Unk1
+> 
+< EzStateRequest_Unk2
+> 
+< EzStateRequest_Unk3
+> 
+< MsgMapList_call
+> 
+< EzStateRequest_LadderOutput
+> 
+< EzStateRequest_Unk1Output
+> 
+< EzStateRequest_Unk2Output
+> 
+< EzStateRequest_Unk3Output
+> 
+< [Magic] 12
+> 
+< LastCast_MagicParamID
+> 
+< [Ladder] 15
+> 
+< Ladder Handle ID
+> 
+< LadderState
+> 
+< Top X
+> 
+< Top Y
+> 
+< Top Z
+> 
+< Bottom X
+> 
+< Bottom Y
+> 
+< Bottom Z
+> 
+< Display Player Capsule
+> 
+< [Throw] 17
+> 
+< Enable ThrowStart
+> 
+< Force W_ThrowAtk
+> 
+< [ThrowNode]
+> 
+< Current ThrowParamID
+> 
+< ThrowState
+> 
+< Init Error Check
+> 
+< EscHP
+> 
+< --acceptable error--
+> 
+< Height [m]
+> 
+< Dist XZ Plane [m]
+> 
+< angle [rad]
+> 
+< --actual error--
+> 
+< throwFreeCam
+> 
+< disableThrowNoGravity
+> 
+< Unk //change jmp to je
+> 
+< [ThrowSelfEsc]
+> 
+< Minimum stick distance threshold
+> 
+< Maximum Stick Distance Threshold
+> 
+< [HitStopModule] 18
+> 
+< [Damage] 19
+> 
+< BrokenDebugDisp
+> 
+< nullPtr
+> 
+< [Material] 20
+> 
+< HitMaterialID
+> 
+< [ModelParamModifier] 26
+> 
+< [BoneMove] 30
+> 
+< [AboveShadowTest] 33
+> 
+< Shadow Circle Disp
+> 
+< [SwordArts] 34
+> 
+< IsSwordNoFpConsume?
+> 
+< hks_call
+> 
+< [GrassHit] 35
+> 
+< WwiseValueToStrParam_Switch_GrassHitTypeParamID
+> 
+< Force GrassHitType
+> 
+< [NaviMeshCostEffect] 38
+> 
+< NpcParam : 44600840 & 44601840 only
+> 
+< Reset Unk
+> 
+< ResetHkAiMan
+> 
+< [HkAiPointCloudsilhouetteGenerator]
+> 
+< [HkAiSilhouetteGenerator]
+> 
+< HkAiManExtraSetting
+> 
+< [Havok]
+> 
+< Player Controlling Value
+> 
+< Disallow Turning
+> 
+< Disallow Changing Position
+> 
+< Enter Falling State
+> 
+< ===Current Chunk Force Teleport===
+> 
+< Force Teleport
+> 
+< Force TP X
+> 
+< Force TP Y
+> 
+< Force TP Z
+> 
+< Chr Ragdoll State
+> 
+< Equip.Load
+> 
+< [UnkX]
+> 
+< bool32
+> 
+< You died
+> 
+< MapItemMan = 2
+> 
+< [HoverWarp]
+> 
+< Reset
+> 
+< [JumpMoveAi]
+> 
+< autoJump
+> 
+< [ChrModelPosEasing]
+> 
+< [ChrFinder]
+> 
+< ChrFinderUnk
+> 
+< [ChrRes]
+> 
+< ChrBnd Swap
+> 
+< [SpecialEffect]
+> 
+< SpEffectID[1]
+> 
+< SpEffectID[2]
+> 
+< SpEffectID[3]
+> 
+< SpEffectID[4]
+> 
+< SpEffectID[5]
+> 
+< SpEffectID[6]
+> 
+< SpEffectID[7]
+> 
+< SpEffectID[8]
+> 
+< SpEffectID[9]
+> 
+< SpEffectID[10]
+> 
+< SpEffectID[11]
+> 
+< SpEffectID[12]
+> 
+< SpEffectID[13]
+> 
+< SpEffectID[14]
+> 
+< SpEffectID[15]
+> 
+< SpEffectID[16]
+> 
+< Special Effect [add]
+> 
+< SpEffectId
+> 
+< Special_Effect_Add[SpawnedDbgChr]
+> 
+< Special Effect [erase]
+> 
+< Special_Effect_Erase[SpawnedDbgChr]
+> 
+< [Unk2] +198
+> 
+< [HkAiMan]
+> 
+< HkAiManCommanID?
+> 
+< [Talk]
+> 
+< LipSyncRequest [TalkFunction]
+> 
+< NPC Manager (Double-click to select NPCs)
+> 
+< Character Instance
+> 
+< --- debug
+> 
+< ItemQuantity
+> 
+< HighlightedItemFunc
+> 
+< dropdowns
+> 
+< GraceDropdown
+> 
+< AnimDropdown
+> 
+< AshofWarDropdown
+> 
+< NPCParamDropdown
+> 
+< MagicID
+> 
+< itemgibv2
+> 
+< WeaponDropdown(0)
+> 
+< ArmorDropdown(1)
+> 
+< TailsmanDropdown(2)
+> 
+< Magic/GoodsDropdown(3)
+> 
+< AshesofWarDropdown(4)
+> 
+< GigaGib
+> 
+< Main Game Lists
+> 
+< Weapon and Shields
+> 
+< Max Level Weapon and Shields
+> 
+< Talisman
+> 
+< Crafting Materials
+> 
+< Consumables
+> 
+< Ash of War
+> 
+< Arrows
+> 
+< Smithing Stone  and Glovewort
+> 
+< Bell Bearing
+> 
+< Crystal Tear
+> 
+< Maps/Cookbooks/Whetblades
+> 
+< All Souls+0
+> 
+< All Souls+10
+> 
+< Add Runes and Golden Runes of bosses
+> 
+< Key Items (1/1)
+> 
+< Tailoring Tools
+> 
+< Reusables
+> 
+< Special Items
+> 
+< Online Items
+> 
+< DLC Lists
+> 
+< DLC Weapons and Shields
+> 
+< DLC Armors
+> 
+< DLC Talismans
+> 
+< DLC Crafting Materials
+> 
+< DLC Consumables
+> 
+< DLC Ashes of War
+> 
+< DLC Arrows
+> 
+< DLC Key Items
+> 
+< DLC Special Items
+> 
+< DLC Reusables
+> 
+< DLC Bell Bearing
+> 
+< DLC Crystal Tear
+> 
+< DLC Maps/Cookbooks
+> 
+< DLC Tutorials (not used in gigagib)
+> 
+< DLC Ashes +0
+> 
+< DLC Ashes +10
+> 
+< DLC Pots (not used in gigagib)
+> 
+< DLC Remembrances
+> 
+< DLC Spells
+> 
+< DLC Weapons and Shields Max lvl
+> 
+< Tailoring Tools Flags
+> 
+< Unlock Tailoring Tools
+> 
+< Golden Tailoring Tools
+> 
+< Unavailable items
+> 
+< ON_OFF
+> 
+< --- WIP and outdated
+> 
+< itemgib func
+> 
+< itemgibrcx
+> 
+< coordtest
+> 
+< Peek Support
+> 
+< Old 
+> 
+< Weapon
+> 
+< Data
+> 
+< Goods
+> 
+< sortid
+> 
+< Attack
+> 
+< ID
+> 
+< Effects
+> 
+< DATA
+> 
+< NPC
+> 
+< SummonSpirits
+> 
+< Behavior
+> 
+< Data (Change bullets by changing reference IDs)
+> 
+< by NBOTT42
+> 
+< Enhanced Magic
+> 
+< String Dumper
+> 
+< String Table Index
+> 
+< File Name
+> 
+< Dump
+> 
+< Pause Process
+> 
+< ItemGib v1.0 Old
+> 
+< Item Type
+> 
+< Quantity
+> 
+< Add Item
+> 
+< EntityCountOverWorld
+> 
+< Reset all Bosses
+> 
+< Display Target's Status
+> 
+< Start
+> 
+< ↓CX/CY=Size,DX/DY=Position
+> 
+< Settings (Do NOT change the descriptions or add anything here)
+> 
+< FontName
+> 
+< FontSize
+> 
+< DX
+> 
+< DY
+> 
+< CX
+> 
+< CY
+> 
+< Mode
+> 
+< Fixed
+> 
+< ShowName
+> 
+< ShowHP
+> 
+< ShowMP
+> 
+< ShowSP
+> 
+< ShowPoise
+> 
+< ShowPoison
+> 
+< ShowRot
+> 
+< ShowBleed
+> 
+< ShowBlight
+> 
+< ShowFrost
+> 
+< ShowSleep
+> 
+< ShowMad
+> 
+< [Info and FAQ]
+> 
+< Important
+> 
+< Marked 
+> 
+< Marked
+> 
+< Most used Scripts
+> 
+< Infos/Descriptions 
+> 
+< [Our Patreon page]
+> 
+< If you like our work support us on Patreon
+> 
+< As a little bonus you get a EAC trainer that enables you to use serverside super spells with free trial
+> 
+< [Support Discord]
+> 
+< [ID master spreadsheet]
+> 

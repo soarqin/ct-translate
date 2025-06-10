@@ -6,8 +6,10 @@ import argparse
 import sys
 import os
 
+
 def replace_invalid_chars(text):
-    return ''.join(c if c.isalnum() else '_' for c in text)
+    return "".join(c if c.isalnum() else "_" for c in text)
+
 
 def replace_descriptions_in_ct(input_file, strings_dir):
     """
@@ -26,7 +28,7 @@ def replace_descriptions_in_ct(input_file, strings_dir):
             cheat_entry: The CheatEntry element to process
         """
         # Find Description element
-        description_element = cheat_entry.find('Description')
+        description_element = cheat_entry.find("Description")
 
         if description_element is not None and description_element.text:
             description_text = description_element.text.strip()
@@ -39,7 +41,7 @@ def replace_descriptions_in_ct(input_file, strings_dir):
                 return
 
             # Find DropDownList element
-            drop_down_list_element = cheat_entry.find('DropDownList')
+            drop_down_list_element = cheat_entry.find("DropDownList")
             if drop_down_list_element is not None and drop_down_list_element.text:
                 dropdownlist = drop_down_list_element.text
                 new_dropdownlist = existing_dropdownlists.get(dropdownlist)
@@ -52,10 +54,10 @@ def replace_descriptions_in_ct(input_file, strings_dir):
                 description_element.text = f'"{new_string}"' if has_quotes else new_string
 
         # Process child CheatEntries elements first
-        child_cheat_entries_elements = cheat_entry.findall('CheatEntries')
+        child_cheat_entries_elements = cheat_entry.findall("CheatEntries")
         for cheat_entries in child_cheat_entries_elements:
             # Find all CheatEntry elements under each CheatEntries
-            cheat_entry_elements = cheat_entries.findall('CheatEntry')
+            cheat_entry_elements = cheat_entries.findall("CheatEntry")
             for child_entry in cheat_entry_elements:
                 process_cheat_entry(child_entry)
 
@@ -63,43 +65,43 @@ def replace_descriptions_in_ct(input_file, strings_dir):
         exclude_strings = {}
         existing_strings = {}
         existing_dropdownlists = {}
-        exclude_file = os.path.join(strings_dir, 'exclude.txt')
+        exclude_file = os.path.join(strings_dir, "exclude.txt")
         if os.path.exists(exclude_file):
-            with open(exclude_file, 'r', encoding='utf-8') as f:
+            with open(exclude_file, "r", encoding="utf-8") as f:
                 for line in f.readlines():
                     exclude_strings[line.strip()] = True
 
-        strings_file = os.path.join(strings_dir, 'strings.txt')
+        strings_file = os.path.join(strings_dir, "strings.txt")
         if not os.path.exists(strings_file):
             print(f"错误: 输入文件不存在: {strings_file}")
             sys.exit(1)
 
-        with open(strings_file, 'r', encoding='utf-8') as f:
+        with open(strings_file, "r", encoding="utf-8") as f:
             for line in f.readlines():
-                if line.startswith('< '):
+                if line.startswith("< "):
                     original_string = line[2:].strip()
-                elif line.startswith('> '):
+                elif line.startswith("> "):
                     if original_string is not None:
                         new_string = line[2:].strip()
                         existing_strings[original_string] = new_string
                         original_string = None
-        dropdownlists_file = os.path.join(strings_dir, 'dropdownlists.txt')
+        dropdownlists_file = os.path.join(strings_dir, "dropdownlists.txt")
         if os.path.exists(dropdownlists_file):
-            text = open(dropdownlists_file, 'r', encoding='utf-8').read()
+            text = open(dropdownlists_file, "r", encoding="utf-8").read()
             if text is not None and len(text) > 0:
                 start_index = 0
                 while True:
-                    start_index = text.find('\n<<<<<\n', start_index)
+                    start_index = text.find("\n<<<<<\n", start_index)
                     if start_index < 0:
                         break
-                    mid_index = text.find('\n=====\n', start_index)
+                    mid_index = text.find("\n=====\n", start_index)
                     if mid_index < 0:
                         break
-                    end_index = text.find('\n>>>>>\n', mid_index)
+                    end_index = text.find("\n>>>>>\n", mid_index)
                     if end_index < 0:
                         break
-                    dropdownlist = text[start_index + 7:mid_index]
-                    existing_dropdownlists[dropdownlist] = text[mid_index + 7:end_index]
+                    dropdownlist = text[start_index + 7 : mid_index]
+                    existing_dropdownlists[dropdownlist] = text[mid_index + 7 : end_index]
                     start_index = end_index + 7
 
         # Parse the XML file
@@ -107,21 +109,24 @@ def replace_descriptions_in_ct(input_file, strings_dir):
         root = tree.getroot()
 
         # Find all CheatEntries elements
-        cheat_entries_elements = root.findall('CheatEntries')
+        cheat_entries_elements = root.findall("CheatEntries")
 
         for cheat_entries in cheat_entries_elements:
             # Find all CheatEntry elements under each CheatEntries
-            cheat_entry_elements = cheat_entries.findall('CheatEntry')
+            cheat_entry_elements = cheat_entries.findall("CheatEntry")
 
             for cheat_entry in cheat_entry_elements:
                 # Process each CheatEntry recursively
                 process_cheat_entry(cheat_entry)
 
         # Write to ct file with replaced strings
-        tree.write(f"{os.path.splitext(input_file)[0]}_cn{os.path.splitext(input_file)[1]}", encoding='utf-8', xml_declaration=True)
+        tree.write(
+            f"{os.path.splitext(input_file)[0]}_cn{os.path.splitext(input_file)[1]}",
+            encoding="utf-8",
+            xml_declaration=True,
+        )
 
         print(f"成功替换描述字符串")
-
 
     except ET.ParseError as e:
         print(f"XML 解析错误: {e}")
@@ -132,6 +137,7 @@ def replace_descriptions_in_ct(input_file, strings_dir):
     except Exception as e:
         print(f"处理文件时出错: {e}")
         sys.exit(1)
+
 
 def main():
     """
@@ -144,13 +150,11 @@ def main():
 使用示例:
   python replace_strings.py input.ct output.txt
   python replace_strings.py cheat_table.ct descriptions.txt
-        """
+        """,
     )
 
-    parser.add_argument('ct_file',
-                       help='输入的 .ct 文件路径')
-    parser.add_argument('strings_dir',
-                        help='替换的文本文件目录')
+    parser.add_argument("ct_file", help="输入的 .ct 文件路径")
+    parser.add_argument("strings_dir", help="替换的文本文件目录")
 
     args = parser.parse_args()
 
@@ -165,6 +169,7 @@ def main():
 
     # Extract descriptions
     replace_descriptions_in_ct(args.ct_file, args.strings_dir)
+
 
 if __name__ == "__main__":
     main()
