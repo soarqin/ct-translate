@@ -27,7 +27,7 @@ def replace_descriptions_in_ct(input_file, strings_dir):
         description_element = cheat_entry.find("Description")
 
         if description_element is not None and description_element.text:
-            description_text = description_element.text.strip()
+            description_text = description_element.text
             has_quotes = description_text.startswith('"') and description_text.endswith('"')
             if has_quotes:
                 description_text = description_text[1:-1]
@@ -68,11 +68,11 @@ def replace_descriptions_in_ct(input_file, strings_dir):
         exclude_strings = {}
         existing_strings = {}
         existing_dropdownlists = {}
-        exclude_file = os.path.join(strings_dir, "exclude.txt")
-        if os.path.exists(exclude_file):
-            with open(exclude_file, "r", encoding="utf-8") as f:
-                for line in f.readlines():
-                    exclude_strings[line.strip()] = True
+        # exclude_file = os.path.join(strings_dir, "exclude.txt")
+        # if os.path.exists(exclude_file):
+        #     with open(exclude_file, "r", encoding="utf-8") as f:
+        #         for line in f.readlines():
+        #             exclude_strings[line] = True
 
         strings_file = os.path.join(strings_dir, "strings.txt")
         if not os.path.exists(strings_file):
@@ -81,11 +81,12 @@ def replace_descriptions_in_ct(input_file, strings_dir):
 
         with open(strings_file, "r", encoding="utf-8") as f:
             for line in f.readlines():
+                line = line.rstrip('\r\n')
                 if line.startswith("< "):
-                    original_string = line[2:].strip()
+                    original_string = line[2:]
                 elif line.startswith("> "):
                     if original_string is not None:
-                        new_string = line[2:].strip()
+                        new_string = line[2:]
                         existing_strings[original_string] = new_string
                         original_string = None
         dropdownlists_file = os.path.join(strings_dir, "dropdownlists.txt")
