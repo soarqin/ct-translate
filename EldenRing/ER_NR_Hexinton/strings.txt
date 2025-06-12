@@ -1,5 +1,5 @@
-< [ Enable ] - Elden Ring Nighreign - Hexinton v0.1
-> [ 开启 ] - 艾尔登法环黑夜君临 - Hexinton v0.1
+< [ Enable ] - Elden Ring Nighreign - Hexinton v0.4
+> 【 开启 】 - 艾尔登法环黑夜君临 - Hexinton v1.1.0
 < Player
 > 玩家
 < Player Id
