@@ -1,0 +1,110 @@
+            <CheatEntry>
+              <ID>54</ID>
+              <Description>"Night Tide Multiplier"</Description>
+              <Options moHideChildren="1"/>
+              <VariableType>Auto Assembler Script</VariableType>
+              <AssemblerScript>[ENABLE]
+
+aobscanmodule(TimeMulti,nightreign.exe,F3 0F 59 0D ?? ??  ??  ?? F3 0F 2C F1) // should be unique
+alloc(newmem,$1000,TimeMulti)
+registersymbol(MultiTimer reader1)
+label(MultiTimer)
+label(reader1)
+label(code)
+label(return)
+
+newmem:
+
+code:
+mulss xmm1,[MultiTimer]//[nightreign.exe+3219640]
+jmp return
+
+reader1:
+readmem(TimeMulti,8)
+
+MultiTimer:
+dd (float)1000
+
+TimeMulti:
+  jmp newmem
+  nop 3
+return:
+registersymbol(TimeMulti)
+
+[DISABLE]
+
+TimeMulti:
+ readmem(reader1,8)
+  //db F3 0F 59 0D 71 CE BA 02
+
+unregistersymbol(*)
+dealloc(*)
+
+{
+// ORIGINAL CODE - INJECTION POINT: nightreign.exe+66C7C7
+
+nightreign.exe+66C798: 48 8B CB                 - mov rcx,rbx
+nightreign.exe+66C79B: 48 89 B4 24 A8 00 00 00  - mov [rsp+000000A8],rsi
+nightreign.exe+66C7A3: 4C 89 74 24 70           - mov [rsp+70],r14
+nightreign.exe+66C7A8: 0F 29 7C 24 50           - movaps [rsp+50],xmm7
+nightreign.exe+66C7AD: E8 DE 34 FF FF           - call nightreign.exe+65FC90
+nightreign.exe+66C7B2: 48 8B 2F                 - mov rbp,[rdi]
+nightreign.exe+66C7B5: 0F 28 CE                 - movaps xmm1,xmm6
+nightreign.exe+66C7B8: F3 0F 59 8B 18 01 00 00  - mulss xmm1,[rbx+00000118]
+nightreign.exe+66C7C0: 0F 28 F8                 - movaps xmm7,xmm0
+nightreign.exe+66C7C3: 4C 8B 77 08              - mov r14,[rdi+08]
+// ---------- INJECTING HERE ----------
+nightreign.exe+66C7C7: F3 0F 59 0D 71 CE BA 02  - mulss xmm1,[nightreign.exe+3219640]
+// ---------- DONE INJECTING  ----------
+nightreign.exe+66C7CF: F3 0F 2C F1              - cvttss2si esi,xmm1
+nightreign.exe+66C7D3: 85 F6                    - test esi,esi
+nightreign.exe+66C7D5: 7E 7F                    - jle nightreign.exe+66C856
+nightreign.exe+66C7D7: 48 8B CF                 - mov rcx,rdi
+nightreign.exe+66C7DA: E8 71 8A A4 01           - call nightreign.exe+20B5250
+nightreign.exe+66C7DF: 48 8B 57 08              - mov rdx,[rdi+08]
+nightreign.exe+66C7E3: C6 44 24 40 01           - mov byte ptr [rsp+40],01
+nightreign.exe+66C7E8: 4C 8B DA                 - mov r11,rdx
+nightreign.exe+66C7EB: 49 C1 EB 0C              - shr r11,0C
+nightreign.exe+66C7EF: 4C 8B D2                 - mov r10,rdx
+}
+</AssemblerScript>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>55</ID>
+                  <Description>"Multiplier (1000 = x1)"</Description>
+                  <DropDownList DescriptionOnly="1" DisplayValueAsItem="1">1:x0.001
+100:x0.1
+250:x0.25
+500:x0.5
+1000:x1
+5000:x5
+10000:x10
+50000:x50
+100000:x100
+</DropDownList>
+                  <ShowAsSigned>0</ShowAsSigned>
+                  <VariableType>Float</VariableType>
+                  <Address>MultiTimer</Address>
+                  <Hotkeys>
+                    <Hotkey>
+                      <Action>Set Value</Action>
+                      <Keys>
+                        <Key>192</Key>
+                      </Keys>
+                      <Value>1</Value>
+                      <ID>0</ID>
+                      <ActivateSound>Activate</ActivateSound>
+                    </Hotkey>
+                    <Hotkey>
+                      <Action>Set Value</Action>
+                      <Keys>
+                        <Key>17</Key>
+                        <Key>192</Key>
+                      </Keys>
+                      <Value>1000</Value>
+                      <ID>1</ID>
+                    </Hotkey>
+                  </Hotkeys>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>

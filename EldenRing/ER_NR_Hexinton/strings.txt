@@ -92,3 +92,7 @@
 > [ 加入Discord支持我们 ]
 < RelicID
 > 
+< Night Tide Multiplier
+> 控制缩圈速率
+< Multiplier (1000 = x1)
+> 倍率（1000=1倍）
