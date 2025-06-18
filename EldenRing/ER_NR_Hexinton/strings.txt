@@ -1,5 +1,5 @@
-< [ Enable ] - Elden Ring Nighreign - Hexinton v0.4
-> 【 开启 】 - 艾尔登法环黑夜君临 - Hexinton v1.1.0
+< [ Enable ] - Elden Ring Nighreign - Hexinton v0.5
+> 【 开启 】 - 艾尔登法环黑夜君临 - Hexinton v1.2.0
 < Player
 > 玩家
 < Player Id
@@ -96,3 +96,33 @@
 > 控制缩圈速率
 < Multiplier (1000 = x1)
 > 倍率（1000=1倍）
+< Recovery Hp/Sp/Mp
+> 恢复血量/专注值/精力
+< Inf revivify
+> 无限复活
+< Poison Circle is invalid
+> 毒圈无伤害
+< Modify the character's initial equipment
+> 修改角色初始装备
+< Role
+> 职业
+< LV
+> 等级
+< Rweapon1
+> 右手武器1
+< Lweapon1
+> 左手武器1
+< Rweapon2
+> 右手武器2
+< talisman1
+> 护符1
+< talisman2
+> 护符2
+< Revise
+> 应用修改
+< Undo all changes
+> 还原改动
+< wpID
+> 
+< ringID
+> 
