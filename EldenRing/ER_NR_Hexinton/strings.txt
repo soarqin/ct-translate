@@ -1,5 +1,5 @@
 < [ Enable ] - Elden Ring Nighreign - Hexinton v0.5
-> 【 开启 】 - 艾尔登法环黑夜君临 - Hexinton v1.3.0
+> 【 开启 】 - 艾尔登法环黑夜君临 - Hexinton v1.3.1
 < Player
 > 玩家
 < Player Id
@@ -101,7 +101,9 @@
 < Inf revivify
 > 无限复活
 < Poison Circle is invalid
-> 毒圈无伤害
+> 毒圈无效
+< Remove Nightrain dmg
+> 移除黑夜雨伤害
 < Modify the character's initial equipment
 > 修改角色初始装备
 < Role
